@@ -1,6 +1,20 @@
 ---
-title: Welcome to Quartz
+title: The Ashen Campaign Archive
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Common Locations:
+
+Players:
+- [[Chenris-Tallfellow]]
+- [[Kal-Korrigan]]
+- [[Mordecai-Reverance]]
+- [[Wurinn-'Drache'-Fuuldrusch]]
+- [[Aiden-Knight]]
+
+Locations:
+- [[Organisation-of-Free-Cities-(OFC)]]
+- [[The-Dawn-Empire]]
+- [[Ehobel]]
+- [[Uvam-Dynasty]]
+- [[The-Desert]]
+
