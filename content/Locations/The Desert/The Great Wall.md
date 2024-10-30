@@ -1,0 +1,1 @@
+A mysterious and large wall that separates the [[Verdant Peninsula]] from [[The Desert]].

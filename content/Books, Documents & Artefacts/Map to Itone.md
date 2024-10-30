@@ -1,0 +1,1 @@
+Found in [[Master Enel Cubus]]'s desk in [[Blackwall]]. It is assumed this is where he went on his research trip 5 years ago. 

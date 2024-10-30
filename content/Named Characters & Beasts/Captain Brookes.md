@@ -1,0 +1,1 @@
+One of the guards that went missing investigating the occurrence in [[New hall]]. He went missing along side [[Deputy Bridges]]

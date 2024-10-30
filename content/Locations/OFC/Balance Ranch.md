@@ -1,0 +1,1 @@
+A ruined town that [[The Party]] explores as a part of a quest given by the [[Adventurers Guild]]. This is also where [[the party]] first meets [[Kal Korrigan|Kal]]. 

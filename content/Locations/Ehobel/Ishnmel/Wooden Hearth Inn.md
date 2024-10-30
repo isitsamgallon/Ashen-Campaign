@@ -1,0 +1,1 @@
+A very fancy Inn found in [[Ishnmel]]. [[Wurinn 'Drache' Fuuldrusch]] and [[Mordecai Reverence]] first went here to learn more about [[The All Father]].

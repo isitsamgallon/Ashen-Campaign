@@ -1,0 +1,7 @@
+Seems to be another dimension linked to [[Chronovorus]]. [[The Party]] went into this dimension to gain more of [[The Pages]] to use in the [[The Black Ritual]]. Inside this dimension [[The Party]] found the same house in various states of decay belonging to a family thats long since dead. 
+
+[[The Party]] soon learn this families story as they visit them tat different points in their life. Here are the stages they see and in order of when they were witnessed:
+- The house is completely derelict. [[The Ethertwist Haunter]] is waiting for them 
+- The House is mostly fallen down and [[The Party]] accounts the family as either half dead of ghosts. The father has one of the pages
+- The house is ver nicely put together. [[Mordecai Reverence]] manages to sneak his way in to find a huge feast awaiting him. Soon the land is ravaged by war and Mordecai manages to convince the family that he is the safest place to keep one of the pages. 
+- The House is still being built. [[The Party]] approach the family to find out that they escaped from [[Snowport]] using [[The Golden Fleet]]. it was such a hellish journey that they made a pact with Chronovorus for safe passage in return they will give their second born's life to him. this child would ended up being the The Ethertwist Haunter.

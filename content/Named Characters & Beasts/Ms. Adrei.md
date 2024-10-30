@@ -1,0 +1,1 @@
+Damsel in distress who fell for a bandit leader that robbed her in [[Ehobel]]

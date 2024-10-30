@@ -1,0 +1,1 @@
+A town in [[The Dawn Empire]], [[Captain Junior]] is from here.

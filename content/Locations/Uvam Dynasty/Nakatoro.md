@@ -1,0 +1,1 @@
+A town in [[Uvam Dynasty]], its pronounced "Yakitori"

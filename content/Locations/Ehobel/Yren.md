@@ -1,0 +1,1 @@
+A small town in [[Ehobel]] where [[The Party]] first landed.

@@ -1,0 +1,1 @@
+Link to the WIP book adaptation of the campaign Tom and [[Sam Gallon]] are working on. https://docs.google.com/document/d/1S9rIVa-zMFQdggU6QGpaDy43tW-Uqrtv7RBgyYPIiL4/edit?usp=sharing

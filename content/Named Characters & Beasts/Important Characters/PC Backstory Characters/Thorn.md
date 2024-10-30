@@ -1,0 +1,1 @@
+Seemingly someone [[Kal Korrigan]] used to know in [[Lost Haven]], credited as an author of [[Mousebert and the Emperor's Folly]]

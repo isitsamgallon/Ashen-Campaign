@@ -1,0 +1,1 @@
+A large desert found to the south of [[The Dawn Empire]] and [[Ehobel]]. This Desert is home to [[Ember Peak]] where [[Ignatius]] was first able to enter [[The Amber Realms]], thanks to [[The Ashen Cult]]. 

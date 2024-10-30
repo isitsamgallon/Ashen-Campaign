@@ -1,0 +1,1 @@
+The horse [[Kal Korrigan]] befriends in [[Session 21]].

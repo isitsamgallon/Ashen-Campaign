@@ -1,0 +1,1 @@
+One of [[Chenris Tallfellow]]'s [Artificer Infusions](http://dnd5e.wikidot.com/artificer:infusions) that he uses to create Wyvern Poison and health potions. 

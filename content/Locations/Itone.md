@@ -1,0 +1,1 @@
+The island where [[Uti, The Dragon]] lives. It is described like the following: "Isolated and inhospitable, [[Itone]] is but a graveyard of a forgotten civilisation, a silent testament to an era lost in the mists of time."

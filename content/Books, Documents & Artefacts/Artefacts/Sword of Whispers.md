@@ -1,0 +1,1 @@
+First mentioned by [[Terathra]] as something that [[Uti, The Dragon]] had long lost and spent most of its time trying to recover. It is said to be a powerful weapon.

@@ -1,0 +1,1 @@
+The Firesoul Greatsword was a marvel of divine craftsmanship and made by [[Ignatius]] at [[Ember Peak]]. Its blade, forged from the strongest metals and enchanted with the darkest incantations, glowed with an eerie light. Those struck by its edge were consumed by flames, their bodies reduced to ash and their souls bound to [[Ignatius]]'s will in this [[Ash Spawn]] army.

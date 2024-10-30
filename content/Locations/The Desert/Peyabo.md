@@ -1,0 +1,1 @@
+A place found on an [[Old Pyramid Map]] found in [[The Pyramid]]. 

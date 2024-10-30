@@ -1,0 +1,1 @@
+A place found on another continent than where the campaign is set.

@@ -1,0 +1,1 @@
+Not much is known about this location, It could be connected to [[The Golden Fleet]]. Found by looking at the map.

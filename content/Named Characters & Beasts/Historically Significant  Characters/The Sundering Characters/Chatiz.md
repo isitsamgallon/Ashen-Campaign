@@ -1,0 +1,1 @@
+A Goblin general from the age of [[The Sundering]] that chose to align with [[Ignatius]] to help preserve his tribe. He even sacrificed his eldest son to prove that he was willing to do what it took and to show his loyalty. Now allied, [[The Goblin Resistance]] of [[the Ashen Cult]], disrupted coalition supply lines, weakening the resolve of their foes.

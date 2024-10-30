@@ -1,0 +1,1 @@
+General MIdus was one of the lead tacticians for [[The Coalition]] during [[The Sundering]] and faced of against [[Seifer Willow †]] many times during the war.

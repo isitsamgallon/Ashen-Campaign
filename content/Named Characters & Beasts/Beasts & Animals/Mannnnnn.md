@@ -1,0 +1,1 @@
+The Gecko that joined [[Kal Korrigan]] for a short time outside of [[Saleh Tower]].

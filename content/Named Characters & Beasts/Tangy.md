@@ -1,0 +1,1 @@
+The priest that represents [[Lorwyn]] in [[The All Father Temple]].

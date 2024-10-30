@@ -1,0 +1,1 @@
+A map that was found in [[The Pyramid]]. It's very faded but they can make out 3 names next to a [[Ember Peak|volcano]]. 

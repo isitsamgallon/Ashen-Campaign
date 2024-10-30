@@ -1,0 +1,1 @@
+The ancient cult of [[Ignatius]], who are dedicated to bringing about [[The Sundering]].

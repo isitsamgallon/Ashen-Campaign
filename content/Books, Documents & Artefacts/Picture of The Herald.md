@@ -1,0 +1,1 @@
+A picture of the [[Herald]], [[The Ethertwist Haunter]].

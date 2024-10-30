@@ -1,0 +1,1 @@
+A name given to the mountain range in the middle of the [[Verdant Peninsula]].

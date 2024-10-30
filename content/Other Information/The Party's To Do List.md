@@ -1,0 +1,10 @@
+- Deal with [[The Ethertwist Haunter]]
+- Deal with the Dwarves of [[Fort Moldan]]
+- Create a trade deal between [[Organisation of Free Cities (OFC)]] and [[Ehobel]]
+- Deal with the [[Angel Under The Well]]
+- Go to [[Lost Haven]] and finish [[Kal Korrigan]]'s business
+- Travel to [[Itone]]
+- Enact the rest of the [[OFC Plans]]
+- Venture to [[The Desert]]
+- move [[Steve Ulan]] hear cult to [[Foxtail Orchards]] to increase trade and tourism in the area
+- learn what [[Xekai]]'s plan/ role is 

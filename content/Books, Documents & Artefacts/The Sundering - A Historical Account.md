@@ -1,0 +1,25 @@
+The Sundering stands as one of the most cataclysmic events in the annals of history, a period of chaos and devastation that ushered in the Seventh Era. Over the course of three harrowing years, the world was irrevocably transformed by the machinations of [[the Ashen Cult]] and their dark deity, [[Ignatius]], the Cleansing Flame, Destroyer of Worlds.
+
+It began with [[the Ashen Cult]]’s audacious plan to harness the power of the mighty volcano, [[Ember Peak]]. Their objective was to shatter the [[Skyfall Ward]], a mystical barrier that separated the gods from the mortal realm. The [[Skyfall Ward]], held together by ancient pillars and weak magical crystals, was vulnerable. The cult's sinister goal was to summon [[Ignatius]] into the world, believing that his fiery wrath would cleanse the land, leaving them as its new rulers.
+
+Once the cult succeeded in breaching the [[Skyfall Ward]], [[Ignatius]] descended upon the mortal realm, and the world was plunged into a fiery nightmare. The cultists, who had long worshiped [[Ignatius]], welcomed their transformation into [[Ash Spawn]]—zombie-like beings formed from their own ashes. They believed this transformation granted them immortality, as [[Ash Spawn]] did not age or succumb to disease.
+
+For the first year, [[Ignatius]] and his newly formed [[Ash Spawn]] army remained at [[Ember Peak]], consolidating their power. They raided villages across [[The Desert]], converting the slain into more [[Ash Spawn]] and crafting powerful weapons from the molten minerals beneath the volcano. Among these was the [[Firesoul Greatsword]], a fearsome weapon imbued with dark magic that could turn enemies into [[Ash Spawn]] upon contact.
+
+As the second year dawned, the [[Ash Spawn]] army expanded its territory, capturing forts and towns across [[The Desert]]. They halted at the [[Verdant Peninsula]], recognizing that their forces were not yet prepared to confront the formidable Dawn Empire and the elven kingdom of [[Ehobel]]. Instead, they fortified their positions and armed their troops, a decision later deemed a strategic error, as [[the coalition]] of defenders was initially unprepared for the [[Ash Spawn]] threat.
+
+[[The coalition]], formed in the latter half of the second year, was a monumental alliance between major factions, including [[Ehobel]], [[The Dawn Empire]] Empire, mercenary bands from the Tulan and Emerald Forts, the [[Uvam Dynasty]], and the magical university of [[Strixhaven]]. This unprecedented unity brought together humans and elves, commanded by some of the realm's most brilliant leaders: Emperor [[Galen Verix]], General [[Caden SteelBreaker †]], [[Genevieve †]] of [[the Emerald Fort]], and Empress [[Ashira Yelris †]] of [[Ehobel]].
+
+Their first encounter with the [[Ash Spawn]] army, led by the cunning [[Seifer Willow †]], was disastrous. Seifer's strategic genius led to the annihilation of a large coalition force through a devastating sacrificial explosion, decimating [[the coalition]]'s morale and numbers.
+
+[[Ignatius]], sensing the surge of power from Seifer’s sacrifice, swiftly moved to the battlefield, where he resurrected the fallen coalition soldiers as new [[Ash Spawn]]. [[The coalition]] faced continuous setbacks as the [[Ash Spawn]]'s numbers grew with each battle, and the situation worsened with internal treachery.
+
+[[The Goblin Resistance]], led by General [[Chatiz]], betrayed [[the coalition]] in hopes of currying favor with [[Ignatius]]. [[Chatiz]]’s act of devotion, sacrificing his own son to become an [[Ash Spawn]], marked a turning point. The goblins disrupted coalition supply lines and defenses, leading to the collapse of several key cities and the fall of [[The Dawn Empire]] Empire’s territories.
+
+As [[the coalition]] forces dwindled, [[Ignatius]] prepared for a decisive strike. The siege of [[Dawnhaven]], [[The Dawn Empire]] Empire’s capital, was [[the coalition]]'s last stand. For four grueling months, the defenders held out against the relentless [[Ash Spawn]]. In a final desperate move, the remaining heroes launched a counterattack, carving a path through the enemy to confront [[Ignatius]] himself.
+
+The battle against [[Ignatius]] was fierce and legendary. Despite their valor, [[the coalition]] heroes were no match for the god's might. However, through a clever ruse orchestrated by [[Galen Verix]] and [[Genevieve †]], they created an opening. Galen, possibly aided by divine intervention or sheer heroism, struck a mortal blow to [[Ignatius]], piercing his heart and decapitating him. With [[Ignatius]]'s physical form destroyed, the [[Ash Spawn]] disintegrated, and their souls were freed.
+
+[[Ignatius]]’s parting words were a dire warning: "You may have killed this physical form, but I will be back. Mark my words, you cannot kill a GOD." Yet, in that moment, [[the coalition]] had achieved a miraculous victory, bringing an end to the Sundering and paving the way for the Seventh Era.
+
+The tale of the Sundering serves as a stark reminder of the devastating consequences of unchecked ambition and the enduring hope that even in the darkest times, unity and courage can triumph over chaos and destruction.

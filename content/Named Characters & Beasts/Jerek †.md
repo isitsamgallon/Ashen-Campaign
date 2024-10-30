@@ -1,0 +1,1 @@
+Dead member of [[Merek The Wise]]'s party with [[Derek]] and [[Serek]]

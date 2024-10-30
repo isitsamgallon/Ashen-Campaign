@@ -1,0 +1,1 @@
+Ancient devises that use the power of [[Terathra]] to create the [[Skyfall Ward]] that keeps [[The Ashen Pantheon]] from being able to touch the material plane 

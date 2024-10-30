@@ -1,0 +1,1 @@
+Owns a [[Adventurers Guild]] in [[Steelwick]].

@@ -1,0 +1,1 @@
+Anselis of the Ebon Quill, Keeper of Forgotten Lore. He is the writer of [[A Chronicle of Akin Netch - The Man of Many Faces]].

@@ -1,0 +1,1 @@
+The [[Herald]] of [[Seraphina]] that acts as healing conduit for the Goddess. 
