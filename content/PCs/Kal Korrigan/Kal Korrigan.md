@@ -44,7 +44,7 @@ Further on in the sessions, it is discovered that korrigan is a full fey being. 
 
 It was revealed that korrigan was the [[Herald]] of Lorwyn, he made a deal with the goddess to come back to life as her herald and perform a task for her. In exchange, Kal can resolve his unfinished business. It is later revealed that Korrigans deal with Lorwyn involved destroying the tower in [[Lost Haven]] and in exchange, Korrigan can finish his unfinished business.
 
-Korrigan seems to be connected to lost haven significantly, [[Terence Witherfeather]] said that Kal got a lot of people killed there and a book ([[Mousebert and the Emperor's Folly]]) was discovered that Kal wrote along with [[Sera]] and [[Thorn]].
+Korrigan seems to be connected to lost haven significantly, [[Terence Witherfeather]] said that Kal got a lot of people killed there and a book ([[Mousebert & the Emperor's Folly]]) was discovered that Kal wrote along with [[Sera]] and [[Thorn]].
 
 Korrigan also seems to have a special connection with [[Terathra]], the being at the centre of the planet and the power source to the [[Skyfall Ward]]. He wants to see his friend free from his prison without causing another sundering.
 
