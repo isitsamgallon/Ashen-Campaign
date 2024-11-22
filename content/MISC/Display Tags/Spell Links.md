@@ -1,6 +1,7 @@
 # A
 - Animal Friendship - https://www.dndbeyond.com/spells/animal-friendship
 - Animal Messenger - https://www.dndbeyond.com/spells/1994-animal-messenger
+- Alarm - https://www.dndbeyond.com/spells/alarm
 
 # B
 - Blindness/Deafness - https://www.dndbeyond.com/spells/2018-blindness-deafness?srsltid=AfmBOootmFg0Ojr8N-F3K0humDFCeqb5mWX8_GYY08xyvb_f7QN3Qw6Y
@@ -74,6 +75,7 @@
 - Speak with Animals - https://www.dndbeyond.com/spells/2258-speak-with-animals
 - Shocking Grasp - https://www.dndbeyond.com/spells/shocking-grasp
 - Suggestion - https://www.dndbeyond.com/spells/suggestion
+- Speak With Dead - https://www.dndbeyond.com/spells/speak-with-dead
 
 # T
 - Thaumaturgy - https://www.dndbeyond.com/spells/thaumaturgy
