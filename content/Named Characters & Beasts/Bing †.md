@@ -1,1 +1,0 @@
-A goblin that tried to shoot [[Mordecai Reverence]] with a thunder gun in [[Blackwall]]. He's with [[Goblin Mafia]].
