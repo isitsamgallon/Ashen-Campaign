@@ -11,4 +11,4 @@ He, and his commanders [[Caden SteelBreaker †]] and [[Commander Arez †]], we
 
 # Trivia
 - [[The party]] heard a rumour that the emperor does not like wizards in the city, however it is unclear why. 
-- [[The party]] heard a rumour that the [[Ivory Crest]] might be stealing from the Emperor by using a set of hidden tunnels that lead to the docks outside of the palace walls. [[Kal Korrigan]] was one of the people sent in to steal the [[Gold]] when he was still under their control.
+- [[The party]] heard a rumour that the [[Ivory Crest]] might be stealing from the Emperor by using a set of hidden tunnels that lead to the docks outside of the palace walls. [[Korrigan]] was one of the people sent in to steal the [[Gold]] when he was still under their control.

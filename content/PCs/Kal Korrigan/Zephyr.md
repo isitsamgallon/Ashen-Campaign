@@ -18,7 +18,7 @@ actions:
     desc: +4 to hit, reach 5ft, one target. hit 1d8 + 6 piercing damage
 ```
 
-A Fey Hawk that is loyal to [[Kal Korrigan]] which is native to the [[Feywild]]'s
+A Fey Hawk that is loyal to [[Korrigan]] which is native to the [[Feywild]]'s
 
 **Trivia**
 - [[Wurinn 'Drache' Fuuldrusch]] cast beast sense on Zephyr so [[The Party]] could use it to scout far away POI's

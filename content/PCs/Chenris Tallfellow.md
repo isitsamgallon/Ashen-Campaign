@@ -89,7 +89,7 @@ This dossier serves as the second report on the activities of Chenris Tallfellow
 ---
 
 **Incident at the Council**
-Subject was involved in a covert operation with companions [[Kal Korrigan]] and [[Aidan Knight]]. Successfully infiltrated council offices to gather intelligence. During the mission, subject located classified documents on territorial sales and troop movements, but inadvertently triggered an alarm system connected to [[the Dawn Empire]]. This led to an escalation of hostilities between the Empire and external parties.
+Subject was involved in a covert operation with companions [[Korrigan]] and [[Aidan Knight]]. Successfully infiltrated council offices to gather intelligence. During the mission, subject located classified documents on territorial sales and troop movements, but inadvertently triggered an alarm system connected to [[the Dawn Empire]]. This led to an escalation of hostilities between the Empire and external parties.
 
 **Confrontation with [[Xekai]]**
 During a critical encounter with [[Xekai]], a potentially dangerous member of the mysterious group known as [[The Auditors]], subject identified the use of forbidden magic and uncovered the truth behind the murder of [[Caden SteelBreaker †]]. Despite the high-stakes scenario, [[Xekai]] escaped through a portal, leaving the subject’s group with partial intelligence. Subject showed notable strategic restraint, but the situation highlights a lapse in anticipating magical tracking mechanisms.
@@ -128,7 +128,7 @@ This report provides a comprehensive update on Chenris Tallfellow's recent actio
 
 ---
 
-Following a chaotic encounter, [[the party]]’s efforts to manage a crisis came to a head. [[Mordecai Reverence]], [[Terence Witherfeather]], and [[Kal Korrigan]] managed to neutralize [[Aidan Knight]] before any further harm could occur. Chenris Tallfellow took swift action to stabilize Aidan, preventing his death. However, the arrival of a goblin mage, who increased the gravity in the area, left [[the party]] incapacitated and struggling.
+Following a chaotic encounter, [[the party]]’s efforts to manage a crisis came to a head. [[Mordecai Reverence]], [[Terence Witherfeather]], and [[Korrigan]] managed to neutralize [[Aidan Knight]] before any further harm could occur. Chenris Tallfellow took swift action to stabilize Aidan, preventing his death. However, the arrival of a goblin mage, who increased the gravity in the area, left [[the party]] incapacitated and struggling.
 
 Chenris, recognizing the use of Ancient Goblin Magic, attempted to dispel the enchantment. His efforts, though valiant, only allowed him to free one individual at a time. He succeeded in freeing Korrigan, who then attempted to attack the mage but missed as the mage turned invisible.
 
@@ -141,7 +141,7 @@ Our records show, that while they were unconscious, [[the party]] were transfere
 **Planning an Escape:**
 Mordecai and Drache conspired in Draconic, while Korrigan and Chenris communicated in Primordial. Their plan involved Korrigan summoning a bird, [[Zephyr]], for Drache to scout the area. [[Zephyr]] revealed a group of 60 goblins and a precarious door leading to the outside. The door opened to a grim scene of dead humanoid slaves, underscoring the urgency of their escape. After the goblins passed, [[the party]] eliminated their captor and sent [[Zephyr]] back to retrieve their equipment.
 
-Once their belongings were recovered, [[Terence Witherfeather]] opened a portal to their gear, leading them to the [[Ancient Dwarven Stronghold]]'s library. Using a secret exit from the captain’s quarters, they escaped unnoticed, emerging in [[Steelwick]].
+Once their belongings were recovered, [[Terence Witherfeather]] opened a portal to their gear, leading them to the [[Iron Forge| Ancient Dwarven Stronghold]]Ancient Dwarven Stronghold]]'s library. Using a secret exit from the captain’s quarters, they escaped unnoticed, emerging in [[Steelwick]].
 
 **The Trial of [[Steve Ulan]]:**
 [[Steelwick]] lay deserted as night fell. [[The party]] headed to the [[Adventurers Guild]], where [[Boris Johnson]] informed them that most residents were attending the trial of [[Steve Ulan]] for the murder of [[Lord Ulan †]]. [[The party]] opted for rest, while Aidan searched for his missing horse and spent the night in a tree.
@@ -153,7 +153,7 @@ To gain entry into the courtroom, [[the party]] donned disguises. Mordecai dress
 Korrigan burst into the courtroom, declaring that the [[Goblin Mafia]] was planning an attack on the city. His dramatic interruption hastened the trial proceedings, though Steve was still sentenced to execution. As they exited, [[Xekai]] provided a note detailing Steve’s cell location and a time for a planned breakout.
 
 **Quest to [[Dustwood]] and [[Farpost]]:**
-[[The party]] met [[Xekai]], who suggested delivering a note to [[Farpost]] and gathering reinforcements from [[Dustwood]] for [[Steelwick]]. [[Xekai]] opened a portal to [[Dustwood]], expediting their journey. On the way, Chenris and [[Kal Korrigan]] struck a deal involving [[Wurinn 'Drache' Fuuldrusch]]’s soul contract, leading to Chenris learning about [[the Ancient Pillars]] and Korrigan’s hidden agendas. Their navigation faltered due to Chenris and Korrigan’s leadership, but Mordecai corrected their course.
+[[The party]] met [[Xekai]], who suggested delivering a note to [[Farpost]] and gathering reinforcements from [[Dustwood]] for [[Steelwick]]. [[Xekai]] opened a portal to [[Dustwood]], expediting their journey. On the way, Chenris and [[Korrigan]] struck a deal involving [[Wurinn 'Drache' Fuuldrusch]]’s soul contract, leading to Chenris learning about [[the Ancient Pillars]] and Korrigan’s hidden agendas. Their navigation faltered due to Chenris and Korrigan’s leadership, but Mordecai corrected their course.
 
 **Encounter with [[Merchant Guild]] Caravan:**
 [[The party]] encountered a [[Merchant Guild]] caravan loaded with weaponry, but interaction was refused. Chenris noted the heavy guard presence and inferred the caravan’s destination was [[Farpost]].
@@ -177,7 +177,7 @@ At 3 a.m., a massive black dragon sent by [[The Auditors]] arrived at the tower�
 The dragon transported [[the party]] to the [[Organisation of Free Cities (OFC)]], where [[Xekai]] and the city of [[Blackwall]] were preparing for battle. [[Genevieve †]] coordinated the defense efforts, while the [[Goblin Mafia]] attempted to strike a deal with her.
 
 **Goblin Troupe Deal:**
-After deliberation, [[the party]] decided to employ the goblins as sacrificial pawns, despite Chenris’s suggestion. The vote was 4-1 in favor of hiring the goblins, though [[Kal Korrigan]] had to be physically coerced into signing the contract.
+After deliberation, [[the party]] decided to employ the goblins as sacrificial pawns, despite Chenris’s suggestion. The vote was 4-1 in favor of hiring the goblins, though [[Korrigan]] had to be physically coerced into signing the contract.
 
 **Rest at the Minister's Rooms:**
 [[The party]] enjoyed a luxurious stay in the minister's rooms, complete with 24/7 baths. They overslept, and during the night, Aidan stole Chenris’s cloak, prompting a confrontation. Chenris, angered, led to a discussion about [[the Ethertwist Haunter]]. Aidan downplayed the issue, heading to the council room where [[Genevieve †]] awaited.
@@ -233,7 +233,7 @@ I suspect these changes stem from the harrowing events in **[[Caalona]]**, thou
 ---
 
 **Return to the Adventurers' Guild**
-Upon their return to the Adventurers' Guild, the group sought much-needed rest. By morning, their usual camaraderie had resumed, albeit with the same undertones of rivalry. **[[Mordecai Reverence]]** and **[[Kal Korrigan]]**, ever mischievous, concocted a plan to outshine Chenris by busking for their breakfast. The intent was clearly to rile him—to provoke his competitive spirit. Naturally, Chenris, overhearing their schemes, responded predictably. However, instead of escalating the situation with overt trickery or confrontation, he chose to outwit them with subtlety. He ordered the most expensive meal available, complete with a fine bottle of wine. His demeanor, though still smug, displayed an almost playful restraint.
+Upon their return to the Adventurers' Guild, the group sought much-needed rest. By morning, their usual camaraderie had resumed, albeit with the same undertones of rivalry. **[[Mordecai Reverence]]** and **[[Korrigan]]**, ever mischievous, concocted a plan to outshine Chenris by busking for their breakfast. The intent was clearly to rile him—to provoke his competitive spirit. Naturally, Chenris, overhearing their schemes, responded predictably. However, instead of escalating the situation with overt trickery or confrontation, he chose to outwit them with subtlety. He ordered the most expensive meal available, complete with a fine bottle of wine. His demeanor, though still smug, displayed an almost playful restraint.
 
 Mordecai, of course, was visibly irked by the success of Chenris’ counter-prank, but the exchange was devoid of the previous edge of malice. There is a peculiar softness to Chenris' victories now, as though he seeks to best his companions without truly damaging them—a nuance that gives me hope.
 
@@ -256,7 +256,7 @@ Chenris’ inquiry into **[[Master Enel Cubus]]’** disappearance brought him
 Chenris, rattled, fled the scene—a rare moment of vulnerability for one so often in control of his emotions. His later attempts to make sense of the encounter were marked by uncharacteristic panic, and when **Korrigan** used magic to delve into Chenris’ mind, the revelation that their thoughts had been probed at some unknown point left the entire group shaken.
 
 **[[Caalona]]’s Illusory Deception**
-Upon their arrival, [[the party]] was greeted by **[[Caalona]]**, a city notorious to the mages at [[Strixhaven]] for morphing itself to suit the current deepest yearnings of its visitors. The malleability of the environment—an obvious illusory enchantment—allowed each member to perceive a vision tailored to their specific desires. **[[Aidan Knight]]** envisioned a city of comfort, with hot springs and massage parlors to ease his newly discovered magical abilities. **[[Kal Korrigan]]**, drained of arcane energy, sought mana restoration, while **Mordecai Reverence** saw a playground designed for thrill-seeking.
+Upon their arrival, [[the party]] was greeted by **[[Caalona]]**, a city notorious to the mages at [[Strixhaven]] for morphing itself to suit the current deepest yearnings of its visitors. The malleability of the environment—an obvious illusory enchantment—allowed each member to perceive a vision tailored to their specific desires. **[[Aidan Knight]]** envisioned a city of comfort, with hot springs and massage parlors to ease his newly discovered magical abilities. **[[Korrigan]]**, drained of arcane energy, sought mana restoration, while **Mordecai Reverence** saw a playground designed for thrill-seeking.
 
 Chenris, however, was drawn to something more sinister. His recent fixation on the regenerative powers of the **[[Elven Cannibals]]** led him to envision a “Magical Cannibal School,” where robed scholars eagerly handed him forbidden knowledge. Though alarming, this vision showcased Chenris’ obsessive need for knowledge—a trait that remains both his greatest asset and deepest flaw.
 
@@ -272,7 +272,7 @@ The rivalry between Mordecai and Chenris has been a source of tension within [[t
 
 Chenris re-entered the illusory city and encountered a fake version of Mordecai, further confirming his suspicions of the city’s deceptive nature. Using his wits, Chenris tested the imposter with a specific query that only the true Mordecai would know, forcing the illusion to crumble before him. The fact that he did not fall prey to the charm of the illusion demonstrates a growing resilience in Chenris, one that might allow him to overcome the darker inclinations of his mind.
 
-Outside the illusion, the situation became increasingly dangerous as **[[Kal Korrigan]]** and **[[Aidan Knight]]** remained ensnared by the false visions. Though Chenris and Mordecai succeeded in escaping the illusions themselves, they struggled to convince their companions of the reality. Korrigan, in particular, proved resistant—his paranoia deepened by the city's pervasive magic.
+Outside the illusion, the situation became increasingly dangerous as **[[Korrigan]]** and **[[Aidan Knight]]** remained ensnared by the false visions. Though Chenris and Mordecai succeeded in escaping the illusions themselves, they struggled to convince their companions of the reality. Korrigan, in particular, proved resistant—his paranoia deepened by the city's pervasive magic.
 
 **The [[Illusion Master]]: A Choice Presented**
 The climax of the ordeal came when Chenris encountered the **[[Illusion Master]]**, the malevolent architect of [[Caalona]]’s ever-shifting façade. In a moment that could have revealed Chenris’ true nature, he was offered a tempting deal: remain in [[Caalona]], where all his dreams could be realized, free from the constraints of reality. The [[Illusion Master]] promised protection and power—both tantalizing to someone of Chenris’ ambition.
@@ -280,12 +280,12 @@ The climax of the ordeal came when Chenris encountered the **[[Illusion Master]
 Yet, Chenris did not accept. His skepticism, once again, overpowered his darker impulses. He rejected the offer, citing the artificial nature of the peace being offered. While I do not doubt that Chenris’ desire for knowledge and power remains strong, this moment reveals that he is not beyond hope. He may yet possess the discernment to distinguish between genuine growth and hollow shortcuts.
 
 **Consequences & Strained Alliances**
-Upon reuniting with his companions, Chenris found **Mordecai Reverence** drenched in the blood of elves—an unsettling result of the **Ethertwist Haunter’s** manipulations. Tensions flared as the group quarreled over a mysterious note, **Leotoris’ Last Problem**, a matter that Chenris has obsessively guarded. When **[[Kal Korrigan]]** attempted to destroy the note, Mordecai intervened, taking an arrow for it and falling unconscious.
+Upon reuniting with his companions, Chenris found **Mordecai Reverence** drenched in the blood of elves—an unsettling result of the **Ethertwist Haunter’s** manipulations. Tensions flared as the group quarreled over a mysterious note, **Leotoris’ Last Problem**, a matter that Chenris has obsessively guarded. When **[[Korrigan]]** attempted to destroy the note, Mordecai intervened, taking an arrow for it and falling unconscious.
 
 Chenris, though clearly shaken, healed Mordecai—an action underscored by his sarcastic comment about the [[Illusion Master]]’s intentions. This was not an act of compassion, but rather a calculated and spiteful decision to avoid proving his adversary’s grim predictions correct. Nonetheless, Chenris' ability to weigh the broader consequences of his actions is a positive development.
 
 **Arrival in [[SIlkhorn]]**
-After the dramatic conclusion of the events in **[[Caalona]]**, [[the party]] heads toward the bustling docks of **[[Silkhorn]]**, where **Wurinn "Drache" Fuuldrusch** awaits. **Mordecai Reverence**, eager to reconnect, rushes to embrace Drache and recount their harrowing adventures. Meanwhile, **[[Kal Korrigan]]**, ever meticulous, creates a list of the group’s priorities titled "What good in the world can we do?" The first task: aiding Drache in breaking **[[Emmeline]]** out of captivity.
+After the dramatic conclusion of the events in **[[Caalona]]**, [[the party]] heads toward the bustling docks of **[[Silkhorn]]**, where **Wurinn "Drache" Fuuldrusch** awaits. **Mordecai Reverence**, eager to reconnect, rushes to embrace Drache and recount their harrowing adventures. Meanwhile, **[[Korrigan]]**, ever meticulous, creates a list of the group’s priorities titled "What good in the world can we do?" The first task: aiding Drache in breaking **[[Emmeline]]** out of captivity.
 
 As [[the party]] begins to navigate the streets of [[Silkhorn]], an unsettling atmosphere greets them. The townsfolk, eerily cheerful and clad in uniform brown robes, prompt concern. **Chenris Tallfellow**, ever curious but growing clumsy with his rising self-doubt, causes a small commotion by accidentally pulling down a passerby’s trousers while attempting to investigate. His muttered apology—“Can’t do anything right these days…”—betrays the inner turmoil gnawing at him.
 

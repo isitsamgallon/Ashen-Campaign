@@ -1,7 +1,7 @@
 [[Chenris Tallfellow]]
 [[Mordecai Reverence]]
 [[Wurinn 'Drache' Fuuldrusch]]
-[[Kal Korrigan]]
+[[Korrigan]]
 [[Aidan Knight]]
 [[Bruce]]
 [[Steve Ulan]]

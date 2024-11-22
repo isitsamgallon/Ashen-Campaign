@@ -4,7 +4,7 @@ The city itself is made up of the residential district and then the university a
 
 [[Chenris Tallfellow]] is known to have a dark past with the university when his beloved [[Professor Varitan Leotoris]] sacrificed himself to save chenris in a dungeon field trip. This act ultimately led to chenris being banned from the university. 
 
-Members of Strixhaven were first seen when [[The Party]] left [[The Black Forest]] and burned down a building in [[Session 1]]. Strixhaven mages appeared out of nowhere and gave Chenris an evil eye before putting out the fire and leaving. They were later seen spying on [[The Party]] when they had made camp in [[Session 2]]. [[The Party]] officially met Strixhaven mages in [[Session 3]] when they came to investigate the [[Ancient Dwarven Stronghold]] under [[Steelwick]]. [[The Party]] finally visits the university in [[Session 5]]
+Members of Strixhaven were first seen when [[The Party]] left [[The Black Forest]] and burned down a building in [[Session 1]]. Strixhaven mages appeared out of nowhere and gave Chenris an evil eye before putting out the fire and leaving. They were later seen spying on [[The Party]] when they had made camp in [[Session 2]]. [[The Party]] officially met Strixhaven mages in [[Session 3]] when they came to investigate the[[Iron Forge| Ancient Dwarven Stronghold]] under [[Steelwick]]. [[The Party]] finally visits the university in [[Session 5]]
 
 **Known Previous Locations:**
 - Very close to [[Oceanvale]].

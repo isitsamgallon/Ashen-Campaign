@@ -1,4 +1,5 @@
 # Interactive Map
+
 ```leaflet  
 id: TheAmberRealmsMap ### Must be unique with no spaces  
 image: [[ZoomedOutMapOfAmberRealms.jpg]] ### Link to the map image file  

@@ -8,7 +8,7 @@ They could be related to [[Chatiz]] and [[The Goblin Resistance]] from back duri
 - [[Blackwall]]
 - [[Minatota]]
 - [[Steelwick]]
-	- [[Ancient Dwarven Stronghold]]
+	- [[Iron Forge| Ancient Dwarven Stronghold]]
 	- [[Verdant Spine]]
 
 ### Known Business Partners

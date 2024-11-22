@@ -7,7 +7,7 @@ It's very unlikely anyone who fought in [[The Sundering]] became a herald becaus
 # Currently known heralds:
 - [[The Ethertwist Haunter]] - [[Chronovorus]] 
 - [[Angel Under The Well]] - [[Somnora]] (Theorised)
-- [[Kal Korrigan]] - [[Lorwyn]]
+- [[Korrigan]] - [[Lorwyn]]
 - [[Healing Guardian]] - [[Seraphina]]
 
 

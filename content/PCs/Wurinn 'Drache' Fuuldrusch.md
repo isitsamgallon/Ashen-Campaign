@@ -14,7 +14,7 @@ Drache is 46 Years and not a lot is known about him except that he used to spend
 
 Wurinn Fuuldrusch known primarily by his nickname Drache, is known to have ties to the Fort tulan mercenary group yet not much is currently known about his relations. He has spoken to [[Mordecai Reverence]] on occasion about the history of him and fort tulan but has not explicitly stated what occurred. He spent a large majority of his life working as a soldier but was always inclined to fight for the so called "little man", he is an optimistic man who attempts to see the good in people, if not a bit naive. 
 
-Sometimes tension is caused by his intense moral compass as [[The Party]] may tend to act irrationally or with severe ill intent such as the murder of the kobolds during a random encounter, for which he still has not fully forgiven [[Kal Korrigan]] for the brutal way in which he acted.
+Sometimes tension is caused by his intense moral compass as [[The Party]] may tend to act irrationally or with severe ill intent such as the murder of the kobolds during a random encounter, for which he still has not fully forgiven [[Korrigan]] for the brutal way in which he acted.
 
 He is a charismatic and albeit somewhat flirtatious character whether he intends to or not and has his own way of sweet talking various characters, if all else fails he can tap into his more agressive side and utilize his size to be more of an intimidator, however it is rare he will use this.
 
@@ -34,9 +34,9 @@ Drache was a part of the original trio that was kidnapped by [[The Red Cult]] at
 # Trivia
 - Chenris and Drache have a card game they always play when the the rest of [[The Party]] are busy. The card game is loosely based of Blackjack, but was engineered by Chenris so that he could win nearly all of the time. Some times Chenris lets him win so they keep playing. 
 - [[James Absolom]] has died many times having to roleplay characters Drache is flirting with.
-- According to [[Kal Korrigan]] Drache's scales are salty and freezing
+- According to [[Korrigan]] Drache's scales are salty and freezing
 - Drache may not be able to spell his name. (he may be mildly dyslexic but in denial)
-- He is currently indoctrinated by the [[Ivory Crest]] mislead by their ideals of supposedly "freeing slaves" and "helping the poor" however [[Kal Korrigan]] informed [[The Party]] they are a thieves guild and he is now magically bound to them.
+- He is currently indoctrinated by the [[Ivory Crest]] mislead by their ideals of supposedly "freeing slaves" and "helping the poor" however [[Korrigan]] informed [[The Party]] they are a thieves guild and he is now magically bound to them.
 - He currently wields an obsidian great-sword, gained from [[Caden SteelBreaker †]] himself after fighting his animated corpse at the council building. 
 - He frequently has to carry Mordecai as he injures or incapacitates himself on many occasions, including being an incredible lightweight regarding alcohol.
 - Drache gained a dope ass bowler hat from a random encounter with goblins dancing around a fire after chenris repaired the worn out hat they provided him.

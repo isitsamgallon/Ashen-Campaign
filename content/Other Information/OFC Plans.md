@@ -58,7 +58,7 @@ Minister of Intelligence; [[Aidan Knight]]
 - **Initiates**: Trainees hand selected from the recruitment system that show aptitude in stealth/agility/deception etc. Officers and above can also send recommendations for hire if they find someone who shows potential (A potential way to reform criminals)
 
 # Environment 
-Minister of Agriculture & Environment; [[Kal Korrigan]] 
+Minister of Agriculture & Environment; [[Korrigan]] 
 
 **R.A.W.R. Rejuvenation of Agricultural Wonders and Resources**
 

@@ -1,6 +1,6 @@
 We start mid combat in [[The Black Forest]] where the weird zombie man summoned [[The Ethertwist Haunter]] after stealing [[The Pages]].
 
-[[Wurinn 'Drache' Fuuldrusch]] has two pages so he escaped out through the window. [[Chenris Tallfellow]] misty steps to join Drache. [[Steve Ulan]], while trying to defend [[Kal Korrigan|Kal]] gets impaled by the The Ethertwist Haunter and is downed. [[Mordecai Reverence]] had a moral breakdown and leaves without grabbing Steve, asking someone else to get him because he acknowledges he is a Squishy motherfucker. 
+[[Wurinn 'Drache' Fuuldrusch]] has two pages so he escaped out through the window. [[Chenris Tallfellow]] misty steps to join Drache. [[Steve Ulan]], while trying to defend [[Korrigan|Kal]] gets impaled by the The Ethertwist Haunter and is downed. [[Mordecai Reverence]] had a moral breakdown and leaves without grabbing Steve, asking someone else to get him because he acknowledges he is a Squishy motherfucker. 
 
 Chenris now has The Pages to keep them away from both the ghost and the haunter. [[Aidan Knight]] and Drache go back to pick up Steve. initially Kal is not strong enough to move Steve more than a few meters before dropping him.
 

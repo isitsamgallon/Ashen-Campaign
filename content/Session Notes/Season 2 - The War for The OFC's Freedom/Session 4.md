@@ -1,4 +1,4 @@
-The party enter a room to find a bed a few levers, [[Kal Korrigan]] pulled one lever, felt a rumble then decided to say "fuck it" and pull them all; much to the party's dismay. Luckily all levers had to be down to open a set of 4 doors leading into a large cavern. 
+The party enter a room to find a bed a few levers, [[Korrigan|Kal]] pulled one lever, felt a rumble then decided to say "fuck it" and pull them all; much to the party's dismay. Luckily all levers had to be down to open a set of 4 doors leading into a large cavern. 
 
 In the cavern was a huge statue of a dwarvern king/lord separated from the group by a large ravine with a very rickety, old bridge. [[Chenris Tallfellow]] peered down into the darkness of the ravine and found out that there was a shit ton of explosives underneath the bridge. No one was surprised.
 
@@ -15,4 +15,4 @@ This room was a massive dinning room, with large ancient dwarven king and many a
 The party go looking for the lost researcher and end up finding a small chapel, inside is the researcher on fire as well as a bible for [[Ignatius]]
 
 Tags:
-[[Ancient Dwarven Stronghold]]
+[[Iron Forge| Ancient Dwarven Stronghold]]Ancient Dwarven Stronghold]]

@@ -31,6 +31,6 @@ Mordecai might have blown something up in [[Yokotori]].
 **Trivia**
 - Mordecais mini is based of a the female character model on Eldritch Foundry because the male models weren't "Twinky enough".
 - Due to a series of misunderstandings, Drache ships Mordecai and Chenris - much to their dismay 
-- Mordecai canonically does drag and fixed [[Kal Korrigan]] up real good
+- Mordecai canonically does drag and fixed [[Korrigan]] up real good
 
 [[INFORMATION MISSING]]

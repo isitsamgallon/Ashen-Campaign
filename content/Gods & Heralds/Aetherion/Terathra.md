@@ -1,7 +1,7 @@
 The name given to the being at the centre of the world. See [[Aetherion]] for more information. When he speaks to the party, he speaks in a very archaic and poetic way.
 
 # History
-[[Kal Korrigan]] first made contact with it by casting [Speak with Animals](https://www.dndbeyond.com/spells/2258-speak-with-animals) on the crystal at [[Saleh Tower]]. Korrigan then managed to have a full conversation with it by meditating on the tree in [[The Tower of Ishnmel]].
+[[Korrigan]] first made contact with it by casting [Speak with Animals](https://www.dndbeyond.com/spells/2258-speak-with-animals) on the crystal at [[Saleh Tower]]. Korrigan then managed to have a full conversation with it by meditating on the tree in [[The Tower of Ishnmel]].
 
 [[The party]] had a second conversation with it after [[Aidan Knight]] was possessed by [[Chronovorus]] in [[Ishnmel]]. One of the time distortions was on [[The Tower of Ishnmel]] making Korrigan incredibly scared for Terathra's safety. After the distortion was lifted, the party tried to communicate through the same method Korrigan did the day before. Accept this time, Korrigan, [[Mordecai Reverence]] and [[Wurinn 'Drache' Fuuldrusch]] shared the burden of allowing the whole party to speak. 
 
