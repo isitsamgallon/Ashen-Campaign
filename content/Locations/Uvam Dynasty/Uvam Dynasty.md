@@ -1,8 +1,24 @@
 A nation found to the south of [[The Dawn Empire]]. Its architecture is based on [Edo Period Japan](https://en.wikipedia.org/wiki/Edo_period). Uvam is an [Anarchist Nation](https://en.wikipedia.org/wiki/Anarchy) with many of the towns and people free to do what they want, leading to them being extremely different from one another. Long ago they all banded together under one banner and each contributed forces for a standing army.  [[Mordecai Reverence]] spent a long time in the region and has a particularly dark past associated with [[Minatota]] and its leader, [[Arwen Gryffon]].
 
-[[Uvam Dynasty]] and [[Ehobel]] have a large bridge that connects them called [[Goldpass Bridge]] that is used for trade between the two nations. 
+[[Uvam Dynasty]] and [[Ehobel]] have a large bridge that connects them called the [[Goldpass Bridge]] that is used for trade between the two nations. 
 
-# Interactive Map
+The land is covered in maple trees
+
+### Known Locations
+- [[Minatota]]
+	- [[Nightshade's Crown]]
+- [[Gimsu]]
+- [[Nakatoro]]
+- [[Tangping]]
+- [[Yakawa]]
+	- [[The Tulan Fort]] (Through Secret Entrance)
+- [[Yokotori]]
+- [[Goldpass Bridge]]
+
+### Static Map
+![[Uvam_Dynasty_Map.jpg]]
+
+### Interactive Map
 ``` leaflet
 id: UvamDynasty_iMap ### Must be unique with no spaces  
 image: [[Uvam_Dynasty_Map.jpg]] ### Link to the map image file  

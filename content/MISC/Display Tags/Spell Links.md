@@ -52,6 +52,7 @@
 - Message - https://www.dndbeyond.com/spells/message
 - Misty Step -  https://www.dndbeyond.com/spells/misty-step 
 - Minor Illusion - https://www.dndbeyond.com/spells/minor-illusion
+- Mage Hand - https://www.dndbeyond.com/spells/2173-mage-hand
 
 # N
 - 
@@ -63,6 +64,7 @@
 - Polymorph - https://www.dndbeyond.com/spells/2209-polymorph
 - Prestidigitation - https://www.dndbeyond.com/spells/2213-prestidigitation
 - Pass Without Trace - https://www.dndbeyond.com/spells/2201-pass-without-trace
+- Protection From Good And Evil - https://www.dndbeyond.com/spells/2221-protection-from-evil-and-good
 
 # Q
 - 
@@ -76,6 +78,7 @@
 - Shocking Grasp - https://www.dndbeyond.com/spells/shocking-grasp
 - Suggestion - https://www.dndbeyond.com/spells/suggestion
 - Speak With Dead - https://www.dndbeyond.com/spells/speak-with-dead
+- Shield of Faith - https://www.dndbeyond.com/spells/2248-shield-of-faith?srsltid=AfmBOoqu_DF8sE6qkRmhUjxcpFXtY7FZSBWEkVuTMcEw0N2PDufnvzrN
 
 # T
 - Thaumaturgy - https://www.dndbeyond.com/spells/thaumaturgy
@@ -88,7 +91,7 @@
 - Vicious Mockery - https://www.dndbeyond.com/spells/vicious-mockery 
 
 # W
-- 
+- Wild Shape - https://forgottenrealms.fandom.com/wiki/Wild_shape
 
 # X
 - 

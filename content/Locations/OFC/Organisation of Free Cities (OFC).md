@@ -4,7 +4,24 @@ It is assumed that [[Caden SteelBreaker †]] also defected from The Dawn around
 
 [[Galen Verix]] disdains the OFC and everything that it stands for and wishes to take back the land and its people. Especially because it was revealed to [[The Party]] that the OFC is the perfect battleground in the fight against [[Ehobel]] as well as having particularly great trade routes via the seas. The emperor has already bought most of the land from the lords.
 
-# Interactive Map 
+### Known Locations
+- [[Blackwall]] (Capital)
+	- [[The Black Tower]]
+- [[Whitespire]]
+	- [[The Pyramid]] (Disappeared After Defeating Boss)
+- [[Balance Ranch]] (Abandoned)
+- [[Firebranch Range]]
+- [[Foxtail Orchards]]
+- [[Silkhorn]]
+- [[Twopines Estate]]
+- [[The Black Cult]]'s Hideout (Defunct)
+- [[The Red Cult]]'s Hideout (Defunct)
+
+
+### Static Map
+![[OFC_Map.jpg]]
+
+### Interactive Map 
 ```leaflet  
 id: OFC_iMap ### Must be unique with no spaces  
 image: [[OFC_Map.jpg]] ### Link to the map image file  

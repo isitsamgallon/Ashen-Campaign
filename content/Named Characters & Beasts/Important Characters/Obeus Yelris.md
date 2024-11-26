@@ -1,4 +1,4 @@
-The Current Emperor of [[Ehobel]]. She is described in books as very kind and understanding ruler and has "grand military plans". In reality, She doesn't leave the palace enough to understand the situation of her lands, let alone what i happening with her people. 
+The Current Emperor of [[Ehobel]]. She is described in books as a very kind and understanding ruler and has "grand military plans". In reality, She doesn't leave the palace enough to understand the situation of her lands, let alone what i happening with her people. 
 
 One of the reasons why she is unable to leave the palace is because of her weal constitution due to her being a half elf. It is revealed that she is the daughter of [[Ashira Yelris †]] and [[Caden SteelBreaker †]]. Half-Elves are incredibly rare, if they don't die during childbirth, they often have complications laters in life.
 

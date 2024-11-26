@@ -1,4 +1,7 @@
-# Interactive Map
+### Static Map
+![[ZoomedOutMapOfAmberRealms.jpg]]
+
+### Interactive Map
 
 ```leaflet  
 id: TheAmberRealmsMap ### Must be unique with no spaces  

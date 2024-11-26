@@ -1,12 +1,29 @@
-The home nation of the Elves in [[The Amber Realms]]. Around the time of [[The Sundering]] Ehobel and [[The Dawn Empire]] were on good terms as they had just fought in a war with each other. However, some time after the events of the war the two nations fell out and now they are on the verge of war with each other again. 
+The home nation of the Elves in [[The Amber Realms]] and led by The Empress, [[Obeus Yelris]]. Obeus took over the role of Empress from her mother [[Ashira Yelris †]] some years ago. he is described in books as a very kind and understanding ruler and has "grand military plans". In reality, She doesn't leave the palace enough to understand the situation of her lands, let alone what i happening with her people. Ehobel was one of the main factions that made up [[The Coalition]] during [[The Sundering]]. During this period Ehobel had a very good relationship with [[The Dawn Empire]] after many wars. However, sometime after the Sundering, the nations began to despise each other again, causing [[4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Organisation of Free Cities (OFC)]].
 
-It is assumed that the two nations are on bad terms with each other due to a difference in ideology between [[Galen Verix]] and [[Ashira Yelris †]] on how to use and protect [[The Towers]].
+### Known Locations
+- [[Ishnmel]] (Capital)
+	- [[The Tower of Ishnmel]] (Destroyed)
+	- The Palace
+	- [[Wooden Hearth Inn]]
+	- The Library
+- [[Enelion]]
+	- [[Enelion Town Inn]]
+- [[Caalona]]
+- [[Cyran Slave Company]]
+- [[Horith Tower]]
+- [[Irs Thalor]]
+- [[Jassin Slave Company]]
+- [[Nas Anor]]
+- [[Renabel]]
+- [[Saleh Tower]]
+- [[Vulwin Slave Company]]
+- [[Yren]]
+- [[Goldpass Bridge]]
 
-The capital, [[Ishnmel]] is known to have an extremely large library. 
+### Static Map
+![[Ehobel_Map.jpg]]
 
-[[Uvam Dynasty]] and [[Ehobel]] have large bridge that connects them called [[Goldpass Bridge]] that is used for trade between the two nations. 
-
-# Interactive Map
+### Interactive Map
 ```leaflet  
 id: Ehobel_iMap ### Must be unique with no spaces  
 image: [[Ehobel_Map.jpg]] ### Link to the map image file  

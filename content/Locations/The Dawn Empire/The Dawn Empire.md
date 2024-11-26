@@ -1,8 +1,28 @@
-The home nation of the Humans in [[The Amber Realms]]. Around the time of [[The Sundering]] [[Ehobel]] and The Dawn were on good terms as they had just fought in a war with each other. However, some time after the events of the war the two nations fell out and now they are on the verge of war with each other again. 
+The home nation of the Humans in [[The Amber Realms]] and led by The Emperor, [[Galen Verix]]. Galen is from a long line of Verixs who have ruled the nation for over 500 years after liberating it from the Dwarves in what came to be known as [[The Cleansing]] led by his ancestor [[Redmund Verix †]]. The Dawn was one of the magic factions that made up [[The Coalition]] during [[The Sundering]]. During this period The Dawn had a very good relationship with [[Ehobel]] after many wars. However, sometime after the Sundering, the nations began to despise each other again, causing [[4th Dawn vs Ehobel War]] which sprouted the offshoot nation called The [[Organisation of Free Cities (OFC)]].
 
-It is assumed that the two nations are on bad terms with each other due to a difference in ideology between [[Galen Verix]] and [[Ashira Yelris †]] on how to use and protect [[The Towers]].
+### Known Locations
+- [[Dawnhaven]] (Capital) (Missing)
+	- [[The Dawnhaven Crypts]]
+	- [[The Silent Shade]]
+- [[Steelwick]]
+- [[Verdant Spine]]
+	- [[Iron Forge]]
+	- [[Wyvern Cave]]
+- [[Baytown]]
+- [[Cliffhall]]
+- [[Dustwood]]
+- [[Dusthall]]
+- [[Farpost]]
+- [[Locations/The Dawn Empire/Ironfalls|Ironfalls]] 
+- [[New hall]]
+- [[Oceanvale]]
+- [[Rosehost]]
+- [[The All Father Temple]]
 
-# Interactive Map
+### Static Map
+![[The_Dawn_Empire_Map.jpg]]
+
+### Interactive Map
 ```leaflet  
 id: TheDawnEmpire_iMap ### Must be unique with no spaces  
 image: [[The_Dawn_Empire_Map.jpg]] ### Link to the map image file  

@@ -1,1 +1,1 @@
-[[INFORMATION MISSING]]
+A group of Samurai from the [[Uvam Dynasty]] have been tasked with finding and capturing [[Mordecai Reverence]]. First encountered in [[Session 24]]

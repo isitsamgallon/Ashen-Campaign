@@ -4,7 +4,7 @@ This is the tale of two who were one, a story whispered through halls of stone a
 
 **Chapter One: The Lady and the Mystery**
 
-The halls of Morak Hold echoed with the sturdy rhythm of dwarven life—a symphony of hammer strikes, mining chants, and hearty laughter that sang of tradition and endurance. At the heart of this grand estate stood the Lady of Morak, a noble dwarf whose radiant grace and unshakable resolve set her apart. She was a paragon of her kind, though whispers followed her like shadows.
+The halls of Morak Hold echoed with the sturdy rhythm of dwarven life—a symphony of hammer strikes, mining chants, and hearty laughter that sang of tradition and endurance. At the heart of this grand estate stood the [[Lady of Morak]], a noble dwarf whose radiant grace and unshakable resolve set her apart. She was a paragon of her kind, though whispers followed her like shadows.
 
 The whispers grew louder one moonlit evening when, from her chambers, came the first cries of not one, but two infants. Servants who dared to peek saw babes unlike any the Hold had known. Their features shifted subtly even as they slept, their faces like reflections on rippling water.
 
@@ -22,7 +22,7 @@ Despite their differences, the brothers were inseparable. Together they roamed t
 
 **Chapter Three: Two Paths, One Hearth**
 
-As the years passed, the brothers grew into their distinct roles within Morak Hold. The elder spent his days among the miners and smiths, his unshakable optimism lifting spirits wherever he went. He became a student of the Hold’s clerics, learning to heal wounds and soothe hearts. His laughter remained a constant presence, a light in the Hold’s deepest shadows.
+As the years passed, the brothers grew into their distinct roles within [[Morak Hold]]. The elder spent his days among the miners and smiths, his unshakable optimism lifting spirits wherever he went. He became a student of the Hold’s clerics, learning to heal wounds and soothe hearts. His laughter remained a constant presence, a light in the Hold’s deepest shadows.
 
 The younger, however, sought knowledge in solitude. He spent hours poring over ancient carvings and forgotten tomes, tracing the mysteries etched into Morak’s oldest walls. He had a talent for remaining unseen, slipping into places he shouldn’t be and returning with fragments of forgotten power. His smile, sharp and sly, unsettled some—but never his mother.
 
@@ -30,7 +30,7 @@ Though their days grew busier, they always returned to their mother’s side eac
 
 **Chapter Four: The Fall of Morak**
 
-The end came swiftly. The humans called it “The Cleansing,” a brutal campaign to rid the mountains of dwarven holds. For Morak, it was a storm that even the Lady’s iron will could not withstand.
+The end came swiftly. The humans called it “[[The Cleansing]],” a brutal campaign to rid the mountains of dwarven holds. For Morak, it was a storm that even the Lady’s iron will could not withstand.
 
 The brothers fought as they could. The elder rushed to the aid of the wounded, his hands glowing with the knowledge of the clerics, his voice a balm to those in despair. The younger was a wraith in the chaos, slipping through the smoke to sabotage enemy lines, his ever-shifting features making him untraceable.
 
