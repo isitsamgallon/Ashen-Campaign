@@ -15,6 +15,7 @@ I plan to update this every month or if any major changes/ information is learne
 - [[Wurinn 'Drache' Fuuldrusch]]
 - [[Aidan Knight]]
 ### Locations:
+- [[The Amber Realms]]/ [[Verdant Peninsula]]
 - [[Organisation of Free Cities (OFC)]]
 - [[The Dawn Empire]]
 - [[Ehobel]]
