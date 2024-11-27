@@ -23,7 +23,7 @@ The home nation of the Elves in [[The Amber Realms]] and led by The Empress, [[O
 ### Static Map
 ![[Ehobel_Map.jpg]]
 
-### Interactive Map
+### Interactive Map (Unavailable Online)
 ```leaflet  
 id: Ehobel_iMap ### Must be unique with no spaces  
 image: [[Ehobel_Map.jpg]] ### Link to the map image file  

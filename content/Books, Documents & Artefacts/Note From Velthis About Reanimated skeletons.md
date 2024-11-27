@@ -6,4 +6,4 @@ It has come to my attention (again) that reanimated skeletons are being left to 
 4. **Pantry Protocol:** No skeletons near the food stores. Ever.
 
 Failure to adhere to these guidelines will result in your summoning privileges being temporarily revoked. Remember, we are necromancers, not slobs. For the continued harmony of our sanctum,  
-—_Arch-Necromancer Velthis_
+—_Arch-Necromancer [[Velthis]]_

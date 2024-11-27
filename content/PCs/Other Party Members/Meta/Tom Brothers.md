@@ -1,0 +1,1 @@
+Editor for this Archive, they also play The [[Korrigan]] in the campaign.

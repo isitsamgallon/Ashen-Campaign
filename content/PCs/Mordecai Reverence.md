@@ -11,24 +11,19 @@ languages: Common, Infernal, Draconic
 
 ```
 
-# Basic Information & History:
-Mordecai was a part of the original trio that was kidnapped by [[The Red Cult]] at he beginning of the campaign in [[Session 0]]. Mordecai and [[Chenris Tallfellow]], through some creative spell casting, managed to break off their chains to free [[Wurinn 'Drache' Fuuldrusch]] and get out of the cult hide out. Along the way they picked up [[Steve Ulan]], although they we pissed off with Steve's racism, they wanted to change him for the better and functioning member of [[The Party]]. 
+### Overview
 
-# History
+Mordecai Reverence is a Tiefling sorcerer and member of [[The Party]], a group of adventurers navigating the mystical and perilous world of [[the Amber Realms]]. Renowned for their dramatic flair and innate magical aptitude, Mordecai is often both the heart of the group's charm and a source of their tension. Originally hailing from the [[Uvam Dynasty]], his aversion to fire magic and knack for theatrical improvisation have made him a standout figure in their journeys. 
 
-Mordecai has since become the defacto leader of [[The Party]] as the only person with good social skills and common sense (and a sense of direction). Mordecai often tries to direct [[The Party]] to do the right thing, unless he as an interest in doing something to make himself look better or cooler. This is best exemplified when [[The Party]] went to the temple of [[Seraphina]] for healing and Mordecai was the only person to get fully healed because she appreciated that he always tried to do the best thing morally
+### Personality
 
-Mordecai, despite being mostly focused on dealing damage, often helps out with healing since Chenris often forgets or refuses to heal people unless they're in his way. 
+Mordecai's personality is flamboyant, with a penchant for wit and an almost insatiable need for attention. He often speaks with dramatic overtones, incorporating sarcasm and a flair for the extravagant in his interactions. Despite this bravado, Mordecai demonstrates a deep sense of loyalty to his companions, though he occasionally masks vulnerability with biting humour. Over the course of the story, his experiences with gods and otherworldly threats push him to confront his self-serving tendencies, revealing a more complex character grappling with fear, responsibility, and a growing connection to his team.
 
-Mordecai seems to have a fear of fire, often refusing to use his fire based magic and having panic attacks when there's a large amount of fire in the area. Mordecai does not like to talk about his past, often dodging all questions relating to his past. 
+### Description
 
-During [[The Black Ritual]] Mordecai was seen giving up his cloak to the fire after giving it a good sniff to remember something from the past. 
+Visually striking, Mordecai has crimson skin that gleams like polished ruby and horns that curve gracefully backward, framing his sharp, angular features. His bright, ostentatious clothing—often adorned with elaborate jewellery and a fur cloak—reflects his bold personality. His glowing golden eyes exude confidence, while his sleek tail, tipped with an arcane shimmer, adds an air of mystique. Mordecai's movements are fluid, theatrical, and deliberate, giving the impression that he is always performing for an unseen audience.
 
-Mordecai used to work for a bar in [[Minatota]], [[Uvam Dynasty]] called [[Nightshade's Crown]]. Mordecai had taken up a deal with [[Arwen Gryffon]] to make some quick money. Once Arwen had taken a bit more of a liking to Mordecai, Mordecai took of advantage of him and stole half his money and clothes and ran away.
-
-Mordecai might have blown something up in [[Yokotori]].
-
-**Trivia**
+### Trivia
 - Mordecais mini is based of a the female character model on Eldritch Foundry because the male models weren't "Twinky enough".
 - Due to a series of misunderstandings, Drache ships Mordecai and Chenris - much to their dismay 
 - Mordecai canonically does drag and fixed [[Korrigan]] up real good

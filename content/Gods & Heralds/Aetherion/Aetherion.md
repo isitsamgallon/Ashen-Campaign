@@ -4,4 +4,4 @@ To protect themselves from the Gods, the beings hatched from the eggs and built 
 
 [[The Towers]] also seem to be able to drain the energy from Terathra which is how it is possible to keep him contained. Terathra is also responsible for powering the [[Skyfall Ward]] via [[The Ancient Pillars]] before [[The Sundering]].
 
-[[INFORMATION MISSING]]
+[[TOM MISSING INFORMATION]] 

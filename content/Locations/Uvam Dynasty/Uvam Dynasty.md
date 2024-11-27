@@ -1,8 +1,9 @@
-A nation found to the south of [[The Dawn Empire]]. Its architecture is based on [Edo Period Japan](https://en.wikipedia.org/wiki/Edo_period). Uvam is an [Anarchist Nation](https://en.wikipedia.org/wiki/Anarchy) with many of the towns and people free to do what they want, leading to them being extremely different from one another. Long ago they all banded together under one banner and each contributed forces for a standing army.  [[Mordecai Reverence]] spent a long time in the region and has a particularly dark past associated with [[Minatota]] and its leader, [[Arwen Gryffon]].
+A nation found to the south of [[The Dawn Empire]]. Its architecture is based on [Edo Period Japan](https://en.wikipedia.org/wiki/Edo_period). Uvam is an [Anarchist Nation](https://en.wikipedia.org/wiki/Anarchy) with many of the towns and people free to do what they want, leading to them being extremely different from one another. Long ago they all banded together under one banner and each contributed forces for a standing army.  [[Mordecai Reverence]] spent a long time in the region and has a particularly dark past associated with [[Minatota]] and its de facto leader, [[Arwen Gryffon]].
 
-[[Uvam Dynasty]] and [[Ehobel]] have a large bridge that connects them called the [[Goldpass Bridge]] that is used for trade between the two nations. 
+[[Uvam Dynasty]] and [[Ehobel]] share a large bridge that connects them called the [[Goldpass Bridge]] which is used for trade between the two nations. 
 
-The land is covered in maple trees
+### Geography
+Uvam is a relatively small nation found towards the south of the [[Verdant Spine]]. The land is known for its vibrant grass, gentle hills and maple trees, a unique feature only found in this nation.
 
 ### Known Locations
 - [[Minatota]]
@@ -18,7 +19,7 @@ The land is covered in maple trees
 ### Static Map
 ![[Uvam_Dynasty_Map.jpg]]
 
-### Interactive Map
+### Interactive Map (Unavailable Online)
 ``` leaflet
 id: UvamDynasty_iMap ### Must be unique with no spaces  
 image: [[Uvam_Dynasty_Map.jpg]] ### Link to the map image file  

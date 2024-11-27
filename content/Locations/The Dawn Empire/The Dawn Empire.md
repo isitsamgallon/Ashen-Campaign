@@ -22,7 +22,7 @@ The home nation of the Humans in [[The Amber Realms]] and led by The Emperor, [[
 ### Static Map
 ![[The_Dawn_Empire_Map.jpg]]
 
-### Interactive Map
+### Interactive Map (Unavailable Online)
 ```leaflet  
 id: TheDawnEmpire_iMap ### Must be unique with no spaces  
 image: [[The_Dawn_Empire_Map.jpg]] ### Link to the map image file  
