@@ -1,1 +1,1 @@
-Primary Editor and Creator of this archive. Also plays [[Chenris Tallfellow]] in the game.
+Primary Editor and Creator of this archive. Also plays [[Chenris Tallfellow †]] in the game.

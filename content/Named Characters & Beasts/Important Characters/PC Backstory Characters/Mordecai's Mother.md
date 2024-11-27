@@ -3,4 +3,4 @@ Not much is known about this women apart from when [[Mordecai's Mother]] first u
 # History 
 She is first mentioned during [[The Black Ritual]] when Mordecai burns his cloak to get rid of [[The Ethertwist Haunter]].
 
-She is first seen in [[Session 15]] when [[Ebis Daro]] transforms into her to distract Mordecai from [[Chenris Tallfellow]] when he was trying to destroy the crystal in [[The Tower of Ishnmel]].
+She is first seen in [[Session 15]] when [[Ebis Daro]] transforms into her to distract Mordecai from [[Chenris Tallfellow †]] when he was trying to destroy the crystal in [[The Tower of Ishnmel]].

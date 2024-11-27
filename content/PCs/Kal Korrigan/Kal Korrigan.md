@@ -18,7 +18,7 @@ Kal is Korrigan's original name before Kal's death.
 Kal (He/Him) was an average-sized Human Rogue/ Ranger Multi-class that preferred using bows in combat.  
 
 # Kal History
-Kal first meets the party (Only including [[Chenris Tallfellow]], [[Mordecai Reverence]] and [[Wurinn 'Drache' Fuuldrusch]] at the time) on a quest to investigate a nearby area that had been raided.
+Kal first meets the party (Only including [[Chenris Tallfellow †]], [[Mordecai Reverence]] and [[Wurinn 'Drache' Fuuldrusch]] at the time) on a quest to investigate a nearby area that had been raided.
 
 After joining the party, he is know for being overall a nice person but is infatuated with gold and money - often having is judgement clouded whenever riches are involved. This was best exemplified when he took a quest to pick up a package and snuck off to collect this package against the party's best efforts to convince him not to. The quest was from the [[goblin mafia]] to deliver what was later revealed to be a bomb. Later on, after delivering the package to a the [[Blackwall]] base of the mafia. Kal was knocked out and forced to become a Suicide bomber for them to blow up the leaders of the [[Organisation of Free Cities (OFC)|OFC]]. 
 

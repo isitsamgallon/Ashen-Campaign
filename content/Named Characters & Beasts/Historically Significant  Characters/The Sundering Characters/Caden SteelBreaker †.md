@@ -2,7 +2,7 @@ Caden is the former head of the military for the [[Organisation of Free Cities (
 
 The party first met Caden when they reached [[Blackwall]] for the first time, he was manning the gates. Later on, a huge airship crashed due to a wyvern attack and Caden needed all able-bodied fighters to help investigate the crash. During the process of investigating the ship and fighting the Wyvern, Caden was killed due to a tree falling. [[Xekai]] was later revealed to be behind this murder. 
 
-Caden was later found alive and well after the party had verified his death and delivered his body to Blackrock. After a short analysis, [[Chenris Tallfellow]] was able to conclude that someone had used powerful necromancy magic to control and resurrect Caden. 
+Caden was later found alive and well after the party had verified his death and delivered his body to Blackrock. After a short analysis, [[Chenris Tallfellow †]] was able to conclude that someone had used powerful necromancy magic to control and resurrect Caden. 
 
 Soon after finding this out, the party rushed to the government to tell everyone the news. They initially didn't believe the party until Caden walked in forces from [[The Dawn Empire]] and Chenris cast Turn Undead on the Caden. After the party defeated Caden and The Dawn's forces, they became the de facto head of the army until a new one was chosen. Caden's death shocked the whole [[Organisation of Free Cities (OFC)|OFC]] as many believed he was the only one able to stop the Dawn's forces from completely taking over. 
 

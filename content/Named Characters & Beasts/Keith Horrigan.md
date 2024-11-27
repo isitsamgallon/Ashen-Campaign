@@ -3,4 +3,4 @@ Keith Horrigan was one of the original councillors for the [[The War for the OFC
 In reality, the tower had been robbed by the Dwarfs of [[Fort Moldan]] through secret tunnels that led to every part of the tower. Horrigan had hired his own guards with his own money to keep the city safe, he wanted to give the staff some time off during a particularly slow period. Horrigan himself was actually stabbed during the raid and nearly died underneath the tower in the hidden passageways after trying to stop the Dwarfs from stealing everything.
 
 ### Trivia
-- Before The Party left on their diplomatic mission, [[Chenris Tallfellow]] tried to scare the councillor into being good and doing what they wanted. However, Horrigan was not scared whatsoever, even admitting that he had killed someone before so Chenris' "empty threats" did not affect him.
+- Before The Party left on their diplomatic mission, [[Chenris Tallfellow †]] tried to scare the councillor into being good and doing what they wanted. However, Horrigan was not scared whatsoever, even admitting that he had killed someone before so Chenris' "empty threats" did not affect him.

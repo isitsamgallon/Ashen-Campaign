@@ -1,4 +1,4 @@
-[[Chenris Tallfellow]]
+[[Chenris Tallfellow †]]
 [[Mordecai Reverence]]
 [[Wurinn 'Drache' Fuuldrusch]]
 [[Korrigan]]

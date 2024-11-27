@@ -5,7 +5,7 @@ The party with the few remaining soldiers escorted Caden's dead body back to [[B
 The party leaves and rests in the local tavern and leave to go to the council building early in the morning.
 
 
-Everyone at the council is horrendously drunk. [[The Dawn Empire]] is preparing to attack. [[Wurinn 'Drache' Fuuldrusch]] asks a very drunk guard for their keys - he is too drunk to care. [[Korrigan]], [[Chenris Tallfellow]] and [[Aidan Knight]] sneak to the offices. 
+Everyone at the council is horrendously drunk. [[The Dawn Empire]] is preparing to attack. [[Wurinn 'Drache' Fuuldrusch]] asks a very drunk guard for their keys - he is too drunk to care. [[Korrigan]], [[Chenris Tallfellow †]] and [[Aidan Knight]] sneak to the offices. 
 
 Drache and [[Mordecai Reverence]] both go to talk to people to get some more information to try and determine what is going on and what to do next. They talk and find that they should probably aim to unite against [[The Dawn Empire]], however Drache opens up that he is not wanted near [[The Tulan Fort]]. Mordecai understands, as he is a fellow runaway and they agree to steer [[The Party]] away from the areas they absolutely don't want to go to.;
 

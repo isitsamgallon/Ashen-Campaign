@@ -1,5 +1,5 @@
 
-[[Chenris Tallfellow]] read this book in the [[Blackwall]] library when research the deities they had met in a recent encounter. 
+[[Chenris Tallfellow †]] read this book in the [[Blackwall]] library when research the deities they had met in a recent encounter. 
 
 Here are the contents of the book:
 

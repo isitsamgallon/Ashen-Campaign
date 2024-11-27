@@ -9,8 +9,8 @@ I have compiled a small list of common notes people might want to read below but
 I plan to update this every month or if any major changes/ information is learned after a session. DM [[Sam Gallon]] if there are any problems
 ## Common Locations:
 ### Players:
-- [[Chenris Tallfellow]]
-- [[Kal Korrigan]]
+- [[Chenris Tallfellow †]] 
+- [[Korrigan]]
 - [[Mordecai Reverence]]
 - [[Wurinn 'Drache' Fuuldrusch]]
 - [[Aidan Knight]]

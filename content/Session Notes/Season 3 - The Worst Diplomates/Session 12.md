@@ -7,7 +7,7 @@ As they traveled towards Ehobel, the party encountered a cult in Silkhorn and de
 # Full Session Notes
 Since the events of [[Session 11]] there was one a week break for people to do their own projects and recover from [[The War for the OFC's Freedom]]. Here is a summery of what people did during the time skip:
 - Each member wrote down their plans for the [[Organisation of Free Cities (OFC)|OFC]] now that they were in charge. These plans can be found here: [[OFC Plans]].
-- [[Chenris Tallfellow]] spent some time in his study tinkering on some projects. These include the [[Alchemy Jug]], [[Clockwork Bird]], [Armour of Magical Strength](https://www.worldanvil.com/block/1046919), [Cloak of Billowing](http://dnd5e.wikidot.com/wondrous-items:cloak-of-billowing).
+- [[Chenris Tallfellow †]] spent some time in his study tinkering on some projects. These include the [[Alchemy Jug]], [[Clockwork Bird]], [Armour of Magical Strength](https://www.worldanvil.com/block/1046919), [Cloak of Billowing](http://dnd5e.wikidot.com/wondrous-items:cloak-of-billowing).
 - [[Mordecai Reverence]] spends time performing and creating propaganda tunes to tell the people what happened.
 - [[Korrigan]] spends his time gardening as well as taking Chenris on a trip to the [[Feywild]].
 

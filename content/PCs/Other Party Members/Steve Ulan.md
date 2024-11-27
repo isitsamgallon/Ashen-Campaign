@@ -1,6 +1,6 @@
 
 # Basic Information
-Steve Ulan was found by [[Chenris Tallfellow]], [[Mordecai Reverence]], and [[Wurinn 'Drache' Fuuldrusch]] in the dungeon of [[The Red Cult]] at the start of the campaign. He was a very racist person but slowly as he regained his memories he became a lot more tolerant. He travelled with [[The Party]] for a good while before leaving [[The Party]] when they were investigating what was happening in [[New hall]]
+Steve Ulan was found by [[Chenris Tallfellow †]], [[Mordecai Reverence]], and [[Wurinn 'Drache' Fuuldrusch]] in the dungeon of [[The Red Cult]] at the start of the campaign. He was a very racist person but slowly as he regained his memories he became a lot more tolerant. He travelled with [[The Party]] for a good while before leaving [[The Party]] when they were investigating what was happening in [[New hall]]
 
 # History
 Steve is originally from [[Steelwick]], an old mining village in [[The Dawn Empire]]. he is the son of the [[Lord Ulan †]] but as he discovered more about his troubled past. he came to despise his father for his barbaric actions regarding his former lover [[Mistrel †]]. When he found out about what his parent had done, [[The Party]] tried to dissuade him from doing anything rash because he would surely be killed or captured due to his father being a lord.

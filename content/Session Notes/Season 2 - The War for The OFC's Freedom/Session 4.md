@@ -1,6 +1,6 @@
 The party enter a room to find a bed a few levers, [[Korrigan|Kal]] pulled one lever, felt a rumble then decided to say "fuck it" and pull them all; much to the party's dismay. Luckily all levers had to be down to open a set of 4 doors leading into a large cavern. 
 
-In the cavern was a huge statue of a dwarvern king/lord separated from the group by a large ravine with a very rickety, old bridge. [[Chenris Tallfellow]] peered down into the darkness of the ravine and found out that there was a shit ton of explosives underneath the bridge. No one was surprised.
+In the cavern was a huge statue of a dwarvern king/lord separated from the group by a large ravine with a very rickety, old bridge. [[Chenris Tallfellow †]] peered down into the darkness of the ravine and found out that there was a shit ton of explosives underneath the bridge. No one was surprised.
 
 [[Mordecai Reverence]] hulks out and finds the perfect rock after [[Wurinn 'Drache' Fuuldrusch]] clearly was incapable of getting a lil pebble.  Mordecai throughs the pebble but it falls short and they find the bridge doesn't have a trigger for the explosives. The party nominates [[Aidan Knight]] to cross the bridge as he is the most dexterous; as soon as Aidan gets to the other side, the party hears the hissing of a fuse. Korrigan try's to convince the party to hide but Drache raises the excellent point of "fuck it" and they all run across the bridge. The explosives explode and the bridge falls into the abyss. Aidan wanted to steal the golden sword off of the statue but it was too big. 
 

@@ -5,7 +5,7 @@ The OFC is a small nation found to the west of [[The Dawn Empire]]. Sometime aft
 ### Geography 
 The OFC is mostly made up of dense forests and tall spruce trees. The nation is slightly bigger than the [[Uvam Dynasty]] and is surrounded by water on all sides but one which borders with The Dawn. 
 
-[[Chenris Tallfellow]] and [[The Party]] made great use of the OFC's geography during [[The War for the OFC's Freedom]]. They used the dense woods for ambushes. Due It is surrounded by water on most sides and there only being one entrance by land, they used that entrance as a natural choke point to control their enemy's movements.  
+[[Chenris Tallfellow †]] and [[The Party]] made great use of the OFC's geography during [[The War for the OFC's Freedom]]. They used the dense woods for ambushes. Due It is surrounded by water on most sides and there only being one entrance by land, they used that entrance as a natural choke point to control their enemy's movements.  
 
 ### Known Locations
 - [[Blackwall]] (Capital)

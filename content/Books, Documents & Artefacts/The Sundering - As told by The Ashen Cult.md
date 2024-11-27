@@ -1,4 +1,4 @@
-Found in [[Session 4]] in the [[Iron Forge| Ancient Dwarven Stronghold]]. Describes [[The Sundering]] in a good light and how there are people that want to make sure it happens again. It also contains the first mention of [[Niaross]]. [[Chenris Tallfellow]] has been working tirelessly to translate the book from its original Ancient Dwarven to Common. Here is what has been translated so far:
+Found in [[Session 4]] in the [[Iron Forge| Ancient Dwarven Stronghold]]. Describes [[The Sundering]] in a good light and how there are people that want to make sure it happens again. It also contains the first mention of [[Niaross]]. [[Chenris Tallfellow †]] has been working tirelessly to translate the book from its original Ancient Dwarven to Common. Here is what has been translated so far:
 
 
 ### Prologue: The Prophecy of the Cleansing Flame

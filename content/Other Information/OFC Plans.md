@@ -85,7 +85,7 @@ Minister of Agriculture & Environment; [[Korrigan]]
 - Hunting Limit: Hunting for sport is outlawed.
 
 # Education 
-Minister of Education; [[Chenris Tallfellow]]
+Minister of Education; [[Chenris Tallfellow †]]
 
 **Primary Focus:**
 - Raise education levels of the general populace to meet the following:
