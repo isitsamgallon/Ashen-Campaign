@@ -12,4 +12,4 @@ There are several deities that watch over the [[The Amber Realms]] there is no d
 - [[Somnora]] - The Keeper of Dreams and Memories
 
 # Information on Heralds: 
-There are two main theories on how [[Herald]]s are made, either they are people who accomplish great feats in their lives and thus are chosen by gods to carry out their whims. Or the second way where a small part of the god is given form to go to [[The Amber Realms]] to carry out the gods whims
+There are two main theories on how [[Herald]]s are made, either they are people who accomplish great feats in their lives and thus are chosen by gods to carry out their whims. Or the second way where a small part of the god is given form to go to [[The Amber Realms]] to carry out the god's whims
