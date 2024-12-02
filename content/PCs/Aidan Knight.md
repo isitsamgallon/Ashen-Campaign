@@ -9,19 +9,14 @@ senses: Vision
 languages: Common, Elvish, Goblin, Primordial, Thieves’ Cant
 
 ```
+### Overview
+Aiden Knight is a human Rogue/ Warlock Multi-class. Not much is known about this party member due to them not talking very often. He first joined the party when he was found in the middle of a large-scale time-distortion. He can manipulate time on a very small scale and is known to be able to close the time distortions created by [[Chronovorus]]. He later made a deal with the very same god to for more control over time, but he doesn't remember what he gave in return. Played by [[Jae Knight]].
 
-# Basic Information:
-Originally found in the middle of a time warp found surrounded by a forest fire that was accidentally created by [[Korrigan]] during a fight with goblins. Due to being born inside a time warp, he has the ability to manipulate time on a small/ local scale. Seems to be connected to [[Chronovorus]] as he particularly hates Aidan because of "what you did". Aidan often keeps to himself and loves to sleep in trees away from the party. 
+### Personality
+Aiden is a very quiet and reserved person, who doesn't interact with [[The Party]] much. He is best known for his love for sleeping in trees, notably not with the party. He is also known for being quite selfish and self-centred often wanting to keep as much [[Gold]] to himself as possible. 
 
-# History
-During a raid on a Chronovorus cult building, Aidan was key to closing the time warp and killed many of the cultists. During this combat, he managed to steal a dagger from the lead cultist called the "Edge of the Onyx Sands".
+### Description
+Aiden has Blond hair and brown eyes. He wears all-black clothing with a black hood. 
 
-In session [[2]] Aidan manages to tame a horse while the party is asleep.
-
-Aidan murdered a Tiefling who worked at [[Nightshade's Crown]] after being imprisoned by the workers their as well as [[Terence Witherfeather]] (against his will).
-
-[[Korrigan]] and [[Mordecai Reverence]] beat him unconscious after Aidan threatened Terrence and Mordecai learnt about Aidan killing the Tiefling. 
-
-[[INFORMATION MISSING]]
-
-
+### Backstory Summary
+Aiden's backstory hasn't been revealed publicly yet. 

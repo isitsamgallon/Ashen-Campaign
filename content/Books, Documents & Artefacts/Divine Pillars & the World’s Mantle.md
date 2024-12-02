@@ -1,4 +1,4 @@
-A book that [[Korrigan]] secretly read while [[The Party]] was in [[Strixhaven]]. He was looking for information about [[The Towers]] and how they function. This was mostly likely because of his pact with [[Lorwyn]]. Here is a summary of the book, taken from [[The Ashen Book]]:
+A book that [[The Korrigan]] secretly read while [[The Party]] was in [[Strixhaven]]. He was looking for information about [[The Towers]] and how they function. This was mostly likely because of his pact with [[Lorwyn]]. Here is a summary of the book, taken from [[The Ashen Book]]:
 
 ### The Book
 The text began with the story of The Primordial Divinity, [[Aetherion]]—[[the All Father]], who existed before all else. It spoke of how, upon his death, [[Aetherion]]'s soul fractured, fragments of his soul manifested as gods, born from his emotions—Anger, Sadness, Hatred, Compassion, and many more—forming a pantheon that ruled over the realms.

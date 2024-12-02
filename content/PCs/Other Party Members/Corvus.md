@@ -1,3 +1,3 @@
-A Corvum found living in the [[Iron Forge| Ancient Dwarven Stronghold]]Ancient Dwarven Stronghold]]. originally spotted by [[Korrigan]] hiding in the dark, Corvus was very weary of the party since his originally moved in the the stronghold to get away from people. Eventually Korrigan convinced him to travel with the party as it seemed like the Stronghold was gonna be raided by researchers and goblins and that the party could help them move out. 
+A Corvum found living in the [[Iron Forge| Ancient Dwarven Stronghold]]. originally spotted by [[The Korrigan]] hiding in the dark, Corvus was very weary of the party since he originally moved to the stronghold to get away from people. Eventually, Korrigan convinced him to travel with the party as it seemed like the Stronghold was gonna be raided by researchers and goblins and that the party could help them move out. 
 
-Corvus seems to be especially attached to [[Bruce]] and dwarven automaton that the party also adopted.
+Corvus seems to be especially attached to [[Bruce]] and the dwarven automaton that the party also adopted.

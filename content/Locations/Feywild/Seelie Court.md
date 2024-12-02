@@ -1,1 +1,1 @@
-A court composed of Seelie Archfey, dedicated to [[Lorwyn]]. Despite [[Korrigan]] being on the council, he is not considered an Archfey. It is currently being led [[Queen Titania]]
+A court composed of Seelie Archfey, dedicated to [[Lorwyn]]. Despite [[The Korrigan]] being on the council, he is not considered an Archfey. It is currently being led [[Queen Titania]]

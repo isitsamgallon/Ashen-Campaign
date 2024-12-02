@@ -1,1 +1,1 @@
-The Gecko that joined [[Korrigan]] for a short time outside of [[Saleh Tower]].
+The Gecko that joined [[The Korrigan]] for a short time outside of [[Saleh Tower]].

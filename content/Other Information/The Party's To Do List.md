@@ -2,7 +2,7 @@
 - Deal with the Dwarves of [[Fort Moldan]]
 - Create a trade deal between [[Organisation of Free Cities (OFC)]] and [[Ehobel]]
 - Deal with the [[Angel Under The Well]]
-- Go to [[Lost Haven]] and finish [[Korrigan]]'s business
+- Go to [[Lost Haven]] and finish [[The Korrigan]]'s business
 - Travel to [[Itone]]
 - Enact the rest of the [[OFC Plans]]
 - Venture to [[The Desert]]

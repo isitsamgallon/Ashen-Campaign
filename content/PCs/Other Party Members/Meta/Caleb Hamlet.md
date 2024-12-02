@@ -1,0 +1,1 @@
+Plays [[Wurinn 'Drache' Fuuldrusch]] in the campaign. 

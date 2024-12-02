@@ -6,7 +6,7 @@ This is a read-only version of the Ashen Campaign Vault to make it easier to fin
 
 I have compiled a small list of common notes people might want to read below but there is also a search function on both desktop and mobile. On the desktop, there is also an "Explorer" section which contains the full folder tree of the vault to make finding specific notes easier. 
 
-I plan to update this every month or if any major changes/ information is learned after a session. DM [[Sam Gallon]] if there are any problems
+I plan to update this every month or if any major changes/ information is learned after a session. DM [[Sam Gallon]] if there are any problems.
 ## Common Locations:
 ### Players:
 - [[Chenris Tallfellow †]] 

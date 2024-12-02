@@ -1,4 +1,4 @@
-By [[Korrigan]], [[Sera]] and [[Thorn]]
+By [[Kal ‡]], [[Sera]] and [[Thorn]]
 
 In the heart of a vast kingdom, where towering castles loomed over bustling towns and lush forests whispered secrets of old, there lived a clever little mouse named Mousebert. 
 

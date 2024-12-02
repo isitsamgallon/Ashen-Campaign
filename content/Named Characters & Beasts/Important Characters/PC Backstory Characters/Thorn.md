@@ -1,1 +1,1 @@
-Seemingly someone [[Korrigan]] used to know in [[Lost Haven]], credited as an author of [[Mousebert & the Emperor's Folly]]
+Seemingly someone [[The Korrigan]] used to know in [[Lost Haven]], credited as an author of [[Mousebert & the Emperor's Folly]]

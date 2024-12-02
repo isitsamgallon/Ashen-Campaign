@@ -1,0 +1,1 @@
+Plays [[Aidan Knight]] in the campaign.

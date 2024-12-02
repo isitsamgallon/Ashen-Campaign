@@ -1,1 +1,1 @@
-Editor for this Archive, they also play The [[Korrigan]] in the campaign.
+Editor for The Archive, they also play [[The Korrigan]] and previously played [[Kal ‡]] in the campaign.

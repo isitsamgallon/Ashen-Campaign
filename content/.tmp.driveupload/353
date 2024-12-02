@@ -1,0 +1,330 @@
+{
+  "main": {
+    "id": "b22364c955abf9db",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe3add9da2172517",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd2ed6001227e360",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other Information/The Party's To Do List.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "The Party's To Do List"
+            }
+          },
+          {
+            "id": "deea1a9c15db926f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MISC/Display Tags/Spell Links.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Spell Links"
+            }
+          },
+          {
+            "id": "544b23ac632399aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Dead/Kal ‡.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kal ‡"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df4417287a3689f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc5ee500e3c10920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33d07f9a41dfed6f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a194b655ae32233d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "becca5003556965d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "8a89b070f138d311",
+    "type": "split",
+    "children": [
+      {
+        "id": "f407689f75d8bcbc",
+        "type": "tabs",
+        "dimension": 51.36674259681093,
+        "children": [
+          {
+            "id": "e5f73c027d48519c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PCs/Mordecai Reverence.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mordecai Reverence"
+            }
+          },
+          {
+            "id": "f7618d6c66edcf7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b97f0c7e696acd1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PCs/Dead/Kal ‡.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kal ‡"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "82019ce508555ac2",
+        "type": "tabs",
+        "dimension": 48.63325740318907,
+        "children": [
+          {
+            "id": "a2d56b85f3918653",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PCs/Dead/Kal ‡.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kal ‡"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "floating": {
+    "id": "b08afe003ecdae33",
+    "type": "floating",
+    "children": [
+      {
+        "id": "75b1679bdd205d89",
+        "type": "window",
+        "children": [
+          {
+            "id": "2993c9a3243d9f5b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a902cbcfb0e6887f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PCs/Mordecai Reverence.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Mordecai Reverence"
+                }
+              },
+              {
+                "id": "fb3319f03b3f9640",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PCs/Dead/Kal ‡.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kal ‡"
+                }
+              },
+              {
+                "id": "b2e682cfda4eca4e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PCs/Wurinn 'Drache' Fuuldrusch.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Wurinn 'Drache' Fuuldrusch"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical",
+        "x": 1284,
+        "y": 34,
+        "width": 1269,
+        "height": 1399,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "544b23ac632399aa",
+  "lastOpenFiles": [
+    "PCs/Dead/Chenris Tallfellow ‡.md",
+    "Named Characters & Beasts/Historically Significant  Characters/Akin Netch ‡.md",
+    "Books, Documents & Artefacts/Mousebert & the Emperor's Folly.md",
+    "PCs/Dead/Kal ‡.md",
+    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn.md",
+    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera.md",
+    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris.md",
+    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †.md",
+    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Mother.md",
+    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline.md",
+    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon.md",
+    "Locations/Goldpass Bridge.md",
+    "Locations/Iron Plains.md",
+    "Locations/Snowport.md",
+    "MISC/INFORMATION MISSING OR OUT-OF-DATE.md",
+    "MISC/Display Tags/The Ashen Book.md",
+    "MISC/TOM MISSING INFORMATION.md",
+    "History & Events/The Ancient Pillars.md",
+    "History & Events/Skyfall Ward.md",
+    "Locations/Itone.md",
+    "Named Characters & Beasts/Important Characters/Velthis.md",
+    "PCs/The Korrigan/Zephyr.md",
+    "PCs/The Korrigan/The Korrigan.md",
+    "PCs/Other Party Members/Steve Ulan.md",
+    "Locations/The Dawn Empire/Newhall.md",
+    "PCs/Other Party Members/Dragche.md",
+    "PCs/The Korrigan",
+    "sync.ffs_lock",
+    "PCs/Dead",
+    "MISC/Images/CapitalCityMarker.png",
+    "MISC/Images/Ehobel_Map.jpg",
+    "MISC/Images/Emerald_Swan.jpeg",
+    "MISC/Images/grom.png",
+    "MISC/Images/HOMUNCULUS SERVANT STATBLOCK.png",
+    "MISC/Images/IMG_0309.jpg",
+    "MISC/Images/KorriganProfilePic.png",
+    "MISC/Images/Leotoris' Note.png",
+    "MISC/Images/Map of The Amber Realms.png",
+    "MISC/Images/The_Dawn_Empire_Map.jpg",
+    "Books, Documents & Artefacts/Artefacts",
+    "Other Information",
+    "PCs/Other Party Members/Untitled",
+    "PCs/Other Party Members/Meta",
+    "Session Notes/Season 4",
+    "Locations/Feywild",
+    "Session Notes/Season 4 - Name Undecided",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

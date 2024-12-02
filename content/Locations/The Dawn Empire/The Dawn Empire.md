@@ -14,7 +14,7 @@ The home nation of the Humans in [[The Amber Realms]] and led by The Emperor, [[
 - [[Dusthall]]
 - [[Farpost]]
 - [[Locations/The Dawn Empire/Ironfalls|Ironfalls]] 
-- [[New hall]]
+- [[Newhall]]
 - [[Oceanvale]]
 - [[Rosehost]]
 - [[The All Father Temple]]

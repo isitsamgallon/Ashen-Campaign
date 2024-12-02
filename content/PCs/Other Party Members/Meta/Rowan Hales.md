@@ -1,0 +1,1 @@
+Plays [[Mordecai Reverence]] in the campaign 

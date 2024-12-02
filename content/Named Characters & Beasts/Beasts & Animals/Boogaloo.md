@@ -1,1 +1,1 @@
-The horse [[Korrigan]] befriends in [[Session 21]].
+The horse [[The Korrigan]] befriends in [[Session 21]].
