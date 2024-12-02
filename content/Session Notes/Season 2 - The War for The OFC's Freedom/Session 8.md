@@ -9,11 +9,11 @@ As they near the Uvam Dynasty, Mordecai confesses he is wanted in Minatota, wher
 
 After denying this, [[the party]] is left alone for moment while ther guard is gone to get something. [[the party]] start to strategies before it is revealed a gnome called [[Captain Junior]] was watching them from the rood the whole time. [[The party]] is let free but they are to be accompanied by Junior everywhere they go to see if they are caught out by the gnome. 
 
-As [[the party]] get closer to [[Uvam Dynasty]], [[Mordecai Reverence]], learning from [[Chenris Tallfellow †]] and Drache's mistakes, confesses to being wanted in [[Uvam Dynasty]] and in particular the town [[Minatota]] where people have mentioned seeing Witherfeather. Mordecai reluctantly agrees and [[the party]] enter [[Uvam Dynasty]] and find their way to [[Minatota]]. 
+As [[the party]] get closer to [[Uvam Dynasty]], [[Mordecai Reverence]], learning from [[Chenris Tallfellow ‡]] and Drache's mistakes, confesses to being wanted in [[Uvam Dynasty]] and in particular the town [[Minatota]] where people have mentioned seeing Witherfeather. Mordecai reluctantly agrees and [[the party]] enter [[Uvam Dynasty]] and find their way to [[Minatota]]. 
 
 [[The party]] unknowingly enter a sex club after trying to find information on Witherfeather. after Drache accidentally buys an extremely expensive drink for the place, [[the party]] learn the wizard had been spotted at nightclub called the [[Nightshade's Crown]] and is known to hang out with a person called [[Arwen Gryffon]]. Mordecai goes pale when learning this. Mordecai has a sip of a really strong drink for courage, warns everyone to try and stick together as the club was designed to isolate and rob people. Unfortunately thew club was much more disorientating than expected and [[the party]] is split up almost immediately. Here are the vents of the club:
 - [[Aidan Knight]], is charmed and kidnapped by a Teifling 
-- [[Korrigan]] talks to some shifty looking characters who try to pick pocket him. He is confused why people would want to pickpocket and gives them the money anyway. They buy drinks together and the bartender spikes Korrigan with the suggestion potion
+- [[The Korrigan]] talks to some shifty looking characters who try to pick pocket him. He is confused why people would want to pickpocket and gives them the money anyway. They buy drinks together and the bartender spikes Korrigan with the suggestion potion
 - Drache and Chenris try to find Mordecai.
 - Mordecai gives money to an old friend who looks ROUGH because they’re clearly being abused by Arwen.
 - Aidan comes to being tied to a bed with all his equipment stolen and the tiefling informing an old man that “they’d found another one for him” and he knocks Aidan out cold.

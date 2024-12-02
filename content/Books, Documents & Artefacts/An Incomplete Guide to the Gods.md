@@ -1,4 +1,4 @@
-A book [[Chenris Tallfellow †]] picked up in [[Steelwick]]'s library that detailed some knowledge about the [[The Ashen Pantheon]]. Here are its contents:
+A book [[Chenris Tallfellow ‡]] picked up in [[Steelwick]]'s library that detailed some knowledge about the [[The Ashen Pantheon]]. Here are its contents:
 
 # Information on Deities 
 There are several deities that watch over the [[The Amber Realms]] there is no distinction between the moral standing of these deities, they all do as they want. This means that the inhabitants of [[The Amber Realms]] often see these deities as fickle, though this is not the truth as they plan and scheme and often have agendas they wish to fulfil.

@@ -58,7 +58,7 @@ Minister of Intelligence; [[Aidan Knight]]
 - **Initiates**: Trainees hand selected from the recruitment system that show aptitude in stealth/agility/deception etc. Officers and above can also send recommendations for hire if they find someone who shows potential (A potential way to reform criminals)
 
 # Environment 
-Minister of Agriculture & Environment; [[Korrigan]] 
+Minister of Agriculture & Environment; [[The Korrigan]] 
 
 **R.A.W.R. Rejuvenation of Agricultural Wonders and Resources**
 
@@ -85,7 +85,7 @@ Minister of Agriculture & Environment; [[Korrigan]]
 - Hunting Limit: Hunting for sport is outlawed.
 
 # Education 
-Minister of Education; [[Chenris Tallfellow †]]
+Minister of Education; [[Chenris Tallfellow ‡]]
 
 **Primary Focus:**
 - Raise education levels of the general populace to meet the following:

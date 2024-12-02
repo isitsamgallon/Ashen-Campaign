@@ -1,4 +1,4 @@
-A book [[Chenris Tallfellow †]] found when exploring the lair of a Wyvern they had chilled killed. it was written in Ancient Dwarven, and Chenris spent some time translating it to learn the language. 
+A book [[Chenris Tallfellow ‡]] found when exploring the lair of a Wyvern they had chilled killed. it was written in Ancient Dwarven, and Chenris spent some time translating it to learn the language. 
 
 ### The Book
 Once upon a time, in a land where dragons roamed and magic flowed like a gentle stream, there lived a small but brave halfling named Froki. Froki wasn't like the other halflings in his village. While they were content with their simple lives, Froki dreamed of grand adventures and heroic deeds.
