@@ -1,3 +1,11 @@
+---
+Summary: After talking to many of the Gods' priests, Chenris eventually gets a vision of the Mummy Lord in the pyramid encouraging us to return and deal with it.
+Part:
+  - Part 3
+type: session
+sessionNum: "21"
+---
+
 # Session Summery
 At the same time as Chenris Tallfellow and Mordecai Reverance explore Aeloria’s room, Aidan Knight and Kal Korrigan enter the room dedicated to Chronovorus. The room is filled with clocks ticking at different speeds, and a time disturbance surrounded by crystals like those atop The Towers. Korrigan speaks with an old priest who explains that despite Chronovorus' chaotic reputation, he maintains the flow of time, preventing it from accelerating or reversing. When the priest learns that Aidan once made a deal with Chronovorus but has lost most of his memory due to a mind-wipe, he speculates that Aidan’s time powers may stem from the deity, though Aidan notes he had some time manipulation abilities since his childhood, when he was tortured by The Black Cult. Aidan's revelation about a possession incident in Ehobel causes the priest to recognize and congratulate him for fulfilling Chronovorus’ will, which enrages Korrigan. The priest cryptically warns them about Whitespire, hinting that Chronovorus may desire another tower to fall. After leaving, Korrigan encourages Aidan to take control of his powers, though Aidan is unsettled by a whisper saying, "or my will."
 

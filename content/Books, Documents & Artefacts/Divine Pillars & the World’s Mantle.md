@@ -5,7 +5,7 @@ The text began with the story of The Primordial Divinity, [[Aetherion]]—[[the 
 
 [[Aetherion]]'s body fractured into countless eggs, each one hatching into vast and powerful beings. To shield themselves from the divine, these beings encased themselves within shells, crafting the very planets upon which life would flourish.
 
-The planet upon which [[the party]] journeyed had one of these beings at its core—a creature known as [[The Golden Being]], a monstrous entity whose vast tentacles had been lured into the towering pillars that now held it captive. These Divine Pillars, ancient and mysterious, drained the creature’s power, syphoning its energy to maintain a precarious balance, binding [[Terathra]] to its prison and warding off the wrath of the gods. The book explains that [[Terathra]]’s very being repels the gods and suppresses their power, [[the towers]] amplify that power to create a barrier to protect the mortal world from the gods.
+The planet upon which [[The Party]] journeyed had one of these beings at its core—a creature known as [[The Golden Being]], a monstrous entity whose vast tentacles had been lured into the towering pillars that now held it captive. These Divine Pillars, ancient and mysterious, drained the creature’s power, syphoning its energy to maintain a precarious balance, binding [[Terathra]] to its prison and warding off the wrath of the gods. The book explains that [[Terathra]]’s very being repels the gods and suppresses their power, [[The Towers]] amplify that power to create a barrier to protect the mortal world from the gods.
 
 [[The Golden Being]] could be freed by severing the magical link that connected [[Terathra]] to the pillars
 

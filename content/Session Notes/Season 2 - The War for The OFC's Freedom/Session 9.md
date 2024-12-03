@@ -1,3 +1,10 @@
+---
+Summary: We are captured by the Goblin Mafia and need to escape before they kill us. We make it to Steelwick to find Xekai defending Steve in court
+Part:
+  - Part 2
+type: session
+sessionNum: "9"
+---
 
 # Session Summery 
 After subduing Aidan Knight and stabilizing him, the party is ambushed by a goblin mage who uses powerful ancient magic to increase gravity, incapacitating them. Chenris Tallfellow manages to dispel the magic on Korrigan, who attempts to shoot the mage but misses as the mage turns invisible. With the situation worsening and Arwen Gryffon approaching with goblins, Chenris attempts to stop the mage but fails, causing the party to black out. They awaken in Aeloria's library, where she offers to help them level up in exchange for information. They later find themselves captured and forced to mine in a goblin-controlled area, but manage to escape using a combination of deception, magic, and scouting from Korrigan's summoned bird, Zephyr. The party retrieves their gear and escapes to Steelwick, where they find the city deserted due to a trial.

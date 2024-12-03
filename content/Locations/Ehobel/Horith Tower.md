@@ -1,1 +1,1 @@
-One of [[the towers]] in [[Ehobel]]
+One of [[The Towers]] in [[Ehobel]]

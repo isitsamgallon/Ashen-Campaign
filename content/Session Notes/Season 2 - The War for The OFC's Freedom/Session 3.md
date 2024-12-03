@@ -1,3 +1,10 @@
+---
+Summary: We travel to Steelwick and meet "Kal The Korrigan". We also explore the new discovered dungeon found under the city.
+Part:
+  - Part 2
+type: session
+sessionNum: "3"
+---
 They climb the mountain to try a find the Wyven's lair. The group reason that this is what [[Kal ‡]] would’ve wanted. The group eventually find it - its not a naturally occurring cave, more like it was hollowed out long ago. the lair is full of books shelves with ancient books written in ancient dwarvish. [[Chenris Tallfellow ‡]] takes one of the books to for further study and in the hopes of learning the language. [[Mordecai Reverence]] recognised the language from his travels. This language is found all over the cave and even on four pillars that are holding up the cave. The group decided that its best that leave for [[Steelwick]] to not only learn more about the books but about what is also going in with [[Steve Ulan]].
 
 As the group gets to [[Steelwick]] they hear a Familiar voice asking the party for any food. They turn to face the character and the person looks and sounds exactly like Kal but this person has antlers. He calls himself Korrigan and has amnesia. The group takes him in more out of curiosity (Chenris keep trying to securely study him).  Mordecai then scare Korrigans  into using his abilities to learn more about him and his abilities. [[Lorwyn]]'s name comes up a lot when talking about his powers, he even has Kal's Bow. 

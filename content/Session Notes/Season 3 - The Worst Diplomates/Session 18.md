@@ -1,3 +1,10 @@
+---
+Summary: We eventually reached the town of Caalona, where we find it has been taken over by a powerful mage.
+Part:
+  - Part 3
+type: session
+sessionNum: "18"
+---
 
 # Session Summery 
 After their previous ordeal, the party arrives at the gates of [[Caalona]], where they encounter a peculiar city that morphs based on each person's desires and needs. Aidan sees a city filled with hot springs and massage parlors to heal and reflect, Kal views wells and stores of mana potions to regain his depleted magic, Mordecai perceives an aerial obstacle courses and theme park rides, and Chenris envisions a library of cannibal research due to his curiosity about the [[Elven Cannibals]]’ regenerative powers. Suspicious of the city’s appearance, Kal prompts Mordecai to cast "Dispel Magic," revealing the illusion. Despite Mordecai’s warning, the others are engulfed in their respective visions, leading them to enter a building that each sees differently. Inside, Mordecai sees reality—a shack with over fifty entranced elves—and becomes determined to break his companions free from their delusions.

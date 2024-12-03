@@ -16,4 +16,4 @@ Aeloria is seen as generally a good god who dedicates herself to bringing hope t
 - [[The All Father Temple]]
 
 ### Trivia 
-- Aeloria is responsible for [[the party]] [[Level Up]]s
+- Aeloria is responsible for [[The Party]] [[Level Up]]s

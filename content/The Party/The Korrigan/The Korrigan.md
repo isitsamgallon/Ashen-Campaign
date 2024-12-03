@@ -32,3 +32,8 @@ After his death, he awoke in Lorwyn's realm where he eventually made a deal with
 - Korrigan was taught the word cunt by Mordecai, but he has not used it correctly since
 - Korrigan's eyes glow purple when he is pissed off
 - Korrigan is particularly fond of charming enemies  
+
+### Tags
+Type:: The Party
+Role:: Party Member
+Class:: Ranger/Druid

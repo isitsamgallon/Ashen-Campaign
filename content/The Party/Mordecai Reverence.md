@@ -30,4 +30,7 @@ Sometime later they arrived in [[Minatota]] where they joined the [[Nightshade's
 - Due to a series of misunderstandings, Drache ships Mordecai and Chenris - much to their dismay 
 - Mordecai canonically does drag and has even put [[The Korrigan]] and [[Wurinn 'Drache' Fuuldrusch]] in their own drag costumes at times.
 
-[[INFORMATION MISSING OR OUT-OF-DATE]]
+### Tags
+Type:: The Party
+Role:: Party Member
+Class:: Sorcerer/Bard

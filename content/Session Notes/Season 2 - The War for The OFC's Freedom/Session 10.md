@@ -1,3 +1,9 @@
+~~~~---
+Summary: 
+Tags: part2
+Type: session
+SessionNum:10
+---~~~~
 
 # Session Summery
 The party returns to Dustwood, dismisses Captain Junior, and heads to Farpost. Along the way, Chenris and Korrigan make a risky deal, exchanging information for Drache's soul contract. This leads to some confusion with directions, resulting in the group taking a wrong turn, which they correct after Mordecai intervenes. On the road, they encounter a Merchant Guild caravan that refuses to interact with them, raising suspicions. Upon arriving in Farpost, they deliver important notes to Commander Arez, who sends troops to protect Steelwick and readies his forces for a major battle against the Dawn Empire, rewarding the party before they depart.

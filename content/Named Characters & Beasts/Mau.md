@@ -1,1 +1,1 @@
-The guard [[the party]] met in [[Dawnhaven]], is a part of the [[Ivory Crest]].
+The guard [[The Party]] met in [[Dawnhaven]], is a part of the [[Ivory Crest]].

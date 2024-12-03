@@ -1,3 +1,12 @@
+---
+Summary: Xekai's portal delivers us to Yakawa where we infiltrate the Tulan fort and free Emmeline.
+Part:
+  - Part 3
+type: session
+sessionNum: "23"
+---
+
+
 # Session Summery
 The Party exits the purple portal just outside of Yakawa, where they find Drache drawing in the mud, waiting for them. Aidan chooses to travel to Blackwall to cure his Mummy Rot, while the rest of the group catches Drache up on the recent events involving Steve Ulan’s cult, [[The All Father Temple]], and The Pyramid. The Party decides to head to the Adventurers Guild to rest before sneaking into The Tulan Fort at night to rescue Emmeline. Drache explains his plan, which involves using a secret tunnel to infiltrate the fort and the help of his contact, Olgrik, to provide disguises. Though there’s some tension due to the lack of confirmation from Olgrik or Emmeline, Drache reassures the group of his trust in their allies.
 

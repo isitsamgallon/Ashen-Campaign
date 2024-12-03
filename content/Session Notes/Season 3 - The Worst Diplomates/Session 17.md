@@ -1,3 +1,11 @@
+---
+Summary: After helping Obeus escape, we leave the town as quickly as possible. When camping for the night we learn that the Ethertwist Haunter has been following them through Ehobel.
+Part:
+  - Part 3
+type: session
+sessionNum: "17"
+---
+
 
 # Session Summery 
 The party, after reuniting outside the palace, decides to leave the city of Ishnmel to avoid being implicated in Obeus Yelris's disappearance. During their escape, Mordecai Reverance reassures Obeus, who is delighted to have made friends for the first time. She offers them a cursed amulet, but Chenris Tallfellow confirms that the curse has been lifted. They set up camp outside the city walls, and during their watches, they uncover troubling news: the Emperor is missing, local lords are gaining power, and The Ethertwist Haunter is monitoring them. They decide to keep moving toward [[Caalona]], only to be ambushed by [[Elven Cannibals]], who mysteriously revive after being killed. Chenris uses magic to command the [[Elven Cannibals]] to flee, allowing the group to make a hasty escape.
@@ -9,7 +17,7 @@ The party, after reuniting outside the palace, decides to leave the city of Ishn
 
 Having dealt with [[Chronovorus]] before, [[The Party]] was incredibly worried for their and Obeus' safety with the amulet near them. [[Chenris Tallfellow ‡]] casts [Identify](https://www.dndbeyond.com/spells/2152-identify) on the amulet and breathes a sigh of relief when it seems that the curse has been lifted and curiously been taken on by someone else. 
 
-[[The party]] are now outside the gates of the city and asks [[The Korrigan]] where the best place to set up camp might. (Due to a low roll) He decides it would be best to sleep right outside the castle wall. Most people disagree but go with it once Chenris reminds them that Korrigan would know best in these situations. 
+[[The Party]] are now outside the gates of the city and asks [[The Korrigan]] where the best place to set up camp might. (Due to a low roll) He decides it would be best to sleep right outside the castle wall. Most people disagree but go with it once Chenris reminds them that Korrigan would know best in these situations. 
 
 #### Chenris & [[Aidan Knight]]'s watch:
 Sitting alone Chenris ask Aidan about his possession by [[chronovorus]] and starts to take notes as Aidan is talking. Aidan reveals that the possession actually started the night before [[Session 15]] and it felt like something halfway between being in autopilot and being in a coma. That was until [[chronovorus]] took full control and started opening time rifts. Apparently attacking his body did help him regain some control but this only angered the god and took back control. it was only after Mordecai cast [Dispel Magic](https://www.dndbeyond.com/spells/2072-dispel-magic) that he regained control. Having learned all he wanted, Chenris closed his notebook and returned to reading. 

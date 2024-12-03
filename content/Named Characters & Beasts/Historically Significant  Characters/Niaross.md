@@ -1,3 +1,3 @@
 The Grand Architect. A mysterious member of [[The Auditors]] who was the primary creator of [[The Ancient Pillars]] and is specifically mentioned as the person who created [[The Tower of Ishnmel]] with the help of [[Ashira Yelris †]]. 
 
-They were first mentioned in [[The Sundering - As told by The Ashen Cult]] in very negative light. This was most likely due to him creating [[the towers]] that used to hold back the Gods - including [[Ignatius]]. They also seem to be connected to [[The All Father]] due to they're they're in [[The Towers]] and their ability to drain [[The All Father]]'s power.
+They were first mentioned in [[The Sundering - As told by The Ashen Cult]] in a very negative light. This was most likely due to him creating [[The Towers]] that used to hold back the Gods - including [[Ignatius]]. They also seem to be connected to [[The All Father]] due to they're they're in [[The Towers]] and their ability to drain [[The All Father]] 's power.

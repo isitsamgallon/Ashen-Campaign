@@ -1,3 +1,11 @@
+---
+Summary: Chenris, Mordecai and Korrigan explore further and aim to scout out Dawnhaven. However, along the way, they help a man retrieve his stuff from a which. Dawnhaven has been overrun with dark mages.
+Part:
+  - Part 3
+type: session
+sessionNum: "24"
+---
+
 # Session Summary 
 After infiltrating The Tulan Fort, the Party took some time to rest and heal. However, Emmeline’s injuries proved severe, requiring bed rest, so Drache chose to stay and protect her. Meanwhile, Aidan departed during the night, leaving a note promising to rejoin later. Mordecai, anxious to leave Yakawa, urged Chenris and Korrigan to prepare quickly, suggesting a route through Itone and Dawnhaven to investigate Galen Verix's disappearance. Along the way, they planned to revisit the Wyvern Cave. Before departing, Korrigan practised his new Illusionary Script spell, encrypting a note for Drache and Aidan. As they travelled, the group encountered a blockade of heavily armoured Tieflings and Humans searching for Mordecai, creating a tense situation that they narrowly navigated through subterfuge.
 

@@ -1,4 +1,10 @@
-
+---
+Summary: We travel to the small town of Newhall where we find the town plagued with a curse that made them lose their sleep and memories.
+Part:
+  - Part 2
+type: session
+sessionNum: "7"
+---
 # Session Summery
 The party decides to head to the Uvam Dynasty to urgently unbrainwash Drache but first takes on a quest in New Hall, where people have been mysteriously disappearing. Upon arrival, they encounter exhausted guards who let them in without issue. At the tavern, the party questions the locals about the disappearances but finds no helpful information, raising their suspicions. That night, they experience unsettling dreams of a faceless angel, the Angel Under the Well, lifting them above a wall of screaming faces. Some party members remember the dream, leaving everyone feeling uneasy.
 

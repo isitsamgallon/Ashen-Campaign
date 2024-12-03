@@ -1,4 +1,4 @@
-Found in the mines connected to [[Steelwick]]. [[The party]] found the place by accepting a quest from [[Strixhaven]] to investigate some strange doors in the [[Steelwick]] mines. The Dungeon was full of puzzles and enemies
+Found in the mines connected to [[Steelwick]]. [[The Party]] found the place by accepting a quest from [[Strixhaven]] to investigate some strange doors in the [[Steelwick]] mines. The Dungeon was full of puzzles and enemies
 
 > [!Ancient Dwarven Stronghold Puzzles]
 > The first room has puzzle in it. there a 4 pedestals , each with a coloured gem on it. Further into the room were more pedestals this time with riddles on them.. the riddles are as following:
@@ -16,4 +16,4 @@ Found in the mines connected to [[Steelwick]]. [[The party]] found the place by 
 > 
 > Next was a simple room that had a door in it with the following written above it "OTTFFSS - What comes next?" the answer was "E" because it was **O**ne, **T**wo, **T**hree, **F**our, **F**ive, **S**ix, **S**even, **EIGHT**. 
 > 
-> Finally the group accounted a room where massive constructs were shovelling lava into a machine. Korrigan noticed mid-fight that the constructs were powered by lava as well, allowing [[the party]] to defeat them without anyone dying. to get to the next room there was a massive lava moat to cross. after some time [[the party]] realised there was a water pipe above them they could shoot to make the lava solid. 
+> Finally the group accounted a room where massive constructs were shovelling lava into a machine. Korrigan noticed mid-fight that the constructs were powered by lava as well, allowing [[The Party]] to defeat them without anyone dying. to get to the next room there was a massive lava moat to cross. after some time [[The Party]] realised there was a water pipe above them they could shoot to make the lava solid. 

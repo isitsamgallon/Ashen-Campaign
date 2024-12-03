@@ -1,3 +1,11 @@
+---
+Summary: We carried on through the pyramid and managed to solve its puzzles and defeat its master. Xekai comes to our rescue as the pyramid begins to collapse in on itself.
+Part:
+  - Part 3
+type: session
+sessionNum: "22"
+---
+
 # Session Summary
 The Party continued their journey through the Pyramid, with Kal Korrigan investigating a strange itch stemming from a zombie squirrel bite. Despite the discomfort, they pressed on, with Korrigan accidentally alerting nearby mummies. A battle ensued, with Korrigan missing his target due to the itch and hitting Mordecai, but they still managed to defeat the mummies. Upon further exploration, they discovered an ancient map, although much of it was unreadable due to age. They also tested the golden walls of the Pyramid, only to discover they were made of fool's gold, dashing their hopes of using it to bolster the Organisation of Free Cities' finances.
 

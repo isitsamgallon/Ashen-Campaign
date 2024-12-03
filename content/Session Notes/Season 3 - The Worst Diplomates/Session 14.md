@@ -1,6 +1,13 @@
+---
+Summary: We slowly made our way to Ishnmel. Along the way, korrigan managed to contact the entity powering the towers, prompting further investigations for Korrigan and Chenris.
+Part:
+  - Part 3
+type: session
+sessionNum: "14"
+---
 
-# Session Summery 
-The Party is in Nas Anor, where Kal Korrigan suggests Aidan Knight sell his dagger at Halos Emporium and later retrieve it. Aidan agrees, and they successfully sell it for 50 gold, with Chenris Tallfellow selling some wyvern poison as well. As they head toward Ishnmel, Chenris gets everyone lost in the forest, where they are ambushed by [[Elven Cannibals]]. The party escapes with the help of a charmed cannibal and resumes their journey. They encounter Saleh Tower, one of The Ancient Pillars, where Korrigan subtly communicates with a mysterious entity inside. Moving forward, they meet a woman desperate to send a love letter to a bandit leader. Mordecai, disguised as a bandit, infiltrates the camp, learns of their plan to unleash an ogre on the city, and delivers the letter. Afterward, the Party arms a gecko named Mannnnnn to assist against the bandits, then travels to Ishnmel, where tensions rise over discussions of Korrigan and Chenris' secretive plans.
+# Session Summary 
+The Party is in Nas Anor, where Kal Korrigan suggests Aidan Knight sell his dagger at Halos Emporium and later retrieve it. Aidan agrees, and they successfully sell it for 50 gold, with Chenris Tallfellow selling some wyvern poison as well. As they head toward Ishnmel, Chenris gets everyone lost in the forest, where they are ambushed by [[Elven Cannibals]]. The party escapes with the help of a charmed cannibal and resumes their journey. They encounter Saleh Tower, one of The Ancient Pillars, where Korrigan subtly communicates with a mysterious entity inside. Moving forward, they meet a woman desperate to send a love letter to a bandit leader. Mordecai, disguised as a bandit, infiltrates the camp, learns of their plan to unleash an ogre on the city, and delivers the letter. Afterwards, the Party arms a gecko named Mannnnnn to assist against the bandits, then travels to Ishnmel, where tensions rise over discussions of Korrigan and Chenris' secretive plans.
 
 Chenris and Korrigan sneak out early to investigate The Tower of Ishnmel. They learn about the tower's unique history and its construction by Niaross and Ashira Yelris. Korrigan meditates at the tree's roots, communicating with the entity Terathra, but the connection is cut short as he exhausts his magic. Meanwhile, Mordecai, Drache, and Aidan wake up to find their companions missing and rush to the tower. They find Korrigan nearly unconscious and Chenris dismissive of his condition, leading to a tense confrontation as Mordecai realizes the gravity of the situation.
 

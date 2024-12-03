@@ -2,7 +2,7 @@ There are two main theories on how heralds are made, either they are people who 
 
 It's very unlikely anyone who fought in [[The Sundering]] became a herald because of the following: 
 - These people know the power of Heralds and Gods and how dangerous they are 
-- They wouldn't be chosen by any Gods as they helped build [[the towers]] which weakened all god's abilities
+- They wouldn't be chosen by any Gods as they helped build [[The Towers]] which weakened all god's abilities
 
 # Currently known heralds:
 - [[The Ethertwist Haunter]] - [[Chronovorus]] 

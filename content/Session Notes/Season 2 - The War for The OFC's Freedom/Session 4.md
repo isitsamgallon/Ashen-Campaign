@@ -1,3 +1,10 @@
+---
+Summary: We keep on exploring the dungeon and encounter many strange things, including a researcher that spontaneously combusted after touching an old book
+Part:
+  - Part 2
+type: session
+sessionNum: "4"
+---
 The party enter a room to find a bed a few levers, [[Kal ‡]] pulled one lever, felt a rumble then decided to say "fuck it" and pull them all; much to the party's dismay. Luckily all levers had to be down to open a set of 4 doors leading into a large cavern. 
 
 In the cavern was a huge statue of a dwarvern king/lord separated from the group by a large ravine with a very rickety, old bridge. [[Chenris Tallfellow ‡]] peered down into the darkness of the ravine and found out that there was a shit ton of explosives underneath the bridge. No one was surprised.

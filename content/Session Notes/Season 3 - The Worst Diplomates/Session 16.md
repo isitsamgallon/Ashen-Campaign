@@ -1,3 +1,10 @@
+---
+Summary: We finally get the chance to meet Empress Obeus who commands them to break her out of the palace as the guards wouldn't let her leave.
+Part:
+  - Part 3
+type: session
+sessionNum: "16"
+---
 
 # Session Summery 
 After the events of Session 15, the party returns to the Adventurers Guild for some rest. The next morning, a prank war erupts over breakfast, with Mordecai Reverance and Kal Korrigan busking for a free meal while Chenris Tallfellow outdoes them by ordering the most expensive options. Frustrated, Mordecai and the group decide to seek an audience with Empress Obeus Yelris to warn her of a potential threat to Ishnmel. Despite initial resistance from the guards, they are granted entry and discuss various concerns, including a bandit camp and the possibility of a trade deal with the OFC. During the conversation, the group learns about Obeus’s desire to explore the world outside the palace, prompting them to hatch a plan to help her escape. 
@@ -5,7 +12,7 @@ After the events of Session 15, the party returns to the Adventurers Guild for s
 Mordecai, Aidan, and Korrigan sneak into the palace with the help of Korrigan's spell, but a mishap forces Mordecai to distract the guards as a jester, allowing the others to successfully sneak Obeus out. Meanwhile, Chenris visits Grandmaster Ebis to inquire about Master Enel Cubus's disappearance. Ebis reveals a shocking ability to transform into different figures, unsettling Chenris. He runs back to the group, who notice his panic and learn that their minds may have been read by an unknown force. Disturbed and confused, they gather outside to regroup and plan their next steps.
 
 # Full Session Notes
-After the events of [[Session 15]] [[the party]] go back to the [[Adventurers Guild]] to have a nights rest. and wake up the next morning for breakfast. [[Mordecai Reverence]] decides he and [[The Korrigan]] should busk for a Deluxe breakfast (Worth 25 [[Gold]]) as a way to show up [[Chenris Tallfellow ‡]]. The staff agree that if they busk for an hour or so they'll get a breakfast on the house. Chenris overhears this and decides to show them up no matter what. Mordecai and Korrigan get their free breakfasts, Chenris orders the deluxe breakfast and bottle of their most expensive wine, [[Wurinn 'Drache' Fuuldrusch]] orders a standard breakfast. Mordecai is mad at Chenris for ruining his prank.
+After the events of [[Session 15]] [[The Party]] go back to the [[Adventurers Guild]] to have a nights rest. and wake up the next morning for breakfast. [[Mordecai Reverence]] decides he and [[The Korrigan]] should busk for a Deluxe breakfast (Worth 25 [[Gold]]) as a way to show up [[Chenris Tallfellow ‡]]. The staff agree that if they busk for an hour or so they'll get a breakfast on the house. Chenris overhears this and decides to show them up no matter what. Mordecai and Korrigan get their free breakfasts, Chenris orders the deluxe breakfast and bottle of their most expensive wine, [[Wurinn 'Drache' Fuuldrusch]] orders a standard breakfast. Mordecai is mad at Chenris for ruining his prank.
 
 [[The Party]] decided to go straight to the palace and see if they can get a an audience with [[Obeus Yelris|The Empress]]. As they approach, they realise that Mordecai is the only person with [Dispel Magic](https://www.dndbeyond.com/spells/2072-dispel-magic), and can stop [[Aidan Knight]] and as he is a human, he probably wouldn't be welcome in the palace. Chenris, Korrigan and Drache approach the The Empress' chambers and ask the guards if they've able to have an audience with her. He states that The Empress is not to be disturbed and isn't taking visitors. After a few attempts at convincing the guard they manage to convince both him and the empress that they should talk a because they know of an threat to [[Ishnmel]]. 
 

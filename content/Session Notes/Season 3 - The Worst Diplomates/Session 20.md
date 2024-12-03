@@ -1,3 +1,11 @@
+---
+Summary: We decide to head for the all father temple along the way to meeting up with Drache.
+Part:
+  - Part 3
+type: session
+sessionNum: "20"
+---
+
 # Session Summary
 The Party, after finalizing their travel plans, departs from Blackwall with Wurinn 'Drache' Fuuldrusch scouting ahead toward Yakawa. They decide to visit [[The All Father Temple]] to gain insights on the Gods and Terathra and plan to investigate [[The Pyramid]] that appeared during The War for the OFC's Freedom as they pass through Whitespire. Their journey includes brief stops in Dawnhaven to investigate Galen Verix’s disappearance and a detour along the Verdant Spine, where Kal Korrigan suggests checking out the Wyvern Cave. Early into their travels, they have a tense but ultimately benign encounter with a hunter and his daughter, a Tabaxi who prefers silence. The minor miscommunication is quickly resolved, and they part ways amicably.
 

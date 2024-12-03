@@ -1,3 +1,11 @@
+---
+Summary: We all reunite and explore the overrun Dawnhaven and are eventually forced to help the leader of the takeover. Chenris sacrifices himself to save the rest of the party
+Part:
+  - Part 3
+type: session
+sessionNum: "25"
+---
+
 # Session Summary 
 The party's latest adventure begins with Aidan Knight travelling back to Blackwall to retrieve their cart, only to find time frozen yet again, accompanied by a sinister black mist. Following the mist leads him toward Farpost, but he instead opts to reunite with the group in Dawnhaven, where he encounters the same unsettling cultists and purple mist. Meanwhile, Wurinn 'Drache' Fuuldrusch also experiences a frozen moment in Yakawa, forcing him to leave a note for Emmeline and flee. The two meet at the Uvam Dynasty’s border, only to be pursued by the Ethertwist Haunter, narrowly escaping into a bright light that delivers them to the rest of the party near Dawnhaven. They reunite and exchange stories, only for Chenris Tallfellow to show increasing signs of illness, though he insists he is fine.
 

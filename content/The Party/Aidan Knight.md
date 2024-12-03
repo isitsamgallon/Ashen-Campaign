@@ -20,3 +20,8 @@ Aiden has Blond hair and brown eyes. He wears all-black clothing with a black ho
 
 ### Backstory Summary
 Aiden's backstory hasn't been revealed publicly yet. 
+
+### Tags
+Type:: The Party
+Role:: Party Member
+Class:: Rogue/Warlock
