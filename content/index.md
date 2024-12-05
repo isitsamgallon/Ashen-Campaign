@@ -53,4 +53,11 @@ I plan to update this every month or if any major changes/ information is learne
 - [[Seraphina]]
 - [[Somnora]]
 - [[The Ashen Pantheon]]
-
+### Good Reads
+- [[A Chronicle of Akin Netch - The Man of Many Faces]]
+- [[Divine Pillars & the World’s Mantle]]
+- [[The Chronicles of the Grayfall Empire - A Dwarven Legacy]]
+- [[The Sundering - A Historical Account]]
+- [[The Sundering - As told by The Ashen Cult]]
+- [[The Unbroken Coin - A Tale of Two Brothers]]
+- [[Mousebert & the Emperor's Folly]]
