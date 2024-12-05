@@ -1,6 +1,13 @@
+---
+type: In The Party
+role: Party Member
+class: Barbarian/Paladin
+Nation: The Tulan Fort
+---
 
 ```statblock
 name: Wurinn Fuuldrusch
+image: [[white_dragonborn_paladin_by_cptlande_dgxnwez-fullview.jpg]]
 subtype: White Dragonborn, Barbarian/Paladin
 alignment: Lawful Good 
 ac: 17
@@ -32,8 +39,3 @@ Drache was originally from and loyal to [[The Tulan Fort]] before he fell in lov
 - He currently wields an obsidian great-sword, gained from [[Caden SteelBreaker †]] himself after fighting his animated corpse at the council building. 
 - He frequently has to carry Mordecai as he has become injured or incapacitated on many occasions, including being an incredible lightweight regarding alcohol.
 - Drache gained a dope ass bowler hat from a random encounter with goblins dancing around a fire after chenris repaired the worn-out hat they provided him.
-
-### Tags
-Type:: The Party
-Role:: Party Member
-Class:: Barbarian/Paladin

@@ -1,5 +1,12 @@
+---
+type: Dead
+role: Party Member
+class: Rogue/Ranger
+Nation: Lost Haven
+---
+
 ```statblock
-name: [[Kal]]
+name: Kal
 image: [[KorriganProfilePic.png]]
 subtype: Human, Rogue/Ranger
 alignment: Chaotic Good
@@ -23,4 +30,4 @@ The first part of Kal's backstory hasn't been revealed publicly yet.
 After these events, Kal ran away to [[Dawnhaven]], where he was soon tricked into joining the [[Ivory Crest]] where he became their slave for over 4 years before finally breaking free with the help of [[Terence Witherfeather]]. After finally being free, he left The Dawn and soon found himself in [[Organisation of Free Cities (OFC)|The Dawn]].
 
 ### Trivia
-- Kal notably wrote [[Mousebert & the Emperor's Folly]] with [[Thorn]] and [[Sera]].
+Kal notably wrote [[Mousebert & the Emperor's Folly]] with [[Thorn]] and [[Sera]].

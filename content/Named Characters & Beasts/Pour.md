@@ -1,1 +1,9 @@
-An Imp that pours the wine in [[Wooden Hearth Inn]].
+---
+tags:
+  - NPC
+Nation: Ehobel
+town: Ishnmel
+---
+
+### Overview
+An Imp that pours the wine at the [[Wooden Hearth Inn]].

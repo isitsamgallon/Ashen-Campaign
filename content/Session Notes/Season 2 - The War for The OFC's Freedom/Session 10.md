@@ -1,9 +1,11 @@
-~~~~---
+---
 Summary: 
-Tags: part2
-Type: session
-SessionNum:10
----~~~~
+Part:
+  - Part 2
+type: session
+sessionNum: "10"
+---
+
 
 # Session Summery
 The party returns to Dustwood, dismisses Captain Junior, and heads to Farpost. Along the way, Chenris and Korrigan make a risky deal, exchanging information for Drache's soul contract. This leads to some confusion with directions, resulting in the group taking a wrong turn, which they correct after Mordecai intervenes. On the road, they encounter a Merchant Guild caravan that refuses to interact with them, raising suspicions. Upon arriving in Farpost, they deliver important notes to Commander Arez, who sends troops to protect Steelwick and readies his forces for a major battle against the Dawn Empire, rewarding the party before they depart.
@@ -11,7 +13,7 @@ The party returns to Dustwood, dismisses Captain Junior, and heads to Farpost. A
 Back in Steelwick, the party stays at an Adventurers Guild, where Aidan has an emotional conversation with Mordecai about his troubled past. The next morning, Chenris encounters Merek the Wise, and instead of informing Mordecai, he tells Korrigan, leading to a bizarre situation where Korrigan takes Merek to the Feywild and secures a future favor from him. The party then focuses on rescuing Steve Ulan, with Mordecai and Aidan infiltrating a tower disguised as guards. Just as they plan their escape, a black dragon sent by [[the Auditors]] arrives to help them. The dragon takes the entire party back to Blackwall, where they find the city prepared for battle and the Goblin Mafia negotiating with Genevieve for control of Steelwick.
 
 # Full Session Notes
-[[The Party]] go through the portal back to [[Dustwood]] and get rid of their [[Captain Junior]] and venture on to [[Farpost]]. [[Chenris Tallfellow ‡]] and [[Kal ‡]] (much to the fear of the rest of the party) strike a deal of information exchange for [[Wurinn 'Drache' Fuuldrusch]]'s soul contract, which Chenris reluctantly agrees to. Chenris ends up learning about the [[The Ancient Pillars]] and Korrigan's plans to do something to the pillar in lost haven on behalf of lorwyn. For some reason the party also left these in charge of directions resulting tin the party going the wrong direction. [[Mordecai Reverence]], concerned that Korrigan had picked up Chenris’ navigation skills, pointed out they needed to turn around. 
+[[The Party]] go through the portal back to [[Dustwood]] and get rid of [[Captain Junior]] and venture on to [[Farpost]]. [[Chenris Tallfellow ‡]] and [[Kal ‡]] (much to the fear of the rest of the party) strike a deal of information exchange for [[Wurinn 'Drache' Fuuldrusch]]'s soul contract, which Chenris reluctantly agrees to. Chenris ends up learning about the [[The Ancient Pillars]] and Korrigan's plans to do something to the pillar in lost haven on behalf of lorwyn. For some reason the party also left these in charge of directions resulting tin the party going the wrong direction. [[Mordecai Reverence]], concerned that Korrigan had picked up Chenris’ navigation skills, pointed out they needed to turn around. 
 
 Along the road as they're turning around, a [[Merchant Guild]] caravan full of important weaponry refuses to let us interact with them, Chenris noted that they had a lot of guards and seemed to be going in the direction of [[Farpost]].
 

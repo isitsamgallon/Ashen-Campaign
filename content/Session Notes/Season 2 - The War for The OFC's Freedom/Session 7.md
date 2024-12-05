@@ -5,7 +5,7 @@ Part:
 type: session
 sessionNum: "7"
 ---
-# Session Summery
+# Session Summary
 The party decides to head to the Uvam Dynasty to urgently unbrainwash Drache but first takes on a quest in New Hall, where people have been mysteriously disappearing. Upon arrival, they encounter exhausted guards who let them in without issue. At the tavern, the party questions the locals about the disappearances but finds no helpful information, raising their suspicions. That night, they experience unsettling dreams of a faceless angel, the Angel Under the Well, lifting them above a wall of screaming faces. Some party members remember the dream, leaving everyone feeling uneasy.
 
 The next day, they investigate the town further by posing as surveyors. Mordecai’s mention of the faceless angel to a dock worker leads to confusion, and another villager suggests there might be something wrong with the water. The party considers jumping down the well but hesitates. After talking to unaffected guards, they learn that two guards went missing while investigating a house. Upon visiting the house, they find Captain Brookes living there under a spell. They manage to break the enchantment by bringing him back to the guard tower. Eventually, after a divine nudge, the party descends into the well, where they confront the faceless angel, a herald of an unknown god. The party fights bravely but is ultimately defeated. Despite this, they decide to spike the town's water with a potion from the Ivory Crest to make the townspeople more suggestible and successfully evacuate the town. With the town behind them, they continue their journey to the Uvam Dynasty to save Drache.

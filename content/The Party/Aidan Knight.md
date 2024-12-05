@@ -1,6 +1,12 @@
+---
+type: In The Party
+role: Party Member
+class: Rogue/Warlock
+---
 
 ```statblock
 name: Aidan Knight
+image: [[AidenKnight.png]]
 subtype: Human, Rogue/Warlock
 alignment: Chaotic Neutral 
 ac: 16
@@ -9,6 +15,7 @@ senses: Vision
 languages: Common, Elvish, Goblin, Primordial, Thieves’ Cant
 
 ```
+
 ### Overview
 Aiden Knight is a human Rogue/ Warlock Multi-class. Not much is known about this party member due to them not talking very often. He first joined the party when he was found in the middle of a large-scale time-distortion. He can manipulate time on a very small scale and is known to be able to close the time distortions created by [[Chronovorus]]. He later made a deal with the very same god to for more control over time, but he doesn't remember what he gave in return. Played by [[Jae Knight]].
 
@@ -20,8 +27,3 @@ Aiden has Blond hair and brown eyes. He wears all-black clothing with a black ho
 
 ### Backstory Summary
 Aiden's backstory hasn't been revealed publicly yet. 
-
-### Tags
-Type:: The Party
-Role:: Party Member
-Class:: Rogue/Warlock

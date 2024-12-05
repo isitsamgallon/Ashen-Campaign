@@ -1,11 +1,20 @@
-Merek the Wise is the leader of a small level 1 adventuring party made up of entirely halflings. [[The Party]] first met them on their way to [[Steelwick]] when they wanted to go kill a dragon. Unfortunately this dragon ended up being the Wyvern that killed [[The Korrigan]]. Most of [[The Party]] don't like them since they partially blame them for his death. 
+---
+tags:
+  - NPC
+Nation: The Dawn Empire
+town: Steelwick
+---
 
-Wrote a book about the fight painting him and his party in a very good light, unfortunately makes the main party look like shit.
+### Overview
+A part of a small level 1 adventuring party made up of completely Halflings. They were encountered on the [[Verdant Spine]] on their own quest to kill a dragon. Unfortunately, this dragon ended up being the Wyvern that killed [[Kal ‡]]. 
 
-[[The Korrigan]] on meeting merek after his death, took him to the fey wilds, threatened him and then gifted him a staff. He then used this as leverage to ask a favour of which merek was obliged to do. Korrigan had Merek investigating the [[The Ethertwist Haunter]]
+### Party Members 
+- [[Jerek The Smooth †]]
+- [[Derek The Brave]]
+- [[Serek The Quick]]
 
-In party with:
-- [[Derek]]
-- [[Serek]]
-- [[Jerek †]]
+### Notable Information
+- Merek wrote a book about the fight with the wyvern painting him and his party in a much better light. The book was also written in such a way that [[The Party]] were made to look pathetic. 
+- After [[The Korrigan]] 's rebirth, he eventually found Merek while staying in [[Steelwick]] and took him to the [[Feywild]] s to strike some fear into him and to make Merek owe him. He then used this favour to force Merek to investigate was was the traitor and messed up [[The Black Ritual]].
+- Through magic, Merek was then able to identify [[Chenris Tallfellow ‡]] as the traitor. 
 

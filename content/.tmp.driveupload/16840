@@ -71,25 +71,31 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 599,
+      "wordCount": 592,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.9966666666666666,
-      "characterCount": 3639,
-      "nonWhitespaceCharacterCount": 3012,
-      "readingTimeInMinutes": 2.260377358490566,
+      "pageCount": 1.9733333333333334,
+      "characterCount": 3636,
+      "nonWhitespaceCharacterCount": 3017,
+      "readingTimeInMinutes": 2.2339622641509433,
       "linkCount": 15,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1717356490866,
-      "modifiedDate": 1733249058234,
-      "sizeInBytes": 3642,
+      "modifiedDate": 1733438829248,
+      "sizeInBytes": 3732,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.9666666666666666,
-        "wordCount": 590,
-        "characterCount": 3567,
-        "nonWhitespaceCharacterCount": 2950
+        "pageCount": 1.9966666666666666,
+        "wordCount": 599,
+        "characterCount": 3639,
+        "nonWhitespaceCharacterCount": 3012
+      },
+      "frontmatter": {
+        "type": "In The Party",
+        "role": "Party Member",
+        "class": "Barbarian/Paladin",
+        "Nation": "The Tulan Fort"
       }
     },
     "The Party/The Korrigan/Zephyr.md": {
@@ -121,50 +127,97 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 418,
+      "wordCount": 409,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.3933333333333333,
-      "characterCount": 2617,
-      "nonWhitespaceCharacterCount": 2166,
-      "readingTimeInMinutes": 1.5773584905660378,
+      "pageCount": 1.3633333333333333,
+      "characterCount": 2550,
+      "nonWhitespaceCharacterCount": 2109,
+      "readingTimeInMinutes": 1.5433962264150944,
       "linkCount": 15,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728678392062,
-      "modifiedDate": 1733249470821,
-      "sizeInBytes": 2628,
+      "modifiedDate": 1733433768823,
+      "sizeInBytes": 2647,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.3633333333333333,
-        "wordCount": 409,
-        "characterCount": 2550,
-        "nonWhitespaceCharacterCount": 2109
+        "pageCount": 1.3933333333333333,
+        "wordCount": 418,
+        "characterCount": 2617,
+        "nonWhitespaceCharacterCount": 2166
+      },
+      "frontmatter": {
+        "type": "In The Party",
+        "role": "Party Member",
+        "class": "Ranger/Druid",
+        "Nation": "The Feywilds"
+      }
+    },
+    "The Party/Mordecai Reverence.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 453,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.51,
+      "characterCount": 2986,
+      "nonWhitespaceCharacterCount": 2511,
+      "readingTimeInMinutes": 1.709433962264151,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1711132504570,
+      "modifiedDate": 1733441722429,
+      "sizeInBytes": 3075,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.4466666666666668,
+        "wordCount": 434,
+        "characterCount": 2961,
+        "nonWhitespaceCharacterCount": 2504
+      },
+      "frontmatter": {
+        "type": "In The Party",
+        "role": "Party Member",
+        "class": "Sorcerer/Bard",
+        "Nation": "Uvam Dynasty"
       }
     },
     "The Party/Other Party Members/Steve Ulan.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 114,
+      "wordCount": 318,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.38,
-      "characterCount": 748,
-      "nonWhitespaceCharacterCount": 618,
-      "readingTimeInMinutes": 0.43018867924528303,
-      "linkCount": 11,
-      "embedCount": 0,
+      "pageCount": 1.06,
+      "characterCount": 1896,
+      "nonWhitespaceCharacterCount": 1554,
+      "readingTimeInMinutes": 1.2,
+      "linkCount": 14,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1728065193206,
-      "modifiedDate": 1733180542276,
-      "sizeInBytes": 750,
+      "modifiedDate": 1733438142224,
+      "sizeInBytes": 2009,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.38,
         "wordCount": 114,
         "characterCount": 748,
         "nonWhitespaceCharacterCount": 618
+      },
+      "frontmatter": {
+        "type": "Travelling",
+        "role": "Companion",
+        "class": "Fighter",
+        "Nation": "The Dawn Empire",
+        "town": "Steelwick",
+        "tags": [
+          "NPC"
+        ]
       }
     },
     "The Party/Other Party Members/Meta/Tom Brothers.md": {
@@ -317,31 +370,6 @@
         "nonWhitespaceCharacterCount": 47
       }
     },
-    "The Party/Other Party Members/Corvus.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 88,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.29333333333333333,
-      "characterCount": 529,
-      "nonWhitespaceCharacterCount": 440,
-      "readingTimeInMinutes": 0.3320754716981132,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1710532822307,
-      "modifiedDate": 1733180019330,
-      "sizeInBytes": 529,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.29333333333333333,
-        "wordCount": 88,
-        "characterCount": 529,
-        "nonWhitespaceCharacterCount": 440
-      }
-    },
     "The Party/Other Party Members/Dragche.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -367,54 +395,67 @@
         "nonWhitespaceCharacterCount": 39
       }
     },
+    "The Party/Other Party Members/Corvus.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 137,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45666666666666667,
+      "characterCount": 868,
+      "nonWhitespaceCharacterCount": 728,
+      "readingTimeInMinutes": 0.5169811320754717,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710532822307,
+      "modifiedDate": 1733437727876,
+      "sizeInBytes": 939,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.29333333333333333,
+        "wordCount": 88,
+        "characterCount": 529,
+        "nonWhitespaceCharacterCount": 440
+      },
+      "frontmatter": {
+        "type": "Travelling",
+        "role": "Companion",
+        "class": "Unknown",
+        "Nation": "Unknown"
+      }
+    },
     "The Party/Other Party Members/Bruce.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 146,
+      "wordCount": 283,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.4866666666666667,
-      "characterCount": 850,
-      "nonWhitespaceCharacterCount": 699,
-      "readingTimeInMinutes": 0.5509433962264151,
-      "linkCount": 5,
+      "pageCount": 0.9433333333333334,
+      "characterCount": 1795,
+      "nonWhitespaceCharacterCount": 1493,
+      "readingTimeInMinutes": 1.0679245283018868,
+      "linkCount": 11,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1709499188033,
-      "modifiedDate": 1733180542270,
-      "sizeInBytes": 852,
+      "modifiedDate": 1733438077166,
+      "sizeInBytes": 1892,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.4866666666666667,
         "wordCount": 146,
         "characterCount": 850,
         "nonWhitespaceCharacterCount": 699
-      }
-    },
-    "The Party/Mordecai Reverence.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 434,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.4466666666666668,
-      "characterCount": 2961,
-      "nonWhitespaceCharacterCount": 2504,
-      "readingTimeInMinutes": 1.6377358490566039,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1711132504570,
-      "modifiedDate": 1733249429824,
-      "sizeInBytes": 2965,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.43,
-        "wordCount": 429,
-        "characterCount": 2932,
-        "nonWhitespaceCharacterCount": 2481
+      },
+      "frontmatter": {
+        "type": "Travelling",
+        "class": "Paladin",
+        "role": "Companion",
+        "town": "Iron Forge",
+        "Nation": "Dwarven Empire"
       }
     },
     "The Party/Dead/Kal ‡.md": {
@@ -425,71 +466,89 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.9333333333333333,
-      "characterCount": 1756,
+      "characterCount": 1758,
       "nonWhitespaceCharacterCount": 1461,
       "readingTimeInMinutes": 1.0566037735849056,
       "linkCount": 19,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732714923539,
-      "modifiedDate": 1733180513374,
-      "sizeInBytes": 1757,
+      "modifiedDate": 1733433716032,
+      "sizeInBytes": 1835,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.9333333333333333,
         "wordCount": 280,
         "characterCount": 1756,
         "nonWhitespaceCharacterCount": 1461
+      },
+      "frontmatter": {
+        "type": "Dead",
+        "role": "Party Member",
+        "class": "Rogue/Ranger",
+        "Nation": "Lost Haven"
       }
     },
     "The Party/Dead/Chenris Tallfellow ‡.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 7855,
+      "wordCount": 7862,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 26.183333333333334,
-      "characterCount": 53473,
-      "nonWhitespaceCharacterCount": 45419,
-      "readingTimeInMinutes": 29.641509433962263,
+      "pageCount": 26.206666666666667,
+      "characterCount": 53526,
+      "nonWhitespaceCharacterCount": 45462,
+      "readingTimeInMinutes": 29.667924528301885,
       "linkCount": 252,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1711293504000,
-      "modifiedDate": 1733228742643,
-      "sizeInBytes": 53844,
+      "modifiedDate": 1733441400951,
+      "sizeInBytes": 54013,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 26.183333333333334,
-        "wordCount": 7855,
-        "characterCount": 53473,
-        "nonWhitespaceCharacterCount": 45419
+        "pageCount": 26.21,
+        "wordCount": 7863,
+        "characterCount": 53528,
+        "nonWhitespaceCharacterCount": 45465
+      },
+      "frontmatter": {
+        "type": "Dead",
+        "role": "Party Member",
+        "class": "Cleric/Artificer",
+        "Nation": "Strixhaven",
+        "town": "Strixhaven Residential Area"
       }
     },
     "The Party/Aidan Knight.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 207,
+      "wordCount": 200,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.69,
-      "characterCount": 1277,
-      "nonWhitespaceCharacterCount": 1055,
-      "readingTimeInMinutes": 0.7811320754716982,
+      "pageCount": 0.6666666666666666,
+      "characterCount": 1237,
+      "nonWhitespaceCharacterCount": 1022,
+      "readingTimeInMinutes": 0.7547169811320755,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1726581693993,
-      "modifiedDate": 1733249455791,
-      "sizeInBytes": 1283,
+      "modifiedDate": 1733435957701,
+      "sizeInBytes": 1309,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.66,
-        "wordCount": 198,
-        "characterCount": 1208,
-        "nonWhitespaceCharacterCount": 997
+        "pageCount": 0.69,
+        "wordCount": 207,
+        "characterCount": 1277,
+        "nonWhitespaceCharacterCount": 1055
+      },
+      "frontmatter": {
+        "type": "In The Party",
+        "role": "Party Member",
+        "class": "Rogue/Warlock"
       }
     },
     "Session Notes/Season 3 - The Worst Diplomates/Session 25.md": {
@@ -500,24 +559,24 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 20.64,
-      "characterCount": 35287,
+      "characterCount": 35286,
       "nonWhitespaceCharacterCount": 28988,
       "readingTimeInMinutes": 23.366037735849055,
       "linkCount": 37,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732218023300,
-      "modifiedDate": 1733262925259,
+      "modifiedDate": 1733420812960,
       "sizeInBytes": 35687,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 20.64,
         "wordCount": 6192,
-        "characterCount": 35285,
+        "characterCount": 35288,
         "nonWhitespaceCharacterCount": 28988
       },
       "frontmatter": {
-        "Summary": "We all reunite and explore the overrun Dawnhaven and are eventually forced to help the leader of the takeover. Chenris sacrifices himself to save the rest of the party",
+        "Summary": "We all reunite and explore the overrun Dawnhaven and are eventually forced to help the leader of the takeover. Chenris sacrifices himself to save the rest of the party.",
         "Part": [
           "Part 3"
         ],
@@ -540,13 +599,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728673554568,
-      "modifiedDate": 1733262844361,
+      "modifiedDate": 1733345594647,
       "sizeInBytes": 24861,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 14.006666666666666,
         "wordCount": 4202,
-        "characterCount": 24593,
+        "characterCount": 24595,
         "nonWhitespaceCharacterCount": 20344
       },
       "frontmatter": {
@@ -573,13 +632,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728241788241,
-      "modifiedDate": 1733262751606,
+      "modifiedDate": 1733345605965,
       "sizeInBytes": 29695,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 17.143333333333334,
         "wordCount": 5143,
-        "characterCount": 29499,
+        "characterCount": 29502,
         "nonWhitespaceCharacterCount": 24260
       },
       "frontmatter": {
@@ -606,13 +665,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727981318816,
-      "modifiedDate": 1733262700217,
+      "modifiedDate": 1733345610746,
       "sizeInBytes": 18664,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 10.273333333333333,
         "wordCount": 3082,
-        "characterCount": 18414,
+        "characterCount": 18416,
         "nonWhitespaceCharacterCount": 15302
       },
       "frontmatter": {
@@ -639,13 +698,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727537414050,
-      "modifiedDate": 1733262616228,
+      "modifiedDate": 1733345616178,
       "sizeInBytes": 21613,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 12.086666666666666,
         "wordCount": 3626,
-        "characterCount": 21382,
+        "characterCount": 21384,
         "nonWhitespaceCharacterCount": 17717
       },
       "frontmatter": {
@@ -672,13 +731,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728678872538,
-      "modifiedDate": 1733262530159,
+      "modifiedDate": 1733262530158,
       "sizeInBytes": 28044,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 16.17,
         "wordCount": 4851,
-        "characterCount": 27869,
+        "characterCount": 27871,
         "nonWhitespaceCharacterCount": 22943
       },
       "frontmatter": {
@@ -705,14 +764,14 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1726586225313,
-      "modifiedDate": 1733262479429,
+      "modifiedDate": 1733345508135,
       "sizeInBytes": 13480,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 7.6866666666666665,
-        "wordCount": 2306,
-        "characterCount": 13302,
-        "nonWhitespaceCharacterCount": 10949
+        "pageCount": 7.683333333333334,
+        "wordCount": 2305,
+        "characterCount": 13303,
+        "nonWhitespaceCharacterCount": 10950
       },
       "frontmatter": {
         "Summary": "We return to the OFC only to learn that Horrigan may have looted the black tower of all its worth.",
@@ -738,13 +797,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1725302177631,
-      "modifiedDate": 1733262425022,
+      "modifiedDate": 1733345493057,
       "sizeInBytes": 23833,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 13.493333333333334,
         "wordCount": 4048,
-        "characterCount": 23654,
+        "characterCount": 23655,
         "nonWhitespaceCharacterCount": 19487
       },
       "frontmatter": {
@@ -771,13 +830,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1723226794000,
-      "modifiedDate": 1733262380459,
+      "modifiedDate": 1733345637032,
       "sizeInBytes": 8370,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.46,
         "wordCount": 1338,
-        "characterCount": 8124,
+        "characterCount": 8126,
         "nonWhitespaceCharacterCount": 6741
       },
       "frontmatter": {
@@ -804,13 +863,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1722709623000,
-      "modifiedDate": 1733262301411,
+      "modifiedDate": 1733345639812,
       "sizeInBytes": 7646,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.263333333333334,
         "wordCount": 1279,
-        "characterCount": 7438,
+        "characterCount": 7439,
         "nonWhitespaceCharacterCount": 6133
       },
       "frontmatter": {
@@ -837,13 +896,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1721672606000,
-      "modifiedDate": 1733262199781,
+      "modifiedDate": 1733345642356,
       "sizeInBytes": 14833,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 8.13,
         "wordCount": 2439,
-        "characterCount": 14627,
+        "characterCount": 14628,
         "nonWhitespaceCharacterCount": 12119
       },
       "frontmatter": {
@@ -870,14 +929,14 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727385255141,
-      "modifiedDate": 1733262133130,
+      "modifiedDate": 1733345645778,
       "sizeInBytes": 8894,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.83,
         "wordCount": 1449,
-        "characterCount": 8634,
-        "nonWhitespaceCharacterCount": 7148
+        "characterCount": 8636,
+        "nonWhitespaceCharacterCount": 7149
       },
       "frontmatter": {
         "Summary": "We slowly made our way to Ishnmel. Along the way, korrigan managed to contact the entity powering the towers, prompting further investigations for Korrigan and Chenris.",
@@ -903,13 +962,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727385053771,
-      "modifiedDate": 1733262052761,
+      "modifiedDate": 1733345648579,
       "sizeInBytes": 12450,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 7.2,
         "wordCount": 2160,
-        "characterCount": 12114,
+        "characterCount": 12115,
         "nonWhitespaceCharacterCount": 9919
       },
       "frontmatter": {
@@ -929,20 +988,20 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 4.513333333333334,
-      "characterCount": 8004,
-      "nonWhitespaceCharacterCount": 6617,
+      "characterCount": 8008,
+      "nonWhitespaceCharacterCount": 6621,
       "readingTimeInMinutes": 5.109433962264151,
-      "linkCount": 52,
+      "linkCount": 53,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1716820689257,
-      "modifiedDate": 1733261967288,
-      "sizeInBytes": 8155,
+      "modifiedDate": 1733439312930,
+      "sizeInBytes": 8159,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.513333333333334,
         "wordCount": 1354,
-        "characterCount": 8003,
+        "characterCount": 8004,
         "nonWhitespaceCharacterCount": 6617
       },
       "frontmatter": {
@@ -969,13 +1028,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1715608633008,
-      "modifiedDate": 1733261628182,
+      "modifiedDate": 1733348593683,
       "sizeInBytes": 10164,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 5.683333333333334,
         "wordCount": 1705,
-        "characterCount": 9957,
+        "characterCount": 9958,
         "nonWhitespaceCharacterCount": 8217
       },
       "frontmatter": {
@@ -1002,13 +1061,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1715545464278,
-      "modifiedDate": 1733261551006,
+      "modifiedDate": 1733345760214,
       "sizeInBytes": 4801,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 2.493333333333333,
         "wordCount": 748,
-        "characterCount": 4579,
+        "characterCount": 4580,
         "nonWhitespaceCharacterCount": 3807
       },
       "frontmatter": {
@@ -1035,7 +1094,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1713648146549,
-      "modifiedDate": 1733261468505,
+      "modifiedDate": 1733345771880,
       "sizeInBytes": 9179,
       "sessionStart": {
         "noteCount": 1,
@@ -1068,13 +1127,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727359744572,
-      "modifiedDate": 1733261402815,
+      "modifiedDate": 1733345778244,
       "sizeInBytes": 7637,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.19,
         "wordCount": 1257,
-        "characterCount": 7424,
+        "characterCount": 7426,
         "nonWhitespaceCharacterCount": 6130
       },
       "frontmatter": {
@@ -1094,21 +1153,21 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.0166666666666666,
-      "characterCount": 5863,
-      "nonWhitespaceCharacterCount": 4951,
+      "characterCount": 5902,
+      "nonWhitespaceCharacterCount": 4990,
       "readingTimeInMinutes": 3.4150943396226414,
       "linkCount": 27,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1715609330399,
-      "modifiedDate": 1733264140091,
-      "sizeInBytes": 6056,
+      "modifiedDate": 1733345384218,
+      "sizeInBytes": 6095,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.4166666666666667,
-        "wordCount": 125,
-        "characterCount": 791,
-        "nonWhitespaceCharacterCount": 661
+        "pageCount": 3.0166666666666666,
+        "wordCount": 905,
+        "characterCount": 5902,
+        "nonWhitespaceCharacterCount": 4990
       },
       "frontmatter": {
         "Summary": "We go to Strixhaven to fix Bruce, learn more about the towers and even learn something about Chenris",
@@ -1117,39 +1176,6 @@
         ],
         "type": "session",
         "sessionNum": "5"
-      }
-    },
-    "Session Notes/Season 2 - The War for The OFC's Freedom/Session 4.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 607,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.0233333333333334,
-      "characterCount": 3360,
-      "nonWhitespaceCharacterCount": 2736,
-      "readingTimeInMinutes": 2.290566037735849,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715545464300,
-      "modifiedDate": 1733261254395,
-      "sizeInBytes": 3574,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 2.0233333333333334,
-        "wordCount": 607,
-        "characterCount": 3359,
-        "nonWhitespaceCharacterCount": 2736
-      },
-      "frontmatter": {
-        "Summary": "We keep on exploring the dungeon and encounter many strange things, including a researcher that spontaneously combusted after touching an old book",
-        "Part": [
-          "Part 2"
-        ],
-        "type": "session",
-        "sessionNum": "4"
       }
     },
     "Session Notes/Season 2 - The War for The OFC's Freedom/Session 3.md": {
@@ -1173,7 +1199,7 @@
         "noteCount": 1,
         "pageCount": 3.76,
         "wordCount": 1128,
-        "characterCount": 6243,
+        "characterCount": 6244,
         "nonWhitespaceCharacterCount": 5075
       },
       "frontmatter": {
@@ -1185,6 +1211,39 @@
         "sessionNum": "3"
       }
     },
+    "Session Notes/Season 2 - The War for The OFC's Freedom/Session 4.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 607,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.0233333333333334,
+      "characterCount": 3373,
+      "nonWhitespaceCharacterCount": 2749,
+      "readingTimeInMinutes": 2.290566037735849,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715545464300,
+      "modifiedDate": 1733345386206,
+      "sizeInBytes": 3587,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 2.0233333333333334,
+        "wordCount": 607,
+        "characterCount": 3373,
+        "nonWhitespaceCharacterCount": 2749
+      },
+      "frontmatter": {
+        "Summary": "We keep on exploring the dungeon and encounter many strange things, including a researcher that spontaneously combusted after touching an old book",
+        "Part": [
+          "Part 2"
+        ],
+        "type": "session",
+        "sessionNum": "4"
+      }
+    },
     "Session Notes/Season 2 - The War for The OFC's Freedom/Session 2.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1193,21 +1252,21 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 4.286666666666667,
-      "characterCount": 7272,
-      "nonWhitespaceCharacterCount": 5933,
+      "characterCount": 7311,
+      "nonWhitespaceCharacterCount": 5972,
       "readingTimeInMinutes": 4.8528301886792455,
       "linkCount": 36,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727357976804,
-      "modifiedDate": 1733261079917,
-      "sizeInBytes": 7427,
+      "modifiedDate": 1733345390489,
+      "sizeInBytes": 7466,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 4.286666666666667,
         "wordCount": 1286,
-        "characterCount": 7272,
-        "nonWhitespaceCharacterCount": 5933
+        "characterCount": 7311,
+        "nonWhitespaceCharacterCount": 5972
       },
       "frontmatter": {
         "Summary": "An Airship crashes and we meet Xekai for the first time. Kal dies in a Wyvern attack.",
@@ -1239,7 +1298,7 @@
         "noteCount": 1,
         "pageCount": 12.563333333333333,
         "wordCount": 3769,
-        "characterCount": 21835,
+        "characterCount": 21837,
         "nonWhitespaceCharacterCount": 17997
       },
       "frontmatter": {
@@ -1255,25 +1314,33 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 1714,
+      "wordCount": 1707,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.713333333333333,
-      "characterCount": 10356,
-      "nonWhitespaceCharacterCount": 8608,
-      "readingTimeInMinutes": 6.467924528301887,
-      "linkCount": 0,
+      "pageCount": 5.69,
+      "characterCount": 10286,
+      "nonWhitespaceCharacterCount": 8546,
+      "readingTimeInMinutes": 6.441509433962264,
+      "linkCount": 38,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727441633228,
-      "modifiedDate": 1733263096992,
-      "sizeInBytes": 10386,
+      "modifiedDate": 1733348724673,
+      "sizeInBytes": 10381,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 5.693333333333333,
-        "wordCount": 1708,
-        "characterCount": 10290,
-        "nonWhitespaceCharacterCount": 8551
+        "pageCount": 5.69,
+        "wordCount": 1707,
+        "characterCount": 10286,
+        "nonWhitespaceCharacterCount": 8546
+      },
+      "frontmatter": {
+        "Summary": null,
+        "Part": [
+          "Part 2"
+        ],
+        "type": "session",
+        "sessionNum": "10"
       }
     },
     "Session Notes/Season 1 - Echoes of the Ethertwist/Session 1.md": {
@@ -1297,7 +1364,7 @@
         "noteCount": 1,
         "pageCount": 3.0966666666666667,
         "wordCount": 929,
-        "characterCount": 5276,
+        "characterCount": 5277,
         "nonWhitespaceCharacterCount": 4293
       },
       "frontmatter": {
@@ -1328,10 +1395,10 @@
       "sizeInBytes": 13785,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 6.83,
-        "wordCount": 2049,
-        "characterCount": 11823,
-        "nonWhitespaceCharacterCount": 9728
+        "pageCount": 6.8966666666666665,
+        "wordCount": 2069,
+        "characterCount": 13532,
+        "nonWhitespaceCharacterCount": 11436
       },
       "frontmatter": {
         "Summary": "Records hadn't started yet, this is a summary of what happened before this vault was started.",
@@ -1340,6 +1407,31 @@
         ],
         "type": "session",
         "sessionNum": "0"
+      }
+    },
+    "Other Information/The Party's To-Do List.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 137,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45666666666666667,
+      "characterCount": 1036,
+      "nonWhitespaceCharacterCount": 819,
+      "readingTimeInMinutes": 0.5169811320754717,
+      "linkCount": 26,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1725627546719,
+      "modifiedDate": 1733238264727,
+      "sizeInBytes": 1036,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.45666666666666667,
+        "wordCount": 137,
+        "characterCount": 1036,
+        "nonWhitespaceCharacterCount": 819
       }
     },
     "Other Information/Perpetual.md": {
@@ -1392,6 +1484,106 @@
         "nonWhitespaceCharacterCount": 6205
       }
     },
+    "Other Information/Items/Multitool.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 147,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.49,
+      "characterCount": 954,
+      "nonWhitespaceCharacterCount": 803,
+      "readingTimeInMinutes": 0.5547169811320755,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1716908313543,
+      "modifiedDate": 1733180542218,
+      "sizeInBytes": 958,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.49,
+        "wordCount": 147,
+        "characterCount": 954,
+        "nonWhitespaceCharacterCount": 803
+      }
+    },
+    "Other Information/Items/Clockwork Bird.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 196,
+      "nonWhitespaceCharacterCount": 173,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 2,
+      "embedCount": 1,
+      "aliases": null,
+      "createdDate": 1721600599880,
+      "modifiedDate": 1733180542216,
+      "sizeInBytes": 198,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07333333333333333,
+        "wordCount": 22,
+        "characterCount": 196,
+        "nonWhitespaceCharacterCount": 173
+      }
+    },
+    "Other Information/Items/Bag of Devouring.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 326,
+      "nonWhitespaceCharacterCount": 287,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1721600870288,
+      "modifiedDate": 1733180542215,
+      "sizeInBytes": 328,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.13,
+        "wordCount": 39,
+        "characterCount": 326,
+        "nonWhitespaceCharacterCount": 287
+      }
+    },
+    "Other Information/Items/Alchemy Jug.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 159,
+      "nonWhitespaceCharacterCount": 142,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1721598355004,
+      "modifiedDate": 1733180542214,
+      "sizeInBytes": 161,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.056666666666666664,
+        "wordCount": 17,
+        "characterCount": 159,
+        "nonWhitespaceCharacterCount": 142
+      }
+    },
     "Other Information/Gold.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -1415,6 +1607,206 @@
         "wordCount": 16,
         "characterCount": 101,
         "nonWhitespaceCharacterCount": 80
+      }
+    },
+    "Other Information/Forge of the Astral Blades/locations/The Elderwood.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 164,
+      "nonWhitespaceCharacterCount": 137,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714429058790,
+      "modifiedDate": 1714477503527,
+      "sizeInBytes": 164,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 164,
+        "nonWhitespaceCharacterCount": 137
+      }
+    },
+    "Other Information/Forge of the Astral Blades/locations/Redspire.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 97,
+      "nonWhitespaceCharacterCount": 80,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714429113900,
+      "modifiedDate": 1714477500612,
+      "sizeInBytes": 97,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.05333333333333334,
+        "wordCount": 16,
+        "characterCount": 97,
+        "nonWhitespaceCharacterCount": 80
+      }
+    },
+    "Other Information/Forge of the Astral Blades/locations/Gateway Baazar/The Veiled Wares.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 67,
+      "nonWhitespaceCharacterCount": 55,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714477184222,
+      "modifiedDate": 1714477497577,
+      "sizeInBytes": 67,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03666666666666667,
+        "wordCount": 11,
+        "characterCount": 67,
+        "nonWhitespaceCharacterCount": 55
+      }
+    },
+    "Other Information/Forge of the Astral Blades/locations/Gateway Baazar/Shady Sam's.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 17,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.056666666666666664,
+      "characterCount": 102,
+      "nonWhitespaceCharacterCount": 84,
+      "readingTimeInMinutes": 0.06415094339622641,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714477138841,
+      "modifiedDate": 1714477494225,
+      "sizeInBytes": 102,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.056666666666666664,
+        "wordCount": 17,
+        "characterCount": 102,
+        "nonWhitespaceCharacterCount": 84
+      }
+    },
+    "Other Information/Forge of the Astral Blades/locations/Gateway Baazar/Flint's Flasks.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 114,
+      "nonWhitespaceCharacterCount": 93,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714477220788,
+      "modifiedDate": 1714477486055,
+      "sizeInBytes": 114,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06333333333333334,
+        "wordCount": 19,
+        "characterCount": 114,
+        "nonWhitespaceCharacterCount": 93
+      }
+    },
+    "Other Information/Forge of the Astral Blades/locations/Gateway Baazar/Grimbles Gear.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 82,
+      "nonWhitespaceCharacterCount": 67,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714477280415,
+      "modifiedDate": 1714477491242,
+      "sizeInBytes": 82,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.043333333333333335,
+        "wordCount": 13,
+        "characterCount": 82,
+        "nonWhitespaceCharacterCount": 67
+      }
+    },
+    "Other Information/Forge of the Astral Blades/Valoria.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 18,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06,
+      "characterCount": 117,
+      "nonWhitespaceCharacterCount": 97,
+      "readingTimeInMinutes": 0.06792452830188679,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714429088809,
+      "modifiedDate": 1714477512712,
+      "sizeInBytes": 117,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06,
+        "wordCount": 18,
+        "characterCount": 117,
+        "nonWhitespaceCharacterCount": 97
+      }
+    },
+    "Other Information/Forge of the Astral Blades/Ascended Ones.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 163,
+      "nonWhitespaceCharacterCount": 137,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714428893153,
+      "modifiedDate": 1714477506394,
+      "sizeInBytes": 163,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08,
+        "wordCount": 24,
+        "characterCount": 163,
+        "nonWhitespaceCharacterCount": 137
       }
     },
     "Other Information/Credits.md": {
@@ -1446,428 +1838,65 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 99,
+      "wordCount": 100,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.33,
-      "characterCount": 603,
-      "nonWhitespaceCharacterCount": 503,
-      "readingTimeInMinutes": 0.37358490566037733,
+      "pageCount": 0.3333333333333333,
+      "characterCount": 618,
+      "nonWhitespaceCharacterCount": 514,
+      "readingTimeInMinutes": 0.37735849056603776,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728303205759,
-      "modifiedDate": 1728472072300,
-      "sizeInBytes": 605,
+      "modifiedDate": 1733439779313,
+      "sizeInBytes": 685,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.33,
         "wordCount": 99,
         "characterCount": 603,
         "nonWhitespaceCharacterCount": 503
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Tulan Fort",
+        "town": "The Tulan Fort"
       }
     },
     "Named Characters & Beasts/Terence Witherfeather.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 191,
+      "wordCount": 239,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6366666666666667,
-      "characterCount": 1149,
-      "nonWhitespaceCharacterCount": 955,
-      "readingTimeInMinutes": 0.720754716981132,
+      "pageCount": 0.7966666666666666,
+      "characterCount": 1428,
+      "nonWhitespaceCharacterCount": 1177,
+      "readingTimeInMinutes": 0.9018867924528302,
       "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1714485501484,
-      "modifiedDate": 1733180542263,
-      "sizeInBytes": 1151,
+      "modifiedDate": 1733440304062,
+      "sizeInBytes": 1451,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.6366666666666667,
         "wordCount": 191,
         "characterCount": 1149,
         "nonWhitespaceCharacterCount": 955
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ]
       }
     },
     "Named Characters & Beasts/Tangy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 10,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 67,
-      "nonWhitespaceCharacterCount": 58,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1726674811280,
-      "modifiedDate": 1728674776836,
-      "sizeInBytes": 67,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03333333333333333,
-        "wordCount": 10,
-        "characterCount": 67,
-        "nonWhitespaceCharacterCount": 58
-      }
-    },
-    "Named Characters & Beasts/Serek.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 89,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.2966666666666667,
-      "characterCount": 519,
-      "nonWhitespaceCharacterCount": 426,
-      "readingTimeInMinutes": 0.33584905660377357,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714939474796,
-      "modifiedDate": 1732876355000,
-      "sizeInBytes": 519,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.2966666666666667,
-        "wordCount": 89,
-        "characterCount": 519,
-        "nonWhitespaceCharacterCount": 426
-      }
-    },
-    "Named Characters & Beasts/Queen Titania.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 51,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.17,
-      "characterCount": 295,
-      "nonWhitespaceCharacterCount": 243,
-      "readingTimeInMinutes": 0.19245283018867926,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1726675156153,
-      "modifiedDate": 1732876355000,
-      "sizeInBytes": 295,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.17,
-        "wordCount": 51,
-        "characterCount": 295,
-        "nonWhitespaceCharacterCount": 243
-      }
-    },
-    "Named Characters & Beasts/Pour.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 10,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 52,
-      "nonWhitespaceCharacterCount": 43,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1722710951559,
-      "modifiedDate": 1724353403339,
-      "sizeInBytes": 52,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03333333333333333,
-        "wordCount": 10,
-        "characterCount": 52,
-        "nonWhitespaceCharacterCount": 43
-      }
-    },
-    "Named Characters & Beasts/Ms. Adrei.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 14,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 77,
-      "nonWhitespaceCharacterCount": 64,
-      "readingTimeInMinutes": 0.052830188679245285,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1721246736807,
-      "modifiedDate": 1724353396339,
-      "sizeInBytes": 77,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04666666666666667,
-        "wordCount": 14,
-        "characterCount": 77,
-        "nonWhitespaceCharacterCount": 64
-      }
-    },
-    "Named Characters & Beasts/Mistrel †.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 174,
-      "nonWhitespaceCharacterCount": 148,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1709504544828,
-      "modifiedDate": 1722352915165,
-      "sizeInBytes": 174,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08666666666666667,
-        "wordCount": 26,
-        "characterCount": 174,
-        "nonWhitespaceCharacterCount": 148
-      }
-    },
-    "Named Characters & Beasts/Merek The Wise.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 140,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4666666666666667,
-      "characterCount": 814,
-      "nonWhitespaceCharacterCount": 665,
-      "readingTimeInMinutes": 0.5283018867924528,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714950999624,
-      "modifiedDate": 1733228742592,
-      "sizeInBytes": 816,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4666666666666667,
-        "wordCount": 140,
-        "characterCount": 814,
-        "nonWhitespaceCharacterCount": 665
-      }
-    },
-    "Named Characters & Beasts/Mau.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 14,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 79,
-      "nonWhitespaceCharacterCount": 66,
-      "readingTimeInMinutes": 0.052830188679245285,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1710103290261,
-      "modifiedDate": 1733228742583,
-      "sizeInBytes": 79,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04666666666666667,
-        "wordCount": 14,
-        "characterCount": 79,
-        "nonWhitespaceCharacterCount": 66
-      }
-    },
-    "Named Characters & Beasts/Malin.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 64,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.21333333333333335,
-      "characterCount": 367,
-      "nonWhitespaceCharacterCount": 303,
-      "readingTimeInMinutes": 0.24150943396226415,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1726674797713,
-      "modifiedDate": 1728674787234,
-      "sizeInBytes": 367,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.21333333333333335,
-        "wordCount": 64,
-        "characterCount": 367,
-        "nonWhitespaceCharacterCount": 303
-      }
-    },
-    "Named Characters & Beasts/Lord Ulan †.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 129,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.43,
-      "characterCount": 702,
-      "nonWhitespaceCharacterCount": 570,
-      "readingTimeInMinutes": 0.4867924528301887,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1712243376069,
-      "modifiedDate": 1733228742579,
-      "sizeInBytes": 704,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.43,
-        "wordCount": 129,
-        "characterCount": 702,
-        "nonWhitespaceCharacterCount": 570
-      }
-    },
-    "Named Characters & Beasts/King Oberon.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 9,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 63,
-      "nonWhitespaceCharacterCount": 52,
-      "readingTimeInMinutes": 0.033962264150943396,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1728678872517,
-      "modifiedDate": 1728678872517,
-      "sizeInBytes": 63,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03,
-        "wordCount": 9,
-        "characterCount": 63,
-        "nonWhitespaceCharacterCount": 52
-      }
-    },
-    "Named Characters & Beasts/Khanate Hester †.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 36,
-      "nonWhitespaceCharacterCount": 30,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1727377122335,
-      "modifiedDate": 1727377171494,
-      "sizeInBytes": 36,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 36,
-        "nonWhitespaceCharacterCount": 30
-      }
-    },
-    "Named Characters & Beasts/Keith Horrigan.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 254,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8466666666666667,
-      "characterCount": 1458,
-      "nonWhitespaceCharacterCount": 1199,
-      "readingTimeInMinutes": 0.9584905660377359,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1717358870000,
-      "modifiedDate": 1733180542254,
-      "sizeInBytes": 1460,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8466666666666667,
-        "wordCount": 254,
-        "characterCount": 1458,
-        "nonWhitespaceCharacterCount": 1199
-      }
-    },
-    "Named Characters & Beasts/Just Jack.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 19,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 117,
-      "nonWhitespaceCharacterCount": 98,
-      "readingTimeInMinutes": 0.07169811320754717,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1710713141066,
-      "modifiedDate": 1733180046136,
-      "sizeInBytes": 117,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06333333333333334,
-        "wordCount": 19,
-        "characterCount": 117,
-        "nonWhitespaceCharacterCount": 98
-      }
-    },
-    "Named Characters & Beasts/Jub.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 12,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 70,
-      "nonWhitespaceCharacterCount": 58,
-      "readingTimeInMinutes": 0.045283018867924525,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1717367523471,
-      "modifiedDate": 1724353266119,
-      "sizeInBytes": 70,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04,
-        "wordCount": 12,
-        "characterCount": 70,
-        "nonWhitespaceCharacterCount": 58
-      }
-    },
-    "Named Characters & Beasts/Jerek †.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -1875,196 +1904,600 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.03666666666666667,
-      "characterCount": 70,
-      "nonWhitespaceCharacterCount": 60,
+      "characterCount": 82,
+      "nonWhitespaceCharacterCount": 69,
       "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1726674811280,
+      "modifiedDate": 1733440293239,
+      "sizeInBytes": 155,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03333333333333333,
+        "wordCount": 10,
+        "characterCount": 67,
+        "nonWhitespaceCharacterCount": 58
+      },
+      "frontmatter": {
+        "Nation": "The Dawn Empire",
+        "town": "The All Father Temple",
+        "tags": [
+          "NPC"
+        ]
+      }
+    },
+    "Named Characters & Beasts/Queen Titania.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 337,
+      "nonWhitespaceCharacterCount": 279,
+      "readingTimeInMinutes": 0.20754716981132076,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1726675156153,
+      "modifiedDate": 1733442056844,
+      "sizeInBytes": 379,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.17,
+        "wordCount": 51,
+        "characterCount": 295,
+        "nonWhitespaceCharacterCount": 243
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Feywilds"
+      }
+    },
+    "Named Characters & Beasts/Pour.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 71,
+      "nonWhitespaceCharacterCount": 57,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1722710951559,
+      "modifiedDate": 1733441475626,
+      "sizeInBytes": 121,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03333333333333333,
+        "wordCount": 10,
+        "characterCount": 52,
+        "nonWhitespaceCharacterCount": 43
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Ehobel",
+        "town": "Ishnmel"
+      }
+    },
+    "Named Characters & Beasts/Ms. Adrei.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 96,
+      "nonWhitespaceCharacterCount": 78,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1721246736807,
+      "modifiedDate": 1733441619226,
+      "sizeInBytes": 132,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04666666666666667,
+        "wordCount": 14,
+        "characterCount": 77,
+        "nonWhitespaceCharacterCount": 64
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Ehobel"
+      }
+    },
+    "Named Characters & Beasts/Mistrel †.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 189,
+      "nonWhitespaceCharacterCount": 159,
+      "readingTimeInMinutes": 0.1018867924528302,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1715544100073,
-      "modifiedDate": 1715544141843,
-      "sizeInBytes": 70,
+      "createdDate": 1709504544828,
+      "modifiedDate": 1733441755548,
+      "sizeInBytes": 266,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.03666666666666667,
-        "wordCount": 11,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 174,
+        "nonWhitespaceCharacterCount": 148
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "type": "important",
+        "town": "Steelwick",
+        "Nation": "The Dawn Empire"
+      }
+    },
+    "Named Characters & Beasts/Merek The Wise.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 156,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.52,
+      "characterCount": 946,
+      "nonWhitespaceCharacterCount": 769,
+      "readingTimeInMinutes": 0.5886792452830188,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714950999624,
+      "modifiedDate": 1733441111633,
+      "sizeInBytes": 1013,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4666666666666667,
+        "wordCount": 140,
+        "characterCount": 814,
+        "nonWhitespaceCharacterCount": 665
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Dawn Empire",
+        "town": "Steelwick"
+      }
+    },
+    "Named Characters & Beasts/Mau.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 94,
+      "nonWhitespaceCharacterCount": 77,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710103290261,
+      "modifiedDate": 1733441793920,
+      "sizeInBytes": 155,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04666666666666667,
+        "wordCount": 14,
+        "characterCount": 79,
+        "nonWhitespaceCharacterCount": 66
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Dawn Empire",
+        "town": "Dawnhaven"
+      }
+    },
+    "Named Characters & Beasts/Malin.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 65,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 382,
+      "nonWhitespaceCharacterCount": 314,
+      "readingTimeInMinutes": 0.24528301886792453,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1726674797713,
+      "modifiedDate": 1733441923152,
+      "sizeInBytes": 455,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.21333333333333335,
+        "wordCount": 64,
+        "characterCount": 367,
+        "nonWhitespaceCharacterCount": 303
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Dawn Empire",
+        "town": "The All Father Temple"
+      }
+    },
+    "Named Characters & Beasts/Lord Ulan †.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 134,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.44666666666666666,
+      "characterCount": 757,
+      "nonWhitespaceCharacterCount": 616,
+      "readingTimeInMinutes": 0.5056603773584906,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1712243376069,
+      "modifiedDate": 1733441978821,
+      "sizeInBytes": 833,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.43,
+        "wordCount": 129,
+        "characterCount": 702,
+        "nonWhitespaceCharacterCount": 570
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Status": "Dead",
+        "Nation": "The Dawn Empire",
+        "town": "Steelwick"
+      }
+    },
+    "Named Characters & Beasts/King Oberon.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 13,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043333333333333335,
+      "characterCount": 105,
+      "nonWhitespaceCharacterCount": 88,
+      "readingTimeInMinutes": 0.04905660377358491,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728678872517,
+      "modifiedDate": 1733442049631,
+      "sizeInBytes": 147,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03,
+        "wordCount": 9,
+        "characterCount": 63,
+        "nonWhitespaceCharacterCount": 52
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Feywilds"
+      }
+    },
+    "Named Characters & Beasts/Khanate Hester †.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 51,
+      "nonWhitespaceCharacterCount": 41,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1727377122335,
+      "modifiedDate": 1733442082116,
+      "sizeInBytes": 80,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 36,
+        "nonWhitespaceCharacterCount": 30
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Status": null
+      }
+    },
+    "Named Characters & Beasts/Keith Horrigan.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 255,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.85,
+      "characterCount": 1474,
+      "nonWhitespaceCharacterCount": 1210,
+      "readingTimeInMinutes": 0.9622641509433962,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1717358870000,
+      "modifiedDate": 1733442130133,
+      "sizeInBytes": 1529,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8466666666666667,
+        "wordCount": 254,
+        "characterCount": 1458,
+        "nonWhitespaceCharacterCount": 1199
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The OFC",
+        "town": "Blackwall"
+      }
+    },
+    "Named Characters & Beasts/Just Jack.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 139,
+      "nonWhitespaceCharacterCount": 114,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710713141066,
+      "modifiedDate": 1733442172889,
+      "sizeInBytes": 198,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.06333333333333334,
+        "wordCount": 19,
+        "characterCount": 117,
+        "nonWhitespaceCharacterCount": 98
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Dawn Empire",
+        "town": "Newhall"
+      }
+    },
+    "Named Characters & Beasts/Jub.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 15,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05,
+      "characterCount": 92,
+      "nonWhitespaceCharacterCount": 74,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1717367523471,
+      "modifiedDate": 1733442221160,
+      "sizeInBytes": 133,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04,
+        "wordCount": 12,
         "characterCount": 70,
-        "nonWhitespaceCharacterCount": 60
+        "nonWhitespaceCharacterCount": 58
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Jub's Tribe"
       }
     },
     "Named Characters & Beasts/Important Characters/Xekai.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 276,
+      "wordCount": 288,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.92,
-      "characterCount": 1647,
-      "nonWhitespaceCharacterCount": 1362,
-      "readingTimeInMinutes": 1.0415094339622641,
+      "pageCount": 0.96,
+      "characterCount": 1731,
+      "nonWhitespaceCharacterCount": 1422,
+      "readingTimeInMinutes": 1.0867924528301887,
       "linkCount": 17,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1710279070441,
-      "modifiedDate": 1733228742575,
-      "sizeInBytes": 1651,
+      "modifiedDate": 1733439696261,
+      "sizeInBytes": 1772,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.92,
         "wordCount": 276,
         "characterCount": 1647,
         "nonWhitespaceCharacterCount": 1362
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "type": "important"
       }
     },
     "Named Characters & Beasts/Important Characters/Velthis.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 100,
+      "wordCount": 101,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3333333333333333,
-      "characterCount": 656,
-      "nonWhitespaceCharacterCount": 553,
-      "readingTimeInMinutes": 0.37735849056603776,
+      "pageCount": 0.33666666666666667,
+      "characterCount": 671,
+      "nonWhitespaceCharacterCount": 564,
+      "readingTimeInMinutes": 0.38113207547169814,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732568735945,
-      "modifiedDate": 1732657293488,
-      "sizeInBytes": 656,
+      "modifiedDate": 1733439810936,
+      "sizeInBytes": 732,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.3333333333333333,
         "wordCount": 100,
         "characterCount": 656,
         "nonWhitespaceCharacterCount": 553
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Dawn Empire",
+        "town": "Dawnhaven"
       }
     },
     "Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 19,
+      "wordCount": 20,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 127,
-      "nonWhitespaceCharacterCount": 108,
-      "readingTimeInMinutes": 0.07169811320754717,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 142,
+      "nonWhitespaceCharacterCount": 119,
+      "readingTimeInMinutes": 0.07547169811320754,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728678081809,
-      "modifiedDate": 1732876355000,
-      "sizeInBytes": 127,
+      "modifiedDate": 1733439940717,
+      "sizeInBytes": 198,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06333333333333334,
         "wordCount": 19,
         "characterCount": 127,
         "nonWhitespaceCharacterCount": 108
-      }
-    },
-    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 159,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.53,
-      "characterCount": 964,
-      "nonWhitespaceCharacterCount": 802,
-      "readingTimeInMinutes": 0.6,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1711046340937,
-      "modifiedDate": 1733180542248,
-      "sizeInBytes": 966,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.53,
-        "wordCount": 159,
-        "characterCount": 964,
-        "nonWhitespaceCharacterCount": 802
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Lost Haven",
+        "type": "important"
       }
     },
     "Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 37,
+      "wordCount": 38,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.12333333333333334,
-      "characterCount": 217,
-      "nonWhitespaceCharacterCount": 180,
-      "readingTimeInMinutes": 0.13962264150943396,
+      "pageCount": 0.12666666666666668,
+      "characterCount": 232,
+      "nonWhitespaceCharacterCount": 191,
+      "readingTimeInMinutes": 0.14339622641509434,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728678125202,
-      "modifiedDate": 1732876355000,
-      "sizeInBytes": 217,
+      "modifiedDate": 1733441232440,
+      "sizeInBytes": 272,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.12333333333333334,
         "wordCount": 37,
         "characterCount": 217,
         "nonWhitespaceCharacterCount": 180
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Lost Haven"
       }
     },
     "Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 53,
+      "wordCount": 54,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17666666666666667,
-      "characterCount": 334,
-      "nonWhitespaceCharacterCount": 280,
-      "readingTimeInMinutes": 0.2,
+      "pageCount": 0.18,
+      "characterCount": 349,
+      "nonWhitespaceCharacterCount": 291,
+      "readingTimeInMinutes": 0.2037735849056604,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728304423043,
-      "modifiedDate": 1728472072287,
-      "sizeInBytes": 336,
+      "modifiedDate": 1733441502688,
+      "sizeInBytes": 429,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.17666666666666667,
         "wordCount": 53,
         "characterCount": 334,
         "nonWhitespaceCharacterCount": 280
-      }
-    },
-    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Mother.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 84,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.28,
-      "characterCount": 513,
-      "nonWhitespaceCharacterCount": 424,
-      "readingTimeInMinutes": 0.3169811320754717,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1723038526000,
-      "modifiedDate": 1733180542244,
-      "sizeInBytes": 515,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.28,
-        "wordCount": 84,
-        "characterCount": 513,
-        "nonWhitespaceCharacterCount": 424
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Tulan Fort",
+        "town": "The Tulan Fort",
+        "Status": "Dead"
       }
     },
     "Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline.md": {
@@ -2121,75 +2554,99 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 170,
+      "wordCount": 388,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5666666666666667,
-      "characterCount": 1011,
-      "nonWhitespaceCharacterCount": 832,
-      "readingTimeInMinutes": 0.6415094339622641,
-      "linkCount": 6,
+      "pageCount": 1.2933333333333332,
+      "characterCount": 2368,
+      "nonWhitespaceCharacterCount": 1951,
+      "readingTimeInMinutes": 1.4641509433962263,
+      "linkCount": 13,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1722351474930,
-      "modifiedDate": 1733249508295,
-      "sizeInBytes": 1015,
+      "modifiedDate": 1733438039026,
+      "sizeInBytes": 2476,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.54,
-        "wordCount": 162,
-        "characterCount": 953,
-        "nonWhitespaceCharacterCount": 783
+        "pageCount": 0.5666666666666667,
+        "wordCount": 170,
+        "characterCount": 1011,
+        "nonWhitespaceCharacterCount": 832
+      },
+      "frontmatter": {
+        "type": "In The Party",
+        "role": "Companion",
+        "class": "Cleric",
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Ehobel",
+        "town": "Ishnmel"
       }
     },
     "Named Characters & Beasts/Important Characters/Lady of Morak.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 10,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03333333333333333,
-      "characterCount": 65,
-      "nonWhitespaceCharacterCount": 54,
-      "readingTimeInMinutes": 0.03773584905660377,
-      "linkCount": 1,
+      "pageCount": 0.05,
+      "characterCount": 119,
+      "nonWhitespaceCharacterCount": 100,
+      "readingTimeInMinutes": 0.05660377358490566,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1732313475374,
-      "modifiedDate": 1732313498718,
-      "sizeInBytes": 65,
+      "modifiedDate": 1733442015775,
+      "sizeInBytes": 163,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.03333333333333333,
         "wordCount": 10,
         "characterCount": 65,
         "nonWhitespaceCharacterCount": 54
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Dwarven Empire"
       }
     },
     "Named Characters & Beasts/Important Characters/Haldir Heleyarus.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 8,
+      "wordCount": 9,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02666666666666667,
-      "characterCount": 62,
-      "nonWhitespaceCharacterCount": 54,
-      "readingTimeInMinutes": 0.03018867924528302,
+      "pageCount": 0.03,
+      "characterCount": 77,
+      "nonWhitespaceCharacterCount": 65,
+      "readingTimeInMinutes": 0.033962264150943396,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1710531767103,
-      "modifiedDate": 1724353248480,
-      "sizeInBytes": 62,
+      "modifiedDate": 1733442347135,
+      "sizeInBytes": 167,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.02666666666666667,
         "wordCount": 8,
         "characterCount": 62,
         "nonWhitespaceCharacterCount": 54
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "type": "important",
+        "Nation": "Strixhaven",
+        "town": "Strixhaven Residential Area"
       }
     },
     "Named Characters & Beasts/Important Characters/Galen Verix.md": {
@@ -2246,28 +2703,100 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 180,
+      "wordCount": 179,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6,
-      "characterCount": 1042,
-      "nonWhitespaceCharacterCount": 857,
-      "readingTimeInMinutes": 0.6792452830188679,
+      "pageCount": 0.5966666666666667,
+      "characterCount": 1064,
+      "nonWhitespaceCharacterCount": 876,
+      "readingTimeInMinutes": 0.6754716981132075,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1725366928470,
-      "modifiedDate": 1733180542237,
-      "sizeInBytes": 1044,
+      "modifiedDate": 1733442283740,
+      "sizeInBytes": 1132,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.6,
         "wordCount": 180,
         "characterCount": 1042,
         "nonWhitespaceCharacterCount": 857
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Ehobel",
+        "town": "Caalona",
+        "type": "important"
       }
     },
     "Named Characters & Beasts/Historically Significant  Characters/Uti, The Dragon.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 117,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.39,
+      "characterCount": 710,
+      "nonWhitespaceCharacterCount": 586,
+      "readingTimeInMinutes": 0.44150943396226416,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1722711503985,
+      "modifiedDate": 1733439887202,
+      "sizeInBytes": 763,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.38333333333333336,
+        "wordCount": 115,
+        "characterCount": 667,
+        "nonWhitespaceCharacterCount": 551
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "type": "important",
+        "Nation": "Itone"
+      }
+    },
+    "Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/High Priest Lyrion.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 167,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5566666666666666,
+      "characterCount": 1008,
+      "nonWhitespaceCharacterCount": 830,
+      "readingTimeInMinutes": 0.630188679245283,
+      "linkCount": 8,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1722348235867,
+      "modifiedDate": 1733442320316,
+      "sizeInBytes": 1065,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.5533333333333333,
+        "wordCount": 166,
+        "characterCount": 993,
+        "nonWhitespaceCharacterCount": 819
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Desert",
+        "town": "Ember Peak"
+      }
+    },
+    "Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Seifer Willow †.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
@@ -2275,71 +2804,27 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.38333333333333336,
-      "characterCount": 667,
-      "nonWhitespaceCharacterCount": 551,
+      "characterCount": 711,
+      "nonWhitespaceCharacterCount": 592,
       "readingTimeInMinutes": 0.4339622641509434,
       "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1722711503985,
-      "modifiedDate": 1733180542234,
-      "sizeInBytes": 669,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.38333333333333336,
-        "wordCount": 115,
-        "characterCount": 667,
-        "nonWhitespaceCharacterCount": 551
-      }
-    },
-    "Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/Seifer Willow †.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 113,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.37666666666666665,
-      "characterCount": 696,
-      "nonWhitespaceCharacterCount": 582,
-      "readingTimeInMinutes": 0.42641509433962266,
-      "linkCount": 9,
-      "embedCount": 0,
-      "aliases": null,
       "createdDate": 1722347482626,
-      "modifiedDate": 1728472541076,
-      "sizeInBytes": 698,
+      "modifiedDate": 1733441284432,
+      "sizeInBytes": 747,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.37666666666666665,
         "wordCount": 113,
         "characterCount": 696,
         "nonWhitespaceCharacterCount": 582
-      }
-    },
-    "Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/High Priest Lyrion.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 166,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5533333333333333,
-      "characterCount": 993,
-      "nonWhitespaceCharacterCount": 819,
-      "readingTimeInMinutes": 0.6264150943396226,
-      "linkCount": 8,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1722348235867,
-      "modifiedDate": 1728738596404,
-      "sizeInBytes": 993,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5533333333333333,
-        "wordCount": 166,
-        "characterCount": 993,
-        "nonWhitespaceCharacterCount": 819
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Status": "Dead"
       }
     },
     "Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/General Midus †.md": {
@@ -2446,100 +2931,129 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 101,
+      "wordCount": 104,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.33666666666666667,
-      "characterCount": 601,
-      "nonWhitespaceCharacterCount": 496,
-      "readingTimeInMinutes": 0.38113207547169814,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 646,
+      "nonWhitespaceCharacterCount": 533,
+      "readingTimeInMinutes": 0.39245283018867927,
       "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1714341468761,
-      "modifiedDate": 1733228742561,
-      "sizeInBytes": 603,
+      "modifiedDate": 1733441593171,
+      "sizeInBytes": 685,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.33666666666666667,
         "wordCount": 101,
         "characterCount": 601,
         "nonWhitespaceCharacterCount": 496
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "type": "important"
       }
     },
     "Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 82,
+      "wordCount": 83,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2733333333333333,
-      "characterCount": 477,
-      "nonWhitespaceCharacterCount": 394,
-      "readingTimeInMinutes": 0.30943396226415093,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 492,
+      "nonWhitespaceCharacterCount": 405,
+      "readingTimeInMinutes": 0.3132075471698113,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1715765773601,
-      "modifiedDate": 1733180542230,
-      "sizeInBytes": 479,
+      "modifiedDate": 1733441853537,
+      "sizeInBytes": 563,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2733333333333333,
         "wordCount": 82,
         "characterCount": 477,
         "nonWhitespaceCharacterCount": 394
+      },
+      "frontmatter": {
+        "Nation": "The OFC",
+        "town": "Blackwall",
+        "tags": [
+          "NPC"
+        ],
+        "Status": "Missing"
       }
     },
     "Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Werrec Whitshield.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 82,
+      "wordCount": 84,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.2733333333333333,
-      "characterCount": 554,
-      "nonWhitespaceCharacterCount": 472,
-      "readingTimeInMinutes": 0.30943396226415093,
+      "pageCount": 0.28,
+      "characterCount": 573,
+      "nonWhitespaceCharacterCount": 486,
+      "readingTimeInMinutes": 0.3169811320754717,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1725624125777,
-      "modifiedDate": 1725625429057,
-      "sizeInBytes": 554,
+      "modifiedDate": 1733439743300,
+      "sizeInBytes": 635,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.2733333333333333,
         "wordCount": 82,
         "characterCount": 554,
         "nonWhitespaceCharacterCount": 472
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Dwarven Empire",
+        "town": "Fort Molden"
       }
     },
     "Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Redmund Verix †.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 57,
+      "wordCount": 58,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.19,
-      "characterCount": 333,
-      "nonWhitespaceCharacterCount": 275,
-      "readingTimeInMinutes": 0.21509433962264152,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 348,
+      "nonWhitespaceCharacterCount": 286,
+      "readingTimeInMinutes": 0.2188679245283019,
       "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1725623872030,
-      "modifiedDate": 1728472557224,
-      "sizeInBytes": 335,
+      "modifiedDate": 1733441351513,
+      "sizeInBytes": 424,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.19,
         "wordCount": 57,
         "characterCount": 333,
         "nonWhitespaceCharacterCount": 275
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Dawn Empire",
+        "town": "Dawnhaven",
+        "Status": "Dead"
       }
     },
     "Named Characters & Beasts/Historically Significant  Characters/Grayfall Empire Characters/Durdretrude Grayfall.md": {
@@ -2646,50 +3160,64 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 19,
+      "wordCount": 21,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 119,
-      "nonWhitespaceCharacterCount": 99,
-      "readingTimeInMinutes": 0.07169811320754717,
+      "pageCount": 0.07,
+      "characterCount": 151,
+      "nonWhitespaceCharacterCount": 124,
+      "readingTimeInMinutes": 0.07924528301886792,
       "linkCount": 1,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1721247310107,
-      "modifiedDate": 1723241406999,
-      "sizeInBytes": 119,
+      "modifiedDate": 1733442381944,
+      "sizeInBytes": 187,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.06333333333333334,
         "wordCount": 19,
         "characterCount": 119,
         "nonWhitespaceCharacterCount": 99
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Ehobel"
       }
     },
     "Named Characters & Beasts/Genevieve †.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 255,
+      "wordCount": 258,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.85,
-      "characterCount": 1583,
-      "nonWhitespaceCharacterCount": 1325,
-      "readingTimeInMinutes": 0.9622641509433962,
+      "pageCount": 0.86,
+      "characterCount": 1622,
+      "nonWhitespaceCharacterCount": 1357,
+      "readingTimeInMinutes": 0.9735849056603774,
       "linkCount": 20,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1728744361650,
-      "modifiedDate": 1733228742558,
-      "sizeInBytes": 1587,
+      "modifiedDate": 1733442434427,
+      "sizeInBytes": 1708,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.85,
         "wordCount": 255,
         "characterCount": 1583,
         "nonWhitespaceCharacterCount": 1325
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Status": "Dead",
+        "Nation": "The Emerald Fort",
+        "town": "The Emerald Fort"
       }
     },
     "Named Characters & Beasts/Folre Enelion IV Esquire.md": {
@@ -2715,31 +3243,6 @@
         "wordCount": 40,
         "characterCount": 278,
         "nonWhitespaceCharacterCount": 238
-      }
-    },
-    "Named Characters & Beasts/Derek.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 89,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.2966666666666667,
-      "characterCount": 519,
-      "nonWhitespaceCharacterCount": 426,
-      "readingTimeInMinutes": 0.33584905660377357,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714939474819,
-      "modifiedDate": 1733228742555,
-      "sizeInBytes": 519,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.2966666666666667,
-        "wordCount": 89,
-        "characterCount": 519,
-        "nonWhitespaceCharacterCount": 426
       }
     },
     "Named Characters & Beasts/Deputy Bridges.md": {
@@ -2817,31 +3320,6 @@
         "nonWhitespaceCharacterCount": 559
       }
     },
-    "Named Characters & Beasts/Cindy.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 14,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 105,
-      "nonWhitespaceCharacterCount": 92,
-      "readingTimeInMinutes": 0.052830188679245285,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1711317095576,
-      "modifiedDate": 1727363922453,
-      "sizeInBytes": 105,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04666666666666667,
-        "wordCount": 14,
-        "characterCount": 105,
-        "nonWhitespaceCharacterCount": 92
-      }
-    },
     "Named Characters & Beasts/Captain Red Beard.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -2865,6 +3343,31 @@
         "wordCount": 6,
         "characterCount": 36,
         "nonWhitespaceCharacterCount": 31
+      }
+    },
+    "Named Characters & Beasts/Cindy.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 14,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04666666666666667,
+      "characterCount": 105,
+      "nonWhitespaceCharacterCount": 92,
+      "readingTimeInMinutes": 0.052830188679245285,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1711317095576,
+      "modifiedDate": 1727363922453,
+      "sizeInBytes": 105,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04666666666666667,
+        "wordCount": 14,
+        "characterCount": 105,
+        "nonWhitespaceCharacterCount": 92
       }
     },
     "Named Characters & Beasts/Captain Junior.md": {
@@ -2996,100 +3499,123 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 69,
+      "wordCount": 78,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.23,
-      "characterCount": 432,
-      "nonWhitespaceCharacterCount": 359,
-      "readingTimeInMinutes": 0.26037735849056604,
+      "pageCount": 0.26,
+      "characterCount": 502,
+      "nonWhitespaceCharacterCount": 416,
+      "readingTimeInMinutes": 0.2943396226415094,
       "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1723912764141,
-      "modifiedDate": 1728742187152,
-      "sizeInBytes": 432,
+      "modifiedDate": 1733439965055,
+      "sizeInBytes": 523,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.23,
-        "wordCount": 69,
-        "characterCount": 432,
-        "nonWhitespaceCharacterCount": 359
+        "pageCount": 0.25666666666666665,
+        "wordCount": 77,
+        "characterCount": 487,
+        "nonWhitespaceCharacterCount": 405
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ]
       }
     },
     "Named Characters & Beasts/Beasts & Animals/Mannnnnn.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 14,
+      "wordCount": 15,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.04666666666666667,
-      "characterCount": 83,
-      "nonWhitespaceCharacterCount": 70,
-      "readingTimeInMinutes": 0.052830188679245285,
+      "pageCount": 0.05,
+      "characterCount": 98,
+      "nonWhitespaceCharacterCount": 81,
+      "readingTimeInMinutes": 0.05660377358490566,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1721246418662,
-      "modifiedDate": 1732876355000,
-      "sizeInBytes": 83,
+      "modifiedDate": 1733441881256,
+      "sizeInBytes": 134,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.04666666666666667,
         "wordCount": 14,
         "characterCount": 83,
         "nonWhitespaceCharacterCount": 70
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "Ehobel"
       }
     },
     "Named Characters & Beasts/Beasts & Animals/Man-Eating Horse.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 40,
+      "wordCount": 41,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.13333333333333333,
-      "characterCount": 232,
-      "nonWhitespaceCharacterCount": 193,
-      "readingTimeInMinutes": 0.1509433962264151,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 247,
+      "nonWhitespaceCharacterCount": 204,
+      "readingTimeInMinutes": 0.15471698113207547,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1711313478000,
-      "modifiedDate": 1733228742545,
-      "sizeInBytes": 232,
+      "modifiedDate": 1733441901491,
+      "sizeInBytes": 289,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.13333333333333333,
         "wordCount": 40,
         "characterCount": 232,
         "nonWhitespaceCharacterCount": 193
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Feywilds"
       }
     },
     "Named Characters & Beasts/Beasts & Animals/Magic Demons.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 70,
+      "wordCount": 71,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.23333333333333334,
-      "characterCount": 428,
-      "nonWhitespaceCharacterCount": 358,
-      "readingTimeInMinutes": 0.2641509433962264,
+      "pageCount": 0.23666666666666666,
+      "characterCount": 443,
+      "nonWhitespaceCharacterCount": 369,
+      "readingTimeInMinutes": 0.2679245283018868,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1715766370000,
-      "modifiedDate": 1733180542220,
-      "sizeInBytes": 430,
+      "modifiedDate": 1733441947261,
+      "sizeInBytes": 482,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.23333333333333334,
         "wordCount": 70,
         "characterCount": 428,
         "nonWhitespaceCharacterCount": 358
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "type": "important"
       }
     },
     "Named Characters & Beasts/Beasts & Animals/Elven Cannibals.md": {
@@ -3146,25 +3672,33 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 54,
+      "wordCount": 156,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18,
-      "characterCount": 322,
-      "nonWhitespaceCharacterCount": 265,
-      "readingTimeInMinutes": 0.2037735849056604,
-      "linkCount": 2,
+      "pageCount": 0.52,
+      "characterCount": 905,
+      "nonWhitespaceCharacterCount": 741,
+      "readingTimeInMinutes": 0.5886792452830188,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1717363055151,
-      "modifiedDate": 1733181424348,
-      "sizeInBytes": 322,
+      "modifiedDate": 1733439275413,
+      "sizeInBytes": 966,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.18,
         "wordCount": 54,
         "characterCount": 322,
         "nonWhitespaceCharacterCount": 265
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "OFC",
+        "town": "Silkhorn",
+        "Status": "Dead"
       }
     },
     "Named Characters & Beasts/Anselis.md": {
@@ -3240,6 +3774,31 @@
         "wordCount": 65,
         "characterCount": 371,
         "nonWhitespaceCharacterCount": 306
+      }
+    },
+    "Locations/The Realm of Mana.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 54,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18,
+      "characterCount": 305,
+      "nonWhitespaceCharacterCount": 251,
+      "readingTimeInMinutes": 0.2037735849056604,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715766170165,
+      "modifiedDate": 1715766453830,
+      "sizeInBytes": 305,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.18,
+        "wordCount": 54,
+        "characterCount": 305,
+        "nonWhitespaceCharacterCount": 251
       }
     },
     "Locations/Uvam Dynasty/Yokotori.md": {
@@ -3442,31 +4001,6 @@
         "nonWhitespaceCharacterCount": 22
       }
     },
-    "Locations/The Realm of Mana.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 54,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.18,
-      "characterCount": 305,
-      "nonWhitespaceCharacterCount": 251,
-      "readingTimeInMinutes": 0.2037735849056604,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715766170165,
-      "modifiedDate": 1715766453830,
-      "sizeInBytes": 305,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.18,
-        "wordCount": 54,
-        "characterCount": 305,
-        "nonWhitespaceCharacterCount": 251
-      }
-    },
     "Locations/The Desert/The Great Wall.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3642,31 +4176,6 @@
         "nonWhitespaceCharacterCount": 258
       }
     },
-    "Locations/The Dawn Empire/Wyvern Cave.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 151,
-      "nonWhitespaceCharacterCount": 125,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1726599869447,
-      "modifiedDate": 1726679907469,
-      "sizeInBytes": 151,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08666666666666667,
-        "wordCount": 26,
-        "characterCount": 151,
-        "nonWhitespaceCharacterCount": 125
-      }
-    },
     "Locations/The Dawn Empire/The Dawn Empire.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3690,6 +4199,56 @@
         "wordCount": 314,
         "characterCount": 2088,
         "nonWhitespaceCharacterCount": 1711
+      }
+    },
+    "Locations/The Dawn Empire/Rosehost.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 30,
+      "nonWhitespaceCharacterCount": 24,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715077897274,
+      "modifiedDate": 1723280121116,
+      "sizeInBytes": 30,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 30,
+        "nonWhitespaceCharacterCount": 24
+      }
+    },
+    "Locations/The Dawn Empire/Wyvern Cave.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 151,
+      "nonWhitespaceCharacterCount": 125,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1726599869447,
+      "modifiedDate": 1726679907469,
+      "sizeInBytes": 151,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08666666666666667,
+        "wordCount": 26,
+        "characterCount": 151,
+        "nonWhitespaceCharacterCount": 125
       }
     },
     "Locations/The Dawn Empire/The All Father Temple.md": {
@@ -3767,29 +4326,29 @@
         "nonWhitespaceCharacterCount": 1579
       }
     },
-    "Locations/The Dawn Empire/Rosehost.md": {
+    "Locations/The Dawn Empire/Newhall.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 6,
+      "wordCount": 287,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 30,
-      "nonWhitespaceCharacterCount": 24,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 1,
+      "pageCount": 0.9566666666666667,
+      "characterCount": 1716,
+      "nonWhitespaceCharacterCount": 1424,
+      "readingTimeInMinutes": 1.0830188679245283,
+      "linkCount": 17,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1715077897274,
-      "modifiedDate": 1723280121116,
-      "sizeInBytes": 30,
+      "createdDate": 1723923369167,
+      "modifiedDate": 1733180542373,
+      "sizeInBytes": 1718,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 30,
-        "nonWhitespaceCharacterCount": 24
+        "pageCount": 0.9566666666666667,
+        "wordCount": 287,
+        "characterCount": 1716,
+        "nonWhitespaceCharacterCount": 1424
       }
     },
     "Locations/The Dawn Empire/Oceanvale.md": {
@@ -3815,31 +4374,6 @@
         "wordCount": 6,
         "characterCount": 30,
         "nonWhitespaceCharacterCount": 24
-      }
-    },
-    "Locations/The Dawn Empire/Newhall.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 287,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9566666666666667,
-      "characterCount": 1716,
-      "nonWhitespaceCharacterCount": 1424,
-      "readingTimeInMinutes": 1.0830188679245283,
-      "linkCount": 17,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1723923369167,
-      "modifiedDate": 1733180542373,
-      "sizeInBytes": 1718,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9566666666666667,
-        "wordCount": 287,
-        "characterCount": 1716,
-        "nonWhitespaceCharacterCount": 1424
       }
     },
     "Locations/The Dawn Empire/Ironfalls.md": {
@@ -3942,6 +4476,31 @@
         "nonWhitespaceCharacterCount": 53
       }
     },
+    "Locations/The Dawn Empire/Dawnhaven/Dawnhaven.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 140,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4666666666666667,
+      "characterCount": 901,
+      "nonWhitespaceCharacterCount": 747,
+      "readingTimeInMinutes": 0.5283018867924528,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710112141093,
+      "modifiedDate": 1733228742531,
+      "sizeInBytes": 901,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4666666666666667,
+        "wordCount": 140,
+        "characterCount": 901,
+        "nonWhitespaceCharacterCount": 747
+      }
+    },
     "Locations/The Dawn Empire/Dawnhaven/The Silent Shade.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -3990,31 +4549,6 @@
         "wordCount": 41,
         "characterCount": 240,
         "nonWhitespaceCharacterCount": 199
-      }
-    },
-    "Locations/The Dawn Empire/Dawnhaven/Dawnhaven.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 140,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4666666666666667,
-      "characterCount": 901,
-      "nonWhitespaceCharacterCount": 747,
-      "readingTimeInMinutes": 0.5283018867924528,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1710112141093,
-      "modifiedDate": 1733228742531,
-      "sizeInBytes": 901,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4666666666666667,
-        "wordCount": 140,
-        "characterCount": 901,
-        "nonWhitespaceCharacterCount": 747
       }
     },
     "Locations/The Dawn Empire/Cliffhall.md": {
@@ -4142,6 +4676,31 @@
         "nonWhitespaceCharacterCount": 197
       }
     },
+    "Locations/OFC/Whitespire/The Pyramid.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 359,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.1966666666666668,
+      "characterCount": 2207,
+      "nonWhitespaceCharacterCount": 1805,
+      "readingTimeInMinutes": 1.3547169811320754,
+      "linkCount": 9,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1727261869552,
+      "modifiedDate": 1733180542200,
+      "sizeInBytes": 2209,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.1966666666666668,
+        "wordCount": 359,
+        "characterCount": 2207,
+        "nonWhitespaceCharacterCount": 1805
+      }
+    },
     "Locations/OFC/Whitespire/Whitespire.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4167,29 +4726,29 @@
         "nonWhitespaceCharacterCount": 422
       }
     },
-    "Locations/OFC/Whitespire/The Pyramid.md": {
+    "Locations/OFC/Organisation of Free Cities (OFC).md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 359,
+      "wordCount": 491,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1966666666666668,
-      "characterCount": 2207,
-      "nonWhitespaceCharacterCount": 1805,
-      "readingTimeInMinutes": 1.3547169811320754,
-      "linkCount": 9,
-      "embedCount": 0,
+      "pageCount": 1.6366666666666667,
+      "characterCount": 2964,
+      "nonWhitespaceCharacterCount": 2409,
+      "readingTimeInMinutes": 1.8528301886792453,
+      "linkCount": 25,
+      "embedCount": 1,
       "aliases": null,
-      "createdDate": 1727261869552,
-      "modifiedDate": 1733180542200,
-      "sizeInBytes": 2209,
+      "createdDate": 1723279332226,
+      "modifiedDate": 1733238586572,
+      "sizeInBytes": 2968,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 1.1966666666666668,
-        "wordCount": 359,
-        "characterCount": 2207,
-        "nonWhitespaceCharacterCount": 1805
+        "pageCount": 1.6366666666666667,
+        "wordCount": 491,
+        "characterCount": 2964,
+        "nonWhitespaceCharacterCount": 2409
       }
     },
     "Locations/OFC/Twopines Estate.md": {
@@ -4221,50 +4780,32 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 59,
+      "wordCount": 181,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.19666666666666666,
-      "characterCount": 378,
-      "nonWhitespaceCharacterCount": 316,
-      "readingTimeInMinutes": 0.22264150943396227,
-      "linkCount": 3,
+      "pageCount": 0.6033333333333334,
+      "characterCount": 1086,
+      "nonWhitespaceCharacterCount": 895,
+      "readingTimeInMinutes": 0.6830188679245283,
+      "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1710259972348,
-      "modifiedDate": 1723286977362,
-      "sizeInBytes": 378,
+      "modifiedDate": 1733439306158,
+      "sizeInBytes": 1139,
       "sessionStart": {
         "noteCount": 1,
         "pageCount": 0.19666666666666666,
         "wordCount": 59,
         "characterCount": 378,
         "nonWhitespaceCharacterCount": 316
-      }
-    },
-    "Locations/OFC/Organisation of Free Cities (OFC).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 491,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6366666666666667,
-      "characterCount": 2964,
-      "nonWhitespaceCharacterCount": 2409,
-      "readingTimeInMinutes": 1.8528301886792453,
-      "linkCount": 25,
-      "embedCount": 1,
-      "aliases": null,
-      "createdDate": 1723279332226,
-      "modifiedDate": 1733238586572,
-      "sizeInBytes": 2968,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.6366666666666667,
-        "wordCount": 491,
-        "characterCount": 2964,
-        "nonWhitespaceCharacterCount": 2409
+      },
+      "frontmatter": {
+        "tags": [
+          "Location"
+        ],
+        "Nation": "OFC",
+        "town": "Silkhorn"
       }
     },
     "Locations/OFC/Foxtail Orchards.md": {
@@ -4317,31 +4858,6 @@
         "nonWhitespaceCharacterCount": 112
       }
     },
-    "Locations/OFC/Blackwall/The Black Tower.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 115,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.38333333333333336,
-      "characterCount": 633,
-      "nonWhitespaceCharacterCount": 519,
-      "readingTimeInMinutes": 0.4339622641509434,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1725970607465,
-      "modifiedDate": 1725970939411,
-      "sizeInBytes": 633,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.38333333333333336,
-        "wordCount": 115,
-        "characterCount": 633,
-        "nonWhitespaceCharacterCount": 519
-      }
-    },
     "Locations/OFC/Blackwall/Blackwall.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -4365,6 +4881,31 @@
         "wordCount": 48,
         "characterCount": 291,
         "nonWhitespaceCharacterCount": 243
+      }
+    },
+    "Locations/OFC/Blackwall/The Black Tower.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 115,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.38333333333333336,
+      "characterCount": 633,
+      "nonWhitespaceCharacterCount": 519,
+      "readingTimeInMinutes": 0.4339622641509434,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1725970607465,
+      "modifiedDate": 1725970939411,
+      "sizeInBytes": 633,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.38333333333333336,
+        "wordCount": 115,
+        "characterCount": 633,
+        "nonWhitespaceCharacterCount": 519
       }
     },
     "Locations/OFC/Balance Ranch.md": {
@@ -5592,29 +6133,534 @@
         "nonWhitespaceCharacterCount": 569
       }
     },
-    "Groups/Ye Old Tavern Down the Road.md": {
+    "Gods & Heralds/The Ashen Pantheon.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 117,
+      "wordCount": 122,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.39,
-      "characterCount": 701,
-      "nonWhitespaceCharacterCount": 578,
-      "readingTimeInMinutes": 0.44150943396226416,
+      "pageCount": 0.4066666666666667,
+      "characterCount": 843,
+      "nonWhitespaceCharacterCount": 698,
+      "readingTimeInMinutes": 0.46037735849056605,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714429611720,
+      "modifiedDate": 1729370895170,
+      "sizeInBytes": 843,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.4066666666666667,
+        "wordCount": 122,
+        "characterCount": 843,
+        "nonWhitespaceCharacterCount": 698
+      }
+    },
+    "Gods & Heralds/Somnora/Somnora.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 72,
+      "nonWhitespaceCharacterCount": 58,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714345336660,
+      "modifiedDate": 1733438908896,
+      "sizeInBytes": 72,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03,
+        "wordCount": 9,
+        "characterCount": 71,
+        "nonWhitespaceCharacterCount": 58
+      }
+    },
+    "Gods & Heralds/Somnora/Angel Under The Well.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 35,
+      "nonWhitespaceCharacterCount": 30,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710720444474,
+      "modifiedDate": 1733180046117,
+      "sizeInBytes": 35,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.02,
+        "wordCount": 6,
+        "characterCount": 35,
+        "nonWhitespaceCharacterCount": 30
+      }
+    },
+    "Gods & Heralds/Seraphina/Seraphina.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 94,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.31333333333333335,
+      "characterCount": 582,
+      "nonWhitespaceCharacterCount": 482,
+      "readingTimeInMinutes": 0.35471698113207545,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709144952626,
+      "modifiedDate": 1728675594810,
+      "sizeInBytes": 582,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.31333333333333335,
+        "wordCount": 94,
+        "characterCount": 582,
+        "nonWhitespaceCharacterCount": 482
+      }
+    },
+    "Gods & Heralds/Seraphina/Healing Guardian.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 78,
+      "nonWhitespaceCharacterCount": 66,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1723983549730,
+      "modifiedDate": 1723983921821,
+      "sizeInBytes": 78,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.04,
+        "wordCount": 12,
+        "characterCount": 78,
+        "nonWhitespaceCharacterCount": 66
+      }
+    },
+    "Gods & Heralds/Lorwyn/Lorwyn.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 127,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.42333333333333334,
+      "characterCount": 744,
+      "nonWhitespaceCharacterCount": 615,
+      "readingTimeInMinutes": 0.47924528301886793,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728064609435,
+      "modifiedDate": 1732876355000,
+      "sizeInBytes": 744,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.42333333333333334,
+        "wordCount": 127,
+        "characterCount": 744,
+        "nonWhitespaceCharacterCount": 615
+      }
+    },
+    "Gods & Heralds/Ignatius/Ignatius.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 301,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.0033333333333334,
+      "characterCount": 1730,
+      "nonWhitespaceCharacterCount": 1418,
+      "readingTimeInMinutes": 1.1358490566037736,
+      "linkCount": 14,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1726608995266,
+      "modifiedDate": 1728675902850,
+      "sizeInBytes": 1732,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 1.0033333333333334,
+        "wordCount": 301,
+        "characterCount": 1730,
+        "nonWhitespaceCharacterCount": 1418
+      }
+    },
+    "Gods & Heralds/Ignatius/Ash Spawn.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 88,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.29333333333333333,
+      "characterCount": 539,
+      "nonWhitespaceCharacterCount": 450,
+      "readingTimeInMinutes": 0.3320754716981132,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710710229138,
+      "modifiedDate": 1723982387735,
+      "sizeInBytes": 539,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.29333333333333333,
+        "wordCount": 88,
+        "characterCount": 539,
+        "nonWhitespaceCharacterCount": 450
+      }
+    },
+    "Gods & Heralds/Herald.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 135,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45,
+      "characterCount": 841,
+      "nonWhitespaceCharacterCount": 688,
+      "readingTimeInMinutes": 0.5094339622641509,
+      "linkCount": 11,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1726581537729,
+      "modifiedDate": 1733228742521,
+      "sizeInBytes": 841,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.45,
+        "wordCount": 135,
+        "characterCount": 841,
+        "nonWhitespaceCharacterCount": 688
+      }
+    },
+    "Gods & Heralds/Chronovorus/The Pages.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 146,
+      "nonWhitespaceCharacterCount": 122,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709138330712,
+      "modifiedDate": 1714762204019,
+      "sizeInBytes": 146,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07666666666666666,
+        "wordCount": 23,
+        "characterCount": 146,
+        "nonWhitespaceCharacterCount": 122
+      }
+    },
+    "Gods & Heralds/Chronovorus/The Ethertwist Haunter.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 298,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9933333333333333,
+      "characterCount": 1769,
+      "nonWhitespaceCharacterCount": 1467,
+      "readingTimeInMinutes": 1.1245283018867924,
+      "linkCount": 16,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709141340000,
+      "modifiedDate": 1729854061014,
+      "sizeInBytes": 1771,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9933333333333333,
+        "wordCount": 298,
+        "characterCount": 1769,
+        "nonWhitespaceCharacterCount": 1467
+      }
+    },
+    "Gods & Heralds/Chronovorus/The Black Ritual.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 189,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.63,
+      "characterCount": 1148,
+      "nonWhitespaceCharacterCount": 948,
+      "readingTimeInMinutes": 0.7132075471698113,
+      "linkCount": 13,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709141603814,
+      "modifiedDate": 1733180542179,
+      "sizeInBytes": 1150,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.63,
+        "wordCount": 189,
+        "characterCount": 1148,
+        "nonWhitespaceCharacterCount": 948
+      }
+    },
+    "Gods & Heralds/Chronovorus/The Black Forest.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 225,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.75,
+      "characterCount": 1287,
+      "nonWhitespaceCharacterCount": 1055,
+      "readingTimeInMinutes": 0.8490566037735849,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709139707000,
+      "modifiedDate": 1729854060996,
+      "sizeInBytes": 1287,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.75,
+        "wordCount": 225,
+        "characterCount": 1287,
+        "nonWhitespaceCharacterCount": 1055
+      }
+    },
+    "Gods & Heralds/Chronovorus/Haunter Crows.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 138,
+      "nonWhitespaceCharacterCount": 114,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1723306809611,
+      "modifiedDate": 1724099846082,
+      "sizeInBytes": 138,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.08333333333333333,
+        "wordCount": 25,
+        "characterCount": 138,
+        "nonWhitespaceCharacterCount": 114
+      }
+    },
+    "Gods & Heralds/Chronovorus/Chronovorus.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 209,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6966666666666667,
+      "characterCount": 1174,
+      "nonWhitespaceCharacterCount": 964,
+      "readingTimeInMinutes": 0.7886792452830189,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709141138744,
+      "modifiedDate": 1728674991552,
+      "sizeInBytes": 1174,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.6966666666666667,
+        "wordCount": 209,
+        "characterCount": 1174,
+        "nonWhitespaceCharacterCount": 964
+      }
+    },
+    "Gods & Heralds/Eldros/Eldros.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 78,
+      "nonWhitespaceCharacterCount": 65,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710720172152,
+      "modifiedDate": 1723982558167,
+      "sizeInBytes": 78,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.03666666666666667,
+        "wordCount": 11,
+        "characterCount": 78,
+        "nonWhitespaceCharacterCount": 65
+      }
+    },
+    "Gods & Heralds/Aetherion/The Golden Being.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 59,
+      "nonWhitespaceCharacterCount": 52,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1723034096482,
+      "modifiedDate": 1732743813196,
+      "sizeInBytes": 59,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 59,
+        "nonWhitespaceCharacterCount": 52
+      }
+    },
+    "Gods & Heralds/Aetherion/The All Father.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 7,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 60,
+      "nonWhitespaceCharacterCount": 53,
+      "readingTimeInMinutes": 0.026415094339622643,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1723034081077,
+      "modifiedDate": 1732743803972,
+      "sizeInBytes": 60,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.023333333333333334,
+        "wordCount": 7,
+        "characterCount": 60,
+        "nonWhitespaceCharacterCount": 53
+      }
+    },
+    "Gods & Heralds/Aetherion/Terathra.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 259,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8633333333333333,
+      "characterCount": 1680,
+      "nonWhitespaceCharacterCount": 1411,
+      "readingTimeInMinutes": 0.9773584905660377,
+      "linkCount": 19,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1728679093432,
+      "modifiedDate": 1733438900575,
+      "sizeInBytes": 1716,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.8633333333333333,
+        "wordCount": 259,
+        "characterCount": 1678,
+        "nonWhitespaceCharacterCount": 1411
+      },
+      "frontmatter": {
+        "tags": [
+          "TheAshenPantheon"
+        ]
+      }
+    },
+    "Gods & Heralds/Aetherion/Aetherion.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 158,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5266666666666666,
+      "characterCount": 978,
+      "nonWhitespaceCharacterCount": 817,
+      "readingTimeInMinutes": 0.5962264150943396,
       "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1710278485000,
-      "modifiedDate": 1730304725654,
-      "sizeInBytes": 701,
+      "createdDate": 1728678955700,
+      "modifiedDate": 1732743796426,
+      "sizeInBytes": 978,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.39,
-        "wordCount": 117,
-        "characterCount": 701,
-        "nonWhitespaceCharacterCount": 578
+        "pageCount": 0.5266666666666666,
+        "wordCount": 158,
+        "characterCount": 978,
+        "nonWhitespaceCharacterCount": 817
+      }
+    },
+    "Gods & Heralds/Aeloria/Aeloria.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 293,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9766666666666667,
+      "characterCount": 1893,
+      "nonWhitespaceCharacterCount": 1580,
+      "readingTimeInMinutes": 1.1056603773584905,
+      "linkCount": 18,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710110025000,
+      "modifiedDate": 1733228742514,
+      "sizeInBytes": 1895,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.9766666666666667,
+        "wordCount": 293,
+        "characterCount": 1893,
+        "nonWhitespaceCharacterCount": 1580
       }
     },
     "Groups/The Necromantic Circle of Dawnhaven.md": {
@@ -5640,6 +6686,31 @@
         "wordCount": 99,
         "characterCount": 640,
         "nonWhitespaceCharacterCount": 541
+      }
+    },
+    "Groups/Ye Old Tavern Down the Road.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 117,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.39,
+      "characterCount": 701,
+      "nonWhitespaceCharacterCount": 578,
+      "readingTimeInMinutes": 0.44150943396226416,
+      "linkCount": 10,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1710278485000,
+      "modifiedDate": 1730304725654,
+      "sizeInBytes": 701,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.39,
+        "wordCount": 117,
+        "characterCount": 701,
+        "nonWhitespaceCharacterCount": 578
       }
     },
     "Groups/The Golden Fleet.md": {
@@ -6017,731 +7088,6 @@
         "nonWhitespaceCharacterCount": 218
       }
     },
-    "Gods & Heralds/The Ashen Pantheon.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 122,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4066666666666667,
-      "characterCount": 843,
-      "nonWhitespaceCharacterCount": 698,
-      "readingTimeInMinutes": 0.46037735849056605,
-      "linkCount": 11,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714429611720,
-      "modifiedDate": 1729370895170,
-      "sizeInBytes": 843,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.4066666666666667,
-        "wordCount": 122,
-        "characterCount": 843,
-        "nonWhitespaceCharacterCount": 698
-      }
-    },
-    "Gods & Heralds/Somnora/Somnora.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 9,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 71,
-      "nonWhitespaceCharacterCount": 58,
-      "readingTimeInMinutes": 0.033962264150943396,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714345336660,
-      "modifiedDate": 1714430131502,
-      "sizeInBytes": 71,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03,
-        "wordCount": 9,
-        "characterCount": 71,
-        "nonWhitespaceCharacterCount": 58
-      }
-    },
-    "Gods & Heralds/Somnora/Angel Under The Well.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 6,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.02,
-      "characterCount": 35,
-      "nonWhitespaceCharacterCount": 30,
-      "readingTimeInMinutes": 0.022641509433962263,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1710720444474,
-      "modifiedDate": 1733180046117,
-      "sizeInBytes": 35,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.02,
-        "wordCount": 6,
-        "characterCount": 35,
-        "nonWhitespaceCharacterCount": 30
-      }
-    },
-    "Gods & Heralds/Seraphina/Seraphina.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 94,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.31333333333333335,
-      "characterCount": 582,
-      "nonWhitespaceCharacterCount": 482,
-      "readingTimeInMinutes": 0.35471698113207545,
-      "linkCount": 6,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1709144952626,
-      "modifiedDate": 1728675594810,
-      "sizeInBytes": 582,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.31333333333333335,
-        "wordCount": 94,
-        "characterCount": 582,
-        "nonWhitespaceCharacterCount": 482
-      }
-    },
-    "Gods & Heralds/Seraphina/Healing Guardian.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 12,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.04,
-      "characterCount": 78,
-      "nonWhitespaceCharacterCount": 66,
-      "readingTimeInMinutes": 0.045283018867924525,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1723983549730,
-      "modifiedDate": 1723983921821,
-      "sizeInBytes": 78,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.04,
-        "wordCount": 12,
-        "characterCount": 78,
-        "nonWhitespaceCharacterCount": 66
-      }
-    },
-    "Gods & Heralds/Lorwyn/Lorwyn.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 127,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.42333333333333334,
-      "characterCount": 744,
-      "nonWhitespaceCharacterCount": 615,
-      "readingTimeInMinutes": 0.47924528301886793,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1728064609435,
-      "modifiedDate": 1732876355000,
-      "sizeInBytes": 744,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.42333333333333334,
-        "wordCount": 127,
-        "characterCount": 744,
-        "nonWhitespaceCharacterCount": 615
-      }
-    },
-    "Gods & Heralds/Ignatius/Ignatius.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 301,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.0033333333333334,
-      "characterCount": 1730,
-      "nonWhitespaceCharacterCount": 1418,
-      "readingTimeInMinutes": 1.1358490566037736,
-      "linkCount": 14,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1726608995266,
-      "modifiedDate": 1728675902850,
-      "sizeInBytes": 1732,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 1.0033333333333334,
-        "wordCount": 301,
-        "characterCount": 1730,
-        "nonWhitespaceCharacterCount": 1418
-      }
-    },
-    "Gods & Heralds/Ignatius/Ash Spawn.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 88,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.29333333333333333,
-      "characterCount": 539,
-      "nonWhitespaceCharacterCount": 450,
-      "readingTimeInMinutes": 0.3320754716981132,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1710710229138,
-      "modifiedDate": 1723982387735,
-      "sizeInBytes": 539,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.29333333333333333,
-        "wordCount": 88,
-        "characterCount": 539,
-        "nonWhitespaceCharacterCount": 450
-      }
-    },
-    "Gods & Heralds/Herald.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 135,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.45,
-      "characterCount": 841,
-      "nonWhitespaceCharacterCount": 688,
-      "readingTimeInMinutes": 0.5094339622641509,
-      "linkCount": 11,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1726581537729,
-      "modifiedDate": 1733228742521,
-      "sizeInBytes": 841,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.45,
-        "wordCount": 135,
-        "characterCount": 841,
-        "nonWhitespaceCharacterCount": 688
-      }
-    },
-    "Gods & Heralds/Eldros/Eldros.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 78,
-      "nonWhitespaceCharacterCount": 65,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1710720172152,
-      "modifiedDate": 1723982558167,
-      "sizeInBytes": 78,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03666666666666667,
-        "wordCount": 11,
-        "characterCount": 78,
-        "nonWhitespaceCharacterCount": 65
-      }
-    },
-    "Gods & Heralds/Chronovorus/The Pages.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 23,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 146,
-      "nonWhitespaceCharacterCount": 122,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1709138330712,
-      "modifiedDate": 1714762204019,
-      "sizeInBytes": 146,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.07666666666666666,
-        "wordCount": 23,
-        "characterCount": 146,
-        "nonWhitespaceCharacterCount": 122
-      }
-    },
-    "Gods & Heralds/Chronovorus/The Ethertwist Haunter.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 298,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9933333333333333,
-      "characterCount": 1769,
-      "nonWhitespaceCharacterCount": 1467,
-      "readingTimeInMinutes": 1.1245283018867924,
-      "linkCount": 16,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1709141340000,
-      "modifiedDate": 1729854061014,
-      "sizeInBytes": 1771,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9933333333333333,
-        "wordCount": 298,
-        "characterCount": 1769,
-        "nonWhitespaceCharacterCount": 1467
-      }
-    },
-    "Gods & Heralds/Chronovorus/The Black Ritual.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 189,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.63,
-      "characterCount": 1148,
-      "nonWhitespaceCharacterCount": 948,
-      "readingTimeInMinutes": 0.7132075471698113,
-      "linkCount": 13,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1709141603814,
-      "modifiedDate": 1733180542179,
-      "sizeInBytes": 1150,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.63,
-        "wordCount": 189,
-        "characterCount": 1148,
-        "nonWhitespaceCharacterCount": 948
-      }
-    },
-    "Gods & Heralds/Chronovorus/The Black Forest.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 225,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.75,
-      "characterCount": 1287,
-      "nonWhitespaceCharacterCount": 1055,
-      "readingTimeInMinutes": 0.8490566037735849,
-      "linkCount": 12,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1709139707000,
-      "modifiedDate": 1729854060996,
-      "sizeInBytes": 1287,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.75,
-        "wordCount": 225,
-        "characterCount": 1287,
-        "nonWhitespaceCharacterCount": 1055
-      }
-    },
-    "Gods & Heralds/Chronovorus/Haunter Crows.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 25,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 138,
-      "nonWhitespaceCharacterCount": 114,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1723306809611,
-      "modifiedDate": 1724099846082,
-      "sizeInBytes": 138,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08333333333333333,
-        "wordCount": 25,
-        "characterCount": 138,
-        "nonWhitespaceCharacterCount": 114
-      }
-    },
-    "Gods & Heralds/Chronovorus/Chronovorus.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 209,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6966666666666667,
-      "characterCount": 1174,
-      "nonWhitespaceCharacterCount": 964,
-      "readingTimeInMinutes": 0.7886792452830189,
-      "linkCount": 5,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1709141138744,
-      "modifiedDate": 1728674991552,
-      "sizeInBytes": 1174,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.6966666666666667,
-        "wordCount": 209,
-        "characterCount": 1174,
-        "nonWhitespaceCharacterCount": 964
-      }
-    },
-    "Gods & Heralds/Aetherion/The Golden Being.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 59,
-      "nonWhitespaceCharacterCount": 52,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1723034096482,
-      "modifiedDate": 1732743813196,
-      "sizeInBytes": 59,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 59,
-        "nonWhitespaceCharacterCount": 52
-      }
-    },
-    "Gods & Heralds/Aetherion/The All Father.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 7,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.023333333333333334,
-      "characterCount": 60,
-      "nonWhitespaceCharacterCount": 53,
-      "readingTimeInMinutes": 0.026415094339622643,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1723034081077,
-      "modifiedDate": 1732743803972,
-      "sizeInBytes": 60,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.023333333333333334,
-        "wordCount": 7,
-        "characterCount": 60,
-        "nonWhitespaceCharacterCount": 53
-      }
-    },
-    "Gods & Heralds/Aetherion/Terathra.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 259,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.8633333333333333,
-      "characterCount": 1678,
-      "nonWhitespaceCharacterCount": 1411,
-      "readingTimeInMinutes": 0.9773584905660377,
-      "linkCount": 19,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1728679093432,
-      "modifiedDate": 1733228742518,
-      "sizeInBytes": 1680,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.8633333333333333,
-        "wordCount": 259,
-        "characterCount": 1678,
-        "nonWhitespaceCharacterCount": 1411
-      }
-    },
-    "Gods & Heralds/Aetherion/Aetherion.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 158,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5266666666666666,
-      "characterCount": 978,
-      "nonWhitespaceCharacterCount": 817,
-      "readingTimeInMinutes": 0.5962264150943396,
-      "linkCount": 10,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1728678955700,
-      "modifiedDate": 1732743796426,
-      "sizeInBytes": 978,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.5266666666666666,
-        "wordCount": 158,
-        "characterCount": 978,
-        "nonWhitespaceCharacterCount": 817
-      }
-    },
-    "Gods & Heralds/Aeloria/Aeloria.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 293,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9766666666666667,
-      "characterCount": 1893,
-      "nonWhitespaceCharacterCount": 1580,
-      "readingTimeInMinutes": 1.1056603773584905,
-      "linkCount": 18,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1710110025000,
-      "modifiedDate": 1733228742514,
-      "sizeInBytes": 1895,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.9766666666666667,
-        "wordCount": 293,
-        "characterCount": 1893,
-        "nonWhitespaceCharacterCount": 1580
-      }
-    },
-    "Forge of the Astral Blades/locations/The Elderwood.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 164,
-      "nonWhitespaceCharacterCount": 137,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714429058790,
-      "modifiedDate": 1714477503527,
-      "sizeInBytes": 164,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08666666666666667,
-        "wordCount": 26,
-        "characterCount": 164,
-        "nonWhitespaceCharacterCount": 137
-      }
-    },
-    "Forge of the Astral Blades/locations/Redspire.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 16,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 97,
-      "nonWhitespaceCharacterCount": 80,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714429113900,
-      "modifiedDate": 1714477500612,
-      "sizeInBytes": 97,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05333333333333334,
-        "wordCount": 16,
-        "characterCount": 97,
-        "nonWhitespaceCharacterCount": 80
-      }
-    },
-    "Forge of the Astral Blades/locations/Gateway Baazar/The Veiled Wares.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 67,
-      "nonWhitespaceCharacterCount": 55,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714477184222,
-      "modifiedDate": 1714477497577,
-      "sizeInBytes": 67,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.03666666666666667,
-        "wordCount": 11,
-        "characterCount": 67,
-        "nonWhitespaceCharacterCount": 55
-      }
-    },
-    "Forge of the Astral Blades/locations/Gateway Baazar/Flint's Flasks.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 19,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 114,
-      "nonWhitespaceCharacterCount": 93,
-      "readingTimeInMinutes": 0.07169811320754717,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714477220788,
-      "modifiedDate": 1714477486055,
-      "sizeInBytes": 114,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06333333333333334,
-        "wordCount": 19,
-        "characterCount": 114,
-        "nonWhitespaceCharacterCount": 93
-      }
-    },
-    "Forge of the Astral Blades/locations/Gateway Baazar/Shady Sam's.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 17,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 102,
-      "nonWhitespaceCharacterCount": 84,
-      "readingTimeInMinutes": 0.06415094339622641,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714477138841,
-      "modifiedDate": 1714477494225,
-      "sizeInBytes": 102,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.056666666666666664,
-        "wordCount": 17,
-        "characterCount": 102,
-        "nonWhitespaceCharacterCount": 84
-      }
-    },
-    "Forge of the Astral Blades/locations/Gateway Baazar/Grimbles Gear.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 13,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.043333333333333335,
-      "characterCount": 82,
-      "nonWhitespaceCharacterCount": 67,
-      "readingTimeInMinutes": 0.04905660377358491,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714477280415,
-      "modifiedDate": 1714477491242,
-      "sizeInBytes": 82,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.043333333333333335,
-        "wordCount": 13,
-        "characterCount": 82,
-        "nonWhitespaceCharacterCount": 67
-      }
-    },
-    "Forge of the Astral Blades/Valoria.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 18,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06,
-      "characterCount": 117,
-      "nonWhitespaceCharacterCount": 97,
-      "readingTimeInMinutes": 0.06792452830188679,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714429088809,
-      "modifiedDate": 1714477512712,
-      "sizeInBytes": 117,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.06,
-        "wordCount": 18,
-        "characterCount": 117,
-        "nonWhitespaceCharacterCount": 97
-      }
-    },
-    "Forge of the Astral Blades/Ascended Ones.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 24,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 163,
-      "nonWhitespaceCharacterCount": 137,
-      "readingTimeInMinutes": 0.09056603773584905,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1714428893153,
-      "modifiedDate": 1714477506394,
-      "sizeInBytes": 163,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.08,
-        "wordCount": 24,
-        "characterCount": 163,
-        "nonWhitespaceCharacterCount": 137
-      }
-    },
     "Books, Documents & Artefacts/Unnamed Book on the History of The Black Tower.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6817,31 +7163,6 @@
         "nonWhitespaceCharacterCount": 3611
       }
     },
-    "Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 946,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.1533333333333333,
-      "characterCount": 5600,
-      "nonWhitespaceCharacterCount": 4628,
-      "readingTimeInMinutes": 3.569811320754717,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1732228790114,
-      "modifiedDate": 1732661399229,
-      "sizeInBytes": 5654,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.1533333333333333,
-        "wordCount": 946,
-        "characterCount": 5600,
-        "nonWhitespaceCharacterCount": 4628
-      }
-    },
     "Books, Documents & Artefacts/The Sundering - As told by The Ashen Cult.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -6865,6 +7186,31 @@
         "wordCount": 1771,
         "characterCount": 11290,
         "nonWhitespaceCharacterCount": 9445
+      }
+    },
+    "Books, Documents & Artefacts/The Unbroken Coin - A Tale of Two Brothers.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 946,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.1533333333333333,
+      "characterCount": 5600,
+      "nonWhitespaceCharacterCount": 4628,
+      "readingTimeInMinutes": 3.569811320754717,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1732228790114,
+      "modifiedDate": 1732661399229,
+      "sizeInBytes": 5654,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 3.1533333333333333,
+        "wordCount": 946,
+        "characterCount": 5600,
+        "nonWhitespaceCharacterCount": 4628
       }
     },
     "Books, Documents & Artefacts/The Sundering - A Historical Account.md": {
@@ -6971,25 +7317,25 @@
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 35,
+      "wordCount": 43,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.11666666666666667,
-      "characterCount": 202,
-      "nonWhitespaceCharacterCount": 166,
-      "readingTimeInMinutes": 0.1320754716981132,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 257,
+      "nonWhitespaceCharacterCount": 212,
+      "readingTimeInMinutes": 0.16226415094339622,
       "linkCount": 5,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1714762549601,
-      "modifiedDate": 1729854060917,
-      "sizeInBytes": 202,
+      "modifiedDate": 1733347056442,
+      "sizeInBytes": 257,
       "sessionStart": {
         "noteCount": 1,
-        "pageCount": 0.11666666666666667,
-        "wordCount": 35,
-        "characterCount": 202,
-        "nonWhitespaceCharacterCount": 166
+        "pageCount": 0.14333333333333334,
+        "wordCount": 43,
+        "characterCount": 257,
+        "nonWhitespaceCharacterCount": 212
       }
     },
     "Books, Documents & Artefacts/Poems from the Sand Dunes.md": {
@@ -7442,6 +7788,37 @@
         "nonWhitespaceCharacterCount": 4346
       }
     },
+    "Admin/Templates/New Session.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 288,
+      "nonWhitespaceCharacterCount": 236,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1733227400251,
+      "modifiedDate": 1733349104312,
+      "sizeInBytes": 376,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.07333333333333333,
+        "wordCount": 22,
+        "characterCount": 288,
+        "nonWhitespaceCharacterCount": 236
+      },
+      "frontmatter": {
+        "Summary": null,
+        "Part": null,
+        "type": "session",
+        "sessionNum": "<% tp.user.getNewSessionNumber(tp) %>"
+      }
+    },
     "Admin/Templates/New Party Member.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -7465,31 +7842,6 @@
         "wordCount": 34,
         "characterCount": 285,
         "nonWhitespaceCharacterCount": 229
-      }
-    },
-    "Admin/Templates/New Note (Basic).md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 3,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.01,
-      "characterCount": 39,
-      "nonWhitespaceCharacterCount": 32,
-      "readingTimeInMinutes": 0.011320754716981131,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1733228767671,
-      "modifiedDate": 1733228815541,
-      "sizeInBytes": 39,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.01,
-        "wordCount": 3,
-        "characterCount": 39,
-        "nonWhitespaceCharacterCount": 32
       }
     },
     "Admin/Templates/New Nation.md": {
@@ -7540,6 +7892,56 @@
         "wordCount": 9,
         "characterCount": 58,
         "nonWhitespaceCharacterCount": 50
+      }
+    },
+    "Admin/Scripts/getThisGameNum.js": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733246265176,
+      "modifiedDate": 1733246701046,
+      "sizeInBytes": 851,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Admin/Scripts/getNewSessionNumber.js": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733247746274,
+      "modifiedDate": 1733348924206,
+      "sizeInBytes": 626,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
       }
     },
     "Admin/INFORMATION MISSING OR OUT-OF-DATE.md": {
@@ -7742,6 +8144,31 @@
         "nonWhitespaceCharacterCount": 97
       }
     },
+    "Admin/Admin Dashboard.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 193,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6433333333333333,
+      "characterCount": 1529,
+      "nonWhitespaceCharacterCount": 1278,
+      "readingTimeInMinutes": 0.7283018867924528,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1733236669170,
+      "modifiedDate": 1733435603875,
+      "sizeInBytes": 1529,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.54,
+        "wordCount": 162,
+        "characterCount": 1341,
+        "nonWhitespaceCharacterCount": 1116
+      }
+    },
     "Admin/Attachments/grom.png": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7817,6 +8244,31 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
+    "Admin/Attachments/MapTowerIcon.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1728491433517,
+      "modifiedDate": 1728491433766,
+      "sizeInBytes": 4281,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
     "Admin/Attachments/Uvam_Dynasty_Map.jpg": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7842,31 +8294,6 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Admin/Attachments/The_Dawn_Empire_Map.jpg": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1724100149476,
-      "modifiedDate": 1732660379303,
-      "sizeInBytes": 3282130,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
     "Admin/Attachments/PyramidDungeonMap.JPG": {
       "isCountable": false,
       "targetNodeType": "file",
@@ -7884,6 +8311,31 @@
       "createdDate": 1728240039000,
       "modifiedDate": 1728240039000,
       "sizeInBytes": 3117976,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Admin/Attachments/The_Dawn_Empire_Map.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1724100149476,
+      "modifiedDate": 1732660379303,
+      "sizeInBytes": 3282130,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -7984,31 +8436,6 @@
       "createdDate": 1728491321919,
       "modifiedDate": 1728491322193,
       "sizeInBytes": 13504,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Admin/Attachments/MapTowerIcon.png": {
-      "isCountable": false,
-      "targetNodeType": "file",
-      "noteCount": 0,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1728491433517,
-      "modifiedDate": 1728491433766,
-      "sizeInBytes": 4281,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8292,173 +8719,23 @@
         "nonWhitespaceCharacterCount": 0
       }
     },
-    "Admin/Homepage.md": {
+    "Admin/Templates/New Location.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 97,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3233333333333333,
-      "characterCount": 757,
-      "nonWhitespaceCharacterCount": 637,
-      "readingTimeInMinutes": 0.3660377358490566,
-      "linkCount": 7,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1733236669170,
-      "modifiedDate": 1733262962457,
-      "sizeInBytes": 757,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Other Information/Items/Alchemy Jug.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 17,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.056666666666666664,
-      "characterCount": 159,
-      "nonWhitespaceCharacterCount": 142,
-      "readingTimeInMinutes": 0.06415094339622641,
+      "pageCount": 0.01,
+      "characterCount": 40,
+      "nonWhitespaceCharacterCount": 32,
+      "readingTimeInMinutes": 0.011320754716981131,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1721598355004,
-      "modifiedDate": 1733180542214,
-      "sizeInBytes": 161,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Other Information/Items/Bag of Devouring.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 39,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 326,
-      "nonWhitespaceCharacterCount": 287,
-      "readingTimeInMinutes": 0.1471698113207547,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1721600870288,
-      "modifiedDate": 1733180542215,
-      "sizeInBytes": 328,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Other Information/Items/Clockwork Bird.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 196,
-      "nonWhitespaceCharacterCount": 173,
-      "readingTimeInMinutes": 0.0830188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1721600599880,
-      "modifiedDate": 1733180542216,
-      "sizeInBytes": 198,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Other Information/Items/Multitool.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 147,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.49,
-      "characterCount": 954,
-      "nonWhitespaceCharacterCount": 803,
-      "readingTimeInMinutes": 0.5547169811320755,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1716908313543,
-      "modifiedDate": 1733180542218,
-      "sizeInBytes": 958,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Other Information/The Party's To-Do List.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 137,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.45666666666666667,
-      "characterCount": 1036,
-      "nonWhitespaceCharacterCount": 819,
-      "readingTimeInMinutes": 0.5169811320754717,
-      "linkCount": 26,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1725627546719,
-      "modifiedDate": 1733238264727,
-      "sizeInBytes": 1036,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0
-      }
-    },
-    "Admin/Templates/New Session.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 256,
-      "nonWhitespaceCharacterCount": 206,
-      "readingTimeInMinutes": 0.0830188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1733227400251,
-      "modifiedDate": 1733263091859,
-      "sizeInBytes": 307,
+      "createdDate": 1733431721293,
+      "modifiedDate": 1733431833991,
+      "sizeInBytes": 93,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8467,38 +8744,79 @@
         "nonWhitespaceCharacterCount": 0
       },
       "frontmatter": {
-        "Summary": null,
-        "Part": null,
-        "type": "session",
-        "sessionNum": null
+        "tags": [
+          "Location",
+          "Visited"
+        ],
+        "Nation": null,
+        "town": null
       }
     },
-    "Admin/Scripts/getThisGameNum,js": {
+    "Admin/Templates/New NPC.md": {
       "isCountable": true,
       "targetNodeType": "file",
       "noteCount": 1,
-      "wordCount": 52,
+      "wordCount": 3,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.17333333333333334,
-      "characterCount": 851,
-      "nonWhitespaceCharacterCount": 605,
-      "readingTimeInMinutes": 0.19622641509433963,
+      "pageCount": 0.01,
+      "characterCount": 41,
+      "nonWhitespaceCharacterCount": 32,
+      "readingTimeInMinutes": 0.011320754716981131,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1733246265176,
-      "modifiedDate": 1733246701046,
-      "sizeInBytes": 851,
+      "createdDate": 1733228767671,
+      "modifiedDate": 1733431851760,
+      "sizeInBytes": 77,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
         "wordCount": 0,
         "characterCount": 0,
         "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": null,
+        "town": null
       }
     },
-    "Admin/Scripts/getNewSessionNumber.js": {
+    "Admin/Templates/New Important NPC.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 88,
+      "nonWhitespaceCharacterCount": 67,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1733433843836,
+      "modifiedDate": 1733433948402,
+      "sizeInBytes": 124,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": null,
+        "town": null
+      }
+    },
+    "Admin/Attachments/SteveUlan.png": {
       "isCountable": false,
       "targetNodeType": "file",
       "noteCount": 0,
@@ -8512,9 +8830,322 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1733247746274,
-      "modifiedDate": 1733247746304,
-      "sizeInBytes": 0,
+      "createdDate": 1733434249918,
+      "modifiedDate": 1733434249920,
+      "sizeInBytes": 201430,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Groups/The Hero Cult.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 224,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7466666666666667,
+      "characterCount": 1336,
+      "nonWhitespaceCharacterCount": 1101,
+      "readingTimeInMinutes": 0.8452830188679246,
+      "linkCount": 12,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1733435008629,
+      "modifiedDate": 1733436101629,
+      "sizeInBytes": 1338,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Admin/Templates/Basic Template.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 6,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.02,
+      "characterCount": 72,
+      "nonWhitespaceCharacterCount": 57,
+      "readingTimeInMinutes": 0.022641509433962263,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1733435062711,
+      "modifiedDate": 1733435079124,
+      "sizeInBytes": 72,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Admin/Attachments/AidenKnight.png": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733435896689,
+      "modifiedDate": 1733435896690,
+      "sizeInBytes": 716161,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Admin/Attachments/Corvus.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733437128045,
+      "modifiedDate": 1733437128045,
+      "sizeInBytes": 15835,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Groups/Companion.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 90,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3,
+      "characterCount": 526,
+      "nonWhitespaceCharacterCount": 427,
+      "readingTimeInMinutes": 0.33962264150943394,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1733437733080,
+      "modifiedDate": 1733438006189,
+      "sizeInBytes": 562,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": null,
+        "town": null
+      }
+    },
+    "Admin/Attachments/white_dragonborn_paladin_by_cptlande_dgxnwez-fullview.jpg": {
+      "isCountable": false,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1733438793453,
+      "modifiedDate": 1733438793453,
+      "sizeInBytes": 310783,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      }
+    },
+    "Named Characters & Beasts/Derek The Brave.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 52,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 341,
+      "nonWhitespaceCharacterCount": 277,
+      "readingTimeInMinutes": 0.19622641509433963,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714939474819,
+      "modifiedDate": 1733441174840,
+      "sizeInBytes": 406,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Dawn Empire",
+        "town": "Steelwick"
+      }
+    },
+    "Named Characters & Beasts/Serek The Quick.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 52,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 341,
+      "nonWhitespaceCharacterCount": 277,
+      "readingTimeInMinutes": 0.19622641509433963,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1714939474796,
+      "modifiedDate": 1733441200879,
+      "sizeInBytes": 406,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Dawn Empire",
+        "town": "Dawnhaven"
+      }
+    },
+    "Named Characters & Beasts/Jerek The Smooth †.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 58,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.19333333333333333,
+      "characterCount": 372,
+      "nonWhitespaceCharacterCount": 304,
+      "readingTimeInMinutes": 0.2188679245283019,
+      "linkCount": 5,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715544100073,
+      "modifiedDate": 1733441294783,
+      "sizeInBytes": 448,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "Nation": "The Dawn Empire",
+        "town": "Dawnhaven",
+        "Status": "Dead"
+      }
+    },
+    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris †.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 164,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5466666666666666,
+      "characterCount": 1019,
+      "nonWhitespaceCharacterCount": 849,
+      "readingTimeInMinutes": 0.6188679245283019,
+      "linkCount": 6,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1711046340937,
+      "modifiedDate": 1733441446348,
+      "sizeInBytes": 1126,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0
+      },
+      "frontmatter": {
+        "tags": [
+          "NPC"
+        ],
+        "type": "important",
+        "Nation": "Strixhaven",
+        "town": "Strixhaven Residential Area",
+        "Status": "Dead"
+      }
+    },
+    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Mother †.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 97,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3233333333333333,
+      "characterCount": 634,
+      "nonWhitespaceCharacterCount": 523,
+      "readingTimeInMinutes": 0.3660377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1723038526000,
+      "modifiedDate": 1733441718265,
+      "sizeInBytes": 636,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
@@ -8537,8 +9168,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": [],
-      "createdDate": 1733264150282,
-      "modifiedDate": 1733264150283,
+      "createdDate": 1733442463962,
+      "modifiedDate": 1733442463962,
       "sizeInBytes": 106,
       "sessionStart": {
         "noteCount": 0,

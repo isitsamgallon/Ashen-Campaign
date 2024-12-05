@@ -1,3 +1,8 @@
+---
+tags:
+  - TheAshenPantheon
+---
+
 The name given to the being at the centre of the world. See [[Aetherion]] for more information. When he speaks to the party, he speaks in a very archaic and poetic way.
 
 [[TOM MISSING INFORMATION]]

@@ -1,3 +1,11 @@
+---
+tags:
+  - NPC
+Nation: The Desert
+town: Ember Peak
+---
+
+### Overview
 The high priest of [[The Ashen Cult]], first mentioned in [[The Sundering - As told by The Ashen Cult]]. He was instrumental in bringing forth the first Sundering.
 
 # The Teachings of [[High Priest Lyrion]]

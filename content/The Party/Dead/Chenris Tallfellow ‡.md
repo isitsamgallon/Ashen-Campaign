@@ -1,8 +1,15 @@
+---
+type: Dead
+role: Party Member
+class: Cleric/Artificer
+Nation: Strixhaven
+town: Strixhaven Residential Area
+---
 
 ```statblock
 image: [[IMG_0309.jpg]]
 name: Chenris Tallfellow
-subtype: Eldarin (Variant), Cleric/Artificer
+subtype: Half-Eldarin, Cleric/Artificer
 alignment: Lawful Neutral
 ac: 16
 stats: [8, 10, 15, 16, 16, 8]
@@ -23,7 +30,7 @@ Chenris has a pale complexion and a long grey beard and hair. He was found weari
 Chenris' appearance soon takes on the colourful form associated with the Eladrin when he is filled with incredibly strong emotions. Generally, Winter is associated with sadness; Spring with happiness; Summer with rage and Autumn with confusion. 
 
 ### Backstory Summary
-Due to circumstances that Chenris refused to elaborate on, the Tallfellow family fell from their position of Eladrin nobility and escaped to Strixhaven for safety. He showed incredible aptitude for academics and was admitted into Strixhaven University. He soon became close to one of his professors, [[Professor Varitan Leotoris]]. 
+Due to circumstances that Chenris refused to elaborate on, the Tallfellow family fell from their position of Eladrin nobility and escaped to Strixhaven for safety. He showed incredible aptitude for academics and was admitted into Strixhaven University. He soon became close to one of his professors, [[Professor Varitan Leotoris †]]. 
 
 Later on, Leotoris was one of the stewards on a field trip to a local dungeon. Chenris begged his beloved teacher to let him tag along who eventually relented and snuck him onto the trip. This trip was designed for a much more advanced class than Chenris so it was no surprise when he accidentally activated a trap. Leotoris dove in between them and the trap at the last second, sparing Chenris but leaving the professor with lethal injuries. With his dying breath, he passed Chenris [[Leotoris' Last Problem]] and begged him to solve the problem on it. 
 
@@ -340,5 +347,5 @@ Headmaster of [[Strixhaven]], Academy of Magics
 - Chenris and Drache have a card game they always play when the rest of [[The Party]] is busy. The card game is loosely based on Blackjack but was engineered by Chenris so that he could win nearly all of the time. Sometimes Chenris lets him win so they keep playing. 
 - Chenris is known to have an absolutely horrible sense of direction. Often times [[The Party]] will say they want to go somewhere and chenris will confidently walk in the opposite direction. He often tried to play it off as he was testing them due to his pride. Mordecai has defaulted to putting some kind of lead on chenris so he can't just randomly walk in a direction.
 	- Rowan has pointed out that Chenris' lack of direction is inspired by [Zoro from One Piece ](https://onepiece.fandom.com/wiki/Roronoa_Zoro), however this isn't true. [[Sam Gallon]] forgot about that and thought it would be funny at the time. he has since made it a bit more like Zoro's directional skills.
-- [[Sam Gallon]] and [[James Absolom]] had been planning Chenris' betrayal during [[The Black Ritual]] for months before it was finally revealed to the party during [[Session 10]]. Sam also talked about it outside of the game to taunt and make sure no suspicion was on him before the reveal. 
+- [[Sam Gallon]] and [[James Absolom]] had been planning Chenris' betrayal during [[The Black Ritual]] for months before it was finally revealed to the party during [[Session Notes/Season 2 - The War for The OFC's Freedom/Session 10]]. Sam also talked about it outside of the game to taunt and make sure no suspicion was on him before the reveal. 
 - The reason why Chenris' note has a lot more time put into it is that [[Sam Gallon]] uses it as a summary of all their adventures as well to keep [[Strixhaven]] relevant in the background. 

@@ -1,60 +1,44 @@
 {
   "main": {
-    "id": "b22364c955abf9db",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "fe3add9da2172517",
+        "id": "577a234eb033551a",
         "type": "tabs",
         "children": [
           {
-            "id": "bd2ed6001227e360",
+            "id": "de2be334571df346",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Information/The Party's To Do List.md",
+                "file": "Named Characters & Beasts/Genevieve †.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "The Party's To Do List"
+              "title": "Genevieve †"
             }
           },
           {
-            "id": "deea1a9c15db926f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MISC/Display Tags/Spell Links.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Spell Links"
-            }
-          },
-          {
-            "id": "544b23ac632399aa",
+            "id": "10c297d262048084",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PCs/Dead/Kal ‡.md",
+                "file": "Admin/Admin Dashboard.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kal ‡"
+              "title": "Admin Dashboard"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +69,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "bing †",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -105,12 +89,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "227fe5fc34454519",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 307.5
   },
   "right": {
     "id": "8a89b070f138d311",
@@ -127,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Mordecai Reverence.md",
+                "file": "Admin/Admin Dashboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mordecai Reverence"
+              "title": "Backlinks for Admin Dashboard"
             }
           },
           {
@@ -159,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs/Dead/Kal ‡.md"
+                "file": "Admin/Admin Dashboard.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kal ‡"
+              "title": "Outline of Admin Dashboard"
             }
           }
         ],
@@ -179,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs/Dead/Kal ‡.md",
+                "file": "Admin/Admin Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kal ‡"
+              "title": "Outgoing links from Admin Dashboard"
             }
           }
         ]
@@ -195,135 +190,68 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "homepage:Open homepage": false,
+      "obsidian-5e-statblocks:Open Creature pane": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false,
+      "publish:Publish changes...": true,
       "random-note:Open random note": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": true,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false
     }
   },
-  "floating": {
-    "id": "b08afe003ecdae33",
-    "type": "floating",
-    "children": [
-      {
-        "id": "75b1679bdd205d89",
-        "type": "window",
-        "children": [
-          {
-            "id": "2993c9a3243d9f5b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a902cbcfb0e6887f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "PCs/Mordecai Reverence.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Mordecai Reverence"
-                }
-              },
-              {
-                "id": "fb3319f03b3f9640",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "PCs/Dead/Kal ‡.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Kal ‡"
-                }
-              },
-              {
-                "id": "b2e682cfda4eca4e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "PCs/Wurinn 'Drache' Fuuldrusch.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Wurinn 'Drache' Fuuldrusch"
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 1284,
-        "y": 34,
-        "width": 1269,
-        "height": 1399,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "544b23ac632399aa",
+  "active": "10c297d262048084",
   "lastOpenFiles": [
-    "PCs/Dead/Chenris Tallfellow ‡.md",
-    "Named Characters & Beasts/Historically Significant  Characters/Akin Netch ‡.md",
-    "Books, Documents & Artefacts/Mousebert & the Emperor's Folly.md",
-    "PCs/Dead/Kal ‡.md",
-    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Thorn.md",
-    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Sera.md",
-    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Professor Varitan Leotoris.md",
-    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Olgrik †.md",
-    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Mother.md",
-    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Emmeline.md",
-    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Arwen Gryffon.md",
-    "Locations/Goldpass Bridge.md",
-    "Locations/Iron Plains.md",
-    "Locations/Snowport.md",
-    "MISC/INFORMATION MISSING OR OUT-OF-DATE.md",
-    "MISC/Display Tags/The Ashen Book.md",
-    "MISC/TOM MISSING INFORMATION.md",
-    "History & Events/The Ancient Pillars.md",
-    "History & Events/Skyfall Ward.md",
-    "Locations/Itone.md",
-    "Named Characters & Beasts/Important Characters/Velthis.md",
-    "PCs/The Korrigan/Zephyr.md",
-    "PCs/The Korrigan/The Korrigan.md",
-    "PCs/Other Party Members/Steve Ulan.md",
-    "Locations/The Dawn Empire/Newhall.md",
-    "PCs/Other Party Members/Dragche.md",
-    "PCs/The Korrigan",
+    "Named Characters & Beasts/Genevieve †.md",
+    "Named Characters & Beasts/Grom.md",
+    "Named Characters & Beasts/Important Characters/Haldir Heleyarus.md",
+    "Named Characters & Beasts/Historically Significant  Characters/The Sundering Characters/High Priest Lyrion.md",
+    "Named Characters & Beasts/Illusion Master.md",
+    "Named Characters & Beasts/Jerek The Smooth †.md",
+    "Named Characters & Beasts/Jub.md",
+    "Named Characters & Beasts/Just Jack.md",
+    "Named Characters & Beasts/Keith Horrigan.md",
+    "Named Characters & Beasts/Khanate Hester †.md",
+    "Named Characters & Beasts/Queen Titania.md",
+    "Named Characters & Beasts/King Oberon.md",
+    "Named Characters & Beasts/Important Characters/Lady of Morak.md",
+    "Named Characters & Beasts/Lord Ulan †.md",
+    "Named Characters & Beasts/Beasts & Animals/Magic Demons.md",
+    "Named Characters & Beasts/Malin.md",
+    "Named Characters & Beasts/Beasts & Animals/Man-Eating Horse.md",
+    "Named Characters & Beasts/Beasts & Animals/Mannnnnn.md",
+    "Named Characters & Beasts/Historically Significant  Characters/Master Enel Cubus.md",
+    "Named Characters & Beasts/Mau.md",
+    "Named Characters & Beasts/Merek The Wise.md",
+    "Named Characters & Beasts/Mistrel †.md",
+    "Named Characters & Beasts/Important Characters/PC Backstory Characters/Mordecai's Mother †.md",
+    "Named Characters & Beasts/Ms. Adrei.md",
+    "Named Characters & Beasts/Historically Significant  Characters/Niaross.md",
+    "Named Characters & Beasts/Important Characters/Obeus Yelris.md",
+    "Admin/Attachments/white_dragonborn_paladin_by_cptlande_dgxnwez-fullview.jpg",
+    "Admin/Attachments/Corvus.jpg",
+    "Admin/Attachments/AidenKnight.png",
+    "Admin/Attachments/SteveUlan.png",
+    "Admin/Scripts/getThisGameNum.js",
     "sync.ffs_lock",
-    "PCs/Dead",
-    "MISC/Images/CapitalCityMarker.png",
-    "MISC/Images/Ehobel_Map.jpg",
-    "MISC/Images/Emerald_Swan.jpeg",
-    "MISC/Images/grom.png",
-    "MISC/Images/HOMUNCULUS SERVANT STATBLOCK.png",
-    "MISC/Images/IMG_0309.jpg",
-    "MISC/Images/KorriganProfilePic.png",
-    "MISC/Images/Leotoris' Note.png",
-    "MISC/Images/Map of The Amber Realms.png",
-    "MISC/Images/The_Dawn_Empire_Map.jpg",
-    "Books, Documents & Artefacts/Artefacts",
-    "Other Information",
-    "PCs/Other Party Members/Untitled",
-    "PCs/Other Party Members/Meta",
-    "Session Notes/Season 4",
-    "Locations/Feywild",
-    "Session Notes/Season 4 - Name Undecided",
+    "Admin/Scripts/getNewSessionNumber.js",
+    "Admin/Scripts/getThisGameNum,js",
+    "Admin/Scripts",
+    "Admin/Templates",
+    "The Party/Other Party Members/Meta",
+    "The Party/The Korrigan",
+    "The Party/Other Party Members",
+    "The Party/Dead",
+    "Admin/Attachments/CapitalCityMarker.png",
+    "Admin/Attachments/Ehobel_Map.jpg",
+    "Admin/Attachments/Emerald_Swan.jpeg",
+    "Admin/Attachments/grom.png",
+    "Admin/Attachments/HOMUNCULUS SERVANT STATBLOCK.png",
+    "Admin/Attachments/IMG_0309.jpg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

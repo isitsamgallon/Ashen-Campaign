@@ -1,5 +1,15 @@
-A mysterious figure [[The Party]] met in [[Caalona]] who appears to be one of the most powerful mages they have ever met. He is capable of casting wide spread illusion magic that is tailored to every person's wants and desires. He has mentioned that he has control over many different towns and cities across [[The Amber Realms]]. it is unknown what areas he has power over, however, after failing to make a deal with [[Chenris Tallfellow ‡]] he ban everyone from ever entering his domains again. 
+---
+tags:
+  - NPC
+Nation: Ehobel
+town: Caalona
+type: important
+---
 
-During their time in [[Caalona]], Chenris actually met the man, or and illusion of him, where he was offered the aforementioned deal. The mage was offering to give the whole party protection from even the Gods and their perfect lives if they would stay inside the illusion. Chenris refused and then left. 
+### Overview
+A mysterious figure [[The Party]] met in [[Caalona]] who appears to be one of the most powerful mages they have ever met. He is capable of casting widespread illusion magic that is tailored to every person's wants and desires. He has mentioned that he has control over many different towns and cities across [[The Amber Realms]]. It is unknown what areas he has power over, however, after failing to make a deal with [[Chenris Tallfellow ‡]] he banned everyone from ever entering his domains again. 
 
-It is theorised that the mage might be one of [[The Auditors]], or even a [[Herald]] of some God. his final remarks where detailing how they would probably meet again, he just hoped it wouldn't be on opposite sides of the battle field. 
+During their time in [[Caalona]], Chenris met the man, or an illusion of him, where he was offered the aforementioned deal. The mage was offering to give the whole party protection from even the Gods and their perfect lives if they would stay inside the illusion. Chenris refused and then left. 
+
+### Notable Information
+It is theorised that the mage might be one of [[The Auditors]] or even a [[Herald]] of some God. His final remarks detailed how they would probably meet again, he just hoped it wouldn't be on opposite sides of the battlefield. 

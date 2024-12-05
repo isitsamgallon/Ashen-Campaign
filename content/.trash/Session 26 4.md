@@ -1,0 +1,26 @@
+---
+Summary: 
+Part: 
+type: session
+sessionNum: tp.user.getNewSessionNumber(tp)) %>
+---
+**Session Date:** 4th Dec 2024 
+**Last Modification:** 4th Dec 2024
+**Web Vault Link:** 
+
+# Session Summary 
+
+
+# Full Session Notes
+- 
+
+
+
+
+
+
+
+
+
+# Trivia & Notes
+

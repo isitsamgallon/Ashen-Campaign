@@ -6,7 +6,7 @@ type: session
 sessionNum: "9"
 ---
 
-# Session Summery 
+# Session Summary 
 After subduing Aidan Knight and stabilizing him, the party is ambushed by a goblin mage who uses powerful ancient magic to increase gravity, incapacitating them. Chenris Tallfellow manages to dispel the magic on Korrigan, who attempts to shoot the mage but misses as the mage turns invisible. With the situation worsening and Arwen Gryffon approaching with goblins, Chenris attempts to stop the mage but fails, causing the party to black out. They awaken in Aeloria's library, where she offers to help them level up in exchange for information. They later find themselves captured and forced to mine in a goblin-controlled area, but manage to escape using a combination of deception, magic, and scouting from Korrigan's summoned bird, Zephyr. The party retrieves their gear and escapes to Steelwick, where they find the city deserted due to a trial.
 
 The next morning, after a brief altercation between Mordecai and Aidan, Drache convinces the party to save Steve Ulan, who is on trial for murder. They disguise themselves to infiltrate the courtroom, but their efforts to defend Steve result in his execution sentence. Despite the setback, they receive a note from Xekai with instructions on breaking Steve out. Meanwhile, Chenris and Korrigan explore a local library to learn more about the gods. The session ends with Xekai advising the party to seek reinforcements in Dustwood for Steelwick, opening a portal to facilitate their journey.
