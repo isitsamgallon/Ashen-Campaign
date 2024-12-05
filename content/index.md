@@ -7,6 +7,13 @@ This is a read-only version of the Ashen Campaign Vault to make it easier to fin
 I have compiled a small list of common notes people might want to read below but there is also a search function on both desktop and mobile. On the desktop, there is also an "Explorer" section which contains the full folder tree of the vault to make finding specific notes easier. 
 
 I plan to update this every month or if any major changes/ information is learned after a session. DM [[Sam Gallon]] if there are any problems.
+
+
+> [!tip] Useful Tip - Daggers
+> † denotes that this character is dead
+> ‡ denotes that the circumstances around this character's death are strange or unusual
+> 
+> We have made a point of never officially putting daggers on people unless we are outright told by James or in an official text. 
 ## Common Locations:
 ### Players:
 - [[Chenris Tallfellow ‡]] 
