@@ -70,3 +70,4 @@ I plan to update this every month or if any major changes/ information is learne
 - [[The Sundering - As told by The Ashen Cult]]
 - [[The Unbroken Coin - A Tale of Two Brothers]]
 - [[Mousebert & the Emperor's Folly]]
+- [[Diary Entry Found The Crypts of Dawnhaven]]
