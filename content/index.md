@@ -11,6 +11,7 @@ I plan to update this every month or if any major changes/ information is learne
 
 > [!tip] Useful Tip - Daggers
 > † denotes that this character is dead
+> 
 > ‡ denotes that the circumstances around this character's death are strange or unusual
 > 
 > We have made a point of never officially putting daggers on people unless we are outright told by James or in an official text. 
